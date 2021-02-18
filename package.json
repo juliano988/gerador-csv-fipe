@@ -1,0 +1,17 @@
+{
+  "name": "listarcarros",
+  "version": "1.0.0",
+  "description": "Script para listar os carros da tabela FIPE e salvar em excel",
+  "main": "ListarCarros.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Júlio Faria",
+  "license": "ISC",
+  "dependencies": {
+    "create-file": "^1.0.1",
+    "insert-line": "^1.1.0",
+    "node-fetch": "^2.6.1",
+    "write": "^2.0.0"
+  }
+}

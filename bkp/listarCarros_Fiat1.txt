@@ -1,0 +1,1065 @@
+MARCA;MODELO;ANO
+Fiat;500 ABARTH MULTIAIR 1.4 TB 16V 3p;2015 Gasolina
+Fiat;500 ABARTH MULTIAIR 1.4 TB 16V 3p;2014 Gasolina
+Fiat;Bravo WOLVERINE 1.8 Flex 16V 5p;2014 Gasolina
+Fiat;Bravo WOLVERINE 1.8 Dualogic Flex 16V 5p;2014 Gasolina
+Fiat;Cinquecento 0.7;1995 Gasolina
+Fiat;500 SPORT 1.4 16V 100cv  Dualogic;2010 Gasolina
+Fiat;500 LOUNGE 1.4 16V 100cv  Mec.;2010 Gasolina
+Fiat;Doblo Adv.Ext./Adv.Ext.Loc. 1.8 16V Flex;2016 Gasolina
+Fiat;147 C/ CL;1987 Gasolina
+Fiat;147 C/ CL;1986 Gasolina
+Fiat;147 C/ CL;1985 Gasolina
+Fiat;Bravo T-JET 1.4 16V Turbo 5p;2016 Gasolina
+Fiat;Bravo T-JET 1.4 16V Turbo 5p;2015 Gasolina
+Fiat;Bravo T-JET 1.4 16V Turbo 5p;2014 Gasolina
+Fiat;Bravo T-JET 1.4 16V Turbo 5p;2013 Gasolina
+Fiat;Bravo T-JET 1.4 16V Turbo 5p;2012 Gasolina
+Fiat;Bravo T-JET 1.4 16V Turbo 5p;2011 Gasolina
+Fiat;147 Furgão (todos);1987 Gasolina
+Fiat;147 Furgão (todos);1986 Gasolina
+Fiat;147 Furgão (todos);1985 Gasolina
+Fiat;147 Pick-Up (todas);1988 Gasolina
+Fiat;147 Pick-Up (todas);1987 Gasolina
+Fiat;147 Pick-Up (todas);1986 Gasolina
+Fiat;147 Pick-Up (todas);1985 Gasolina
+Fiat;500 Cult 1.4 Flex 8V EVO Dualogic;2015 Gasolina
+Fiat;500 Cult 1.4 Flex 8V EVO Dualogic;2014 Gasolina
+Fiat;500 Cult 1.4 Flex 8V EVO Dualogic;2013 Gasolina
+Fiat;500 Cult 1.4 Flex 8V EVO Dualogic;2012 Gasolina
+Fiat;500 Cabrio Flex 1.4 8V Mec.;2015 Gasolina
+Fiat;500 Cabrio Flex 1.4 8V Mec.;2014 Gasolina
+Fiat;ARGO DRIVE GSR 1.3 8V Flex;32000 Gasolina
+Fiat;ARGO DRIVE GSR 1.3 8V Flex;2020 Gasolina
+Fiat;ARGO DRIVE GSR 1.3 8V Flex;2019 Gasolina
+Fiat;ARGO DRIVE GSR 1.3 8V Flex;2018 Gasolina
+Fiat;500 Sport Air 1.4 16V/1.4 Flex Mec.;2014 Gasolina
+Fiat;500 Sport Air 1.4 16V/1.4 Flex Mec.;2013 Gasolina
+Fiat;500 Sport Air 1.4 16V/1.4 Flex Mec.;2012 Gasolina
+Fiat;CRONOS 1.8 16V Flex Aut. (PCD);32000 Gasolina
+Fiat;CRONOS 1.8 16V Flex Aut. (PCD);2020 Gasolina
+Fiat;Coupe 16V;1997 Gasolina
+Fiat;Coupe 16V;1996 Gasolina
+Fiat;Coupe 16V;1995 Gasolina
+Fiat;ARGO HGT 1.8 16V Flex Mec.;2019 Gasolina
+Fiat;ARGO HGT 1.8 16V Flex Mec.;2018 Gasolina
+Fiat;ARGO 1.0 6V Flex.;32000 Gasolina
+Fiat;ARGO 1.0 6V Flex.;2021 Gasolina
+Fiat;ARGO 1.0 6V Flex.;2020 Gasolina
+Fiat;ARGO 1.0 6V Flex.;2019 Gasolina
+Fiat;ARGO 1.0 6V Flex.;2018 Gasolina
+Fiat;500 SPORT 1.4 16V 100cv Mec.;2010 Gasolina
+Fiat;500 SPORT 1.4 16V 100cv Mec.;2009 Gasolina
+Fiat;500 SPORT 1.4 16V 100cv Mec.;2008 Gasolina
+Fiat;500 Cabrio/500 Coupe Gucci/Flex 1.4 Aut.;2015 Gasolina
+Fiat;500 Cabrio/500 Coupe Gucci/Flex 1.4 Aut.;2014 Gasolina
+Fiat;500 Cabrio/500 Coupe Gucci/Flex 1.4 Aut.;2013 Gasolina
+Fiat;500 Cabrio/500 Coupe Gucci/Flex 1.4 Aut.;2012 Gasolina
+Fiat;500 Cabrio Dualogic Flex 1.4 8V;2017 Gasolina
+Fiat;500 Cabrio Dualogic Flex 1.4 8V;2015 Gasolina
+Fiat;500 Cabrio Dualogic Flex 1.4 8V;2014 Gasolina
+Fiat;500 LOUNGE 1.4 16V 100cv Dualogic;2012 Gasolina
+Fiat;500 LOUNGE 1.4 16V 100cv Dualogic;2010 Gasolina
+Fiat;ARGO DRIVE 1.0 6V Flex;32000 Gasolina
+Fiat;ARGO DRIVE 1.0 6V Flex;2021 Gasolina
+Fiat;ARGO DRIVE 1.0 6V Flex;2020 Gasolina
+Fiat;ARGO DRIVE 1.0 6V Flex;2019 Gasolina
+Fiat;ARGO DRIVE 1.0 6V Flex;2018 Gasolina
+Fiat;Bravo BlackMotion 1.8 Flex 16v 5p;2016 Gasolina
+Fiat;Bravo BlackMotion 1.8 Flex 16v 5p;2015 Gasolina
+Fiat;Brava ELX  1.6 16V 4p;2003 Gasolina
+Fiat;Brava ELX  1.6 16V 4p;2002 Gasolina
+Fiat;Brava ELX  1.6 16V 4p;2001 Gasolina
+Fiat;Brava ELX  1.6 16V 4p;2000 Gasolina
+Fiat;ARGO TREKKING 1.3 8V Flex;32000 Gasolina
+Fiat;ARGO TREKKING 1.3 8V Flex;2021 Gasolina
+Fiat;ARGO TREKKING 1.3 8V Flex;2020 Gasolina
+Fiat;ARGO PRECISION 1.8 16V Flex Aut.;32000 Gasolina
+Fiat;ARGO PRECISION 1.8 16V Flex Aut.;2020 Gasolina
+Fiat;ARGO PRECISION 1.8 16V Flex Aut.;2019 Gasolina
+Fiat;ARGO PRECISION 1.8 16V Flex Aut.;2018 Gasolina
+Fiat;ARGO TREKKING 1.8 16V Flex Aut.;32000 Gasolina
+Fiat;ARGO TREKKING 1.8 16V Flex Aut.;2021 Gasolina
+Fiat;ARGO TREKKING 1.8 16V Flex Aut.;2020 Gasolina
+Fiat;Bravo ABSOLUTE Dualogic 1.8 Flex 16V 5p;2014 Gasolina
+Fiat;Bravo ABSOLUTE Dualogic 1.8 Flex 16V 5p;2013 Gasolina
+Fiat;Bravo ABSOLUTE Dualogic 1.8 Flex 16V 5p;2012 Gasolina
+Fiat;Bravo ABSOLUTE Dualogic 1.8 Flex 16V 5p;2011 Gasolina
+Fiat;Bravo SPORTING 1.8 Dualogic Flex 16V 5p;2016 Gasolina
+Fiat;Bravo SPORTING 1.8 Dualogic Flex 16V 5p;2015 Gasolina
+Fiat;Bravo SPORTING 1.8 Dualogic Flex 16V 5p;2014 Gasolina
+Fiat;Bravo SPORTING 1.8 Dualogic Flex 16V 5p;2013 Gasolina
+Fiat;Brava SX 1.6 16V 4p;2003 Gasolina
+Fiat;Brava SX 1.6 16V 4p;2002 Gasolina
+Fiat;Brava SX 1.6 16V 4p;2001 Gasolina
+Fiat;Brava SX 1.6 16V 4p;2000 Gasolina
+Fiat;ARGO PRECISION 1.8 16V Flex Mec.;2019 Gasolina
+Fiat;ARGO PRECISION 1.8 16V Flex Mec.;2018 Gasolina
+Fiat;ARGO HGT 1.8 16V Flex Aut.;32000 Gasolina
+Fiat;ARGO HGT 1.8 16V Flex Aut.;2021 Gasolina
+Fiat;ARGO HGT 1.8 16V Flex Aut.;2020 Gasolina
+Fiat;ARGO HGT 1.8 16V Flex Aut.;2019 Gasolina
+Fiat;ARGO HGT 1.8 16V Flex Aut.;2018 Gasolina
+Fiat;Brava HGT 1.8 mpi 16V  4p;2003 Gasolina
+Fiat;Brava HGT 1.8 mpi 16V  4p;2002 Gasolina
+Fiat;Brava HGT 1.8 mpi 16V  4p;2001 Gasolina
+Fiat;Brava HGT 1.8 mpi 16V  4p;2000 Gasolina
+Fiat;Bravo BlackMotion 1.8 Dualogic Flex 5p;2016 Gasolina
+Fiat;Bravo BlackMotion 1.8 Dualogic Flex 5p;2015 Gasolina
+Fiat;500 Cult 1.4 Flex 8V EVO Mec.;2017 Gasolina
+Fiat;500 Cult 1.4 Flex 8V EVO Mec.;2015 Gasolina
+Fiat;500 Cult 1.4 Flex 8V EVO Mec.;2014 Gasolina
+Fiat;500 Cult 1.4 Flex 8V EVO Mec.;2013 Gasolina
+Fiat;500 Cult 1.4 Flex 8V EVO Mec.;2012 Gasolina
+Fiat;ARGO DRIVE 1.3 8V Flex;32000 Gasolina
+Fiat;ARGO DRIVE 1.3 8V Flex;2021 Gasolina
+Fiat;ARGO DRIVE 1.3 8V Flex;2020 Gasolina
+Fiat;ARGO DRIVE 1.3 8V Flex;2019 Gasolina
+Fiat;ARGO DRIVE 1.3 8V Flex;2018 Gasolina
+Fiat;Bravo SX 1.6;1999 Gasolina
+Fiat;Bravo SX 1.6;1998 Gasolina
+Fiat;Bravo ESSENCE 1.8 Flex 16V 5p;2016 Gasolina
+Fiat;Bravo ESSENCE 1.8 Flex 16V 5p;2015 Gasolina
+Fiat;Bravo ESSENCE 1.8 Flex 16V 5p;2014 Gasolina
+Fiat;Bravo ESSENCE 1.8 Flex 16V 5p;2013 Gasolina
+Fiat;Bravo ESSENCE 1.8 Flex 16V 5p;2012 Gasolina
+Fiat;Bravo ESSENCE 1.8 Flex 16V 5p;2011 Gasolina
+Fiat;Bravo ABSOLUTE 1.8 Flex 16V 5p;2012 Gasolina
+Fiat;Bravo ABSOLUTE 1.8 Flex 16V 5p;2011 Gasolina
+Fiat;Bravo ESSENCE Dualogic 1.8 Flex 16V 5p;2016 Gasolina
+Fiat;Bravo ESSENCE Dualogic 1.8 Flex 16V 5p;2015 Gasolina
+Fiat;Bravo ESSENCE Dualogic 1.8 Flex 16V 5p;2014 Gasolina
+Fiat;Bravo ESSENCE Dualogic 1.8 Flex 16V 5p;2013 Gasolina
+Fiat;Bravo ESSENCE Dualogic 1.8 Flex 16V 5p;2012 Gasolina
+Fiat;Bravo ESSENCE Dualogic 1.8 Flex 16V 5p;2011 Gasolina
+Fiat;Bravo SPORTING 1.8 Flex 16V 5p;2016 Gasolina
+Fiat;Bravo SPORTING 1.8 Flex 16V 5p;2015 Gasolina
+Fiat;Bravo SPORTING 1.8 Flex 16V 5p;2014 Gasolina
+Fiat;Bravo SPORTING 1.8 Flex 16V 5p;2013 Gasolina
+Fiat;500 Lounge Air 1.4/ 1.4 Flex 16V Aut.;2014 Gasolina
+Fiat;500 Lounge Air 1.4/ 1.4 Flex 16V Aut.;2013 Gasolina
+Fiat;500 Lounge Air 1.4/ 1.4 Flex 16V Aut.;2012 Gasolina
+Fiat;CRONOS 1.3 8V Flex;32000 Gasolina
+Fiat;CRONOS 1.3 8V Flex;2021 Gasolina
+Fiat;CRONOS 1.3 8V Flex;2020 Gasolina
+Fiat;CRONOS 1.3 8V Flex;2019 Gasolina
+Fiat;CRONOS DRIVE 1.8 16V Flex Aut.;32000 Gasolina
+Fiat;CRONOS DRIVE 1.8 16V Flex Aut.;2021 Gasolina
+Fiat;CRONOS DRIVE 1.8 16V Flex Aut.;2020 Gasolina
+Fiat;CRONOS DRIVE 1.8 16V Flex Aut.;2019 Gasolina
+Fiat;CRONOS DRIVE GSR 1.3 8V Flex;32000 Gasolina
+Fiat;CRONOS DRIVE GSR 1.3 8V Flex;2020 Gasolina
+Fiat;CRONOS DRIVE GSR 1.3 8V Flex;2019 Gasolina
+Fiat;CRONOS DRIVE GSR 1.3 8V Flex;2018 Gasolina
+Fiat;CRONOS HGT 1.8 16V Flex Aut.;32000 Gasolina
+Fiat;CRONOS HGT 1.8 16V Flex Aut.;2021 Gasolina
+Fiat;CRONOS HGT 1.8 16V Flex Aut.;2020 Gasolina
+Fiat;Doblo  1.4 mpi Fire Flex  8V 4p;2011 Gasolina
+Fiat;Doblo  1.4 mpi Fire Flex  8V 4p;2010 Gasolina
+Fiat;CRONOS PRECISION 1.8 16V Flex Mec.;2019 Gasolina
+Fiat;CRONOS PRECISION 1.8 16V Flex Mec.;2018 Gasolina
+Fiat;CRONOS PRECISION 1.8 16V Flex Aut.;32000 Gasolina
+Fiat;CRONOS PRECISION 1.8 16V Flex Aut.;2021 Gasolina
+Fiat;CRONOS PRECISION 1.8 16V Flex Aut.;2020 Gasolina
+Fiat;CRONOS PRECISION 1.8 16V Flex Aut.;2019 Gasolina
+Fiat;CRONOS PRECISION 1.8 16V Flex Aut.;2018 Gasolina
+Fiat;Doblo  Cargo 1.4 mpi Fire Flex 8V 3p;2016 Gasolina
+Fiat;Doblo  Cargo 1.4 mpi Fire Flex 8V 3p;2015 Gasolina
+Fiat;Doblo  Cargo 1.4 mpi Fire Flex 8V 3p;2014 Gasolina
+Fiat;Doblo  Cargo 1.4 mpi Fire Flex 8V 3p;2013 Gasolina
+Fiat;Doblo  Cargo 1.4 mpi Fire Flex 8V 3p;2012 Gasolina
+Fiat;Doblo  Cargo 1.4 mpi Fire Flex 8V 3p;2011 Gasolina
+Fiat;Doblo  Cargo 1.4 mpi Fire Flex 8V 3p;2010 Gasolina
+Fiat;Doblo Adv. XINGU 1.8 Flex 16V 5p;2014 Gasolina
+Fiat;Doblo Adv. XINGU 1.8 Flex 16V 5p;2013 Gasolina
+Fiat;Doblo Adv. XINGU LOCKER 1.8 Flex 16V 5p;2014 Gasolina
+Fiat;Doblo Adv. XINGU LOCKER 1.8 Flex 16V 5p;2013 Gasolina
+Fiat;Doblo Adv/Adv TRYON/LOCKER 1.8 Flex;2020 Gasolina
+Fiat;Doblo Adv/Adv TRYON/LOCKER 1.8 Flex;2019 Gasolina
+Fiat;Doblo Adv/Adv TRYON/LOCKER 1.8 Flex;2018 Gasolina
+Fiat;Doblo Adv/Adv TRYON/LOCKER 1.8 Flex;2017 Gasolina
+Fiat;Doblo Adv/Adv TRYON/LOCKER 1.8 Flex;2016 Gasolina
+Fiat;Doblo Adv/Adv TRYON/LOCKER 1.8 Flex;2015 Gasolina
+Fiat;Doblo Adv/Adv TRYON/LOCKER 1.8 Flex;2014 Gasolina
+Fiat;Doblo Adv/Adv TRYON/LOCKER 1.8 Flex;2013 Gasolina
+Fiat;Doblo Adv/Adv TRYON/LOCKER 1.8 Flex;2012 Gasolina
+Fiat;Doblo Adv/Adv TRYON/LOCKER 1.8 Flex;2011 Gasolina
+Fiat;Doblo Adv/Adv TRYON/LOCKER 1.8 Flex;2010 Gasolina
+Fiat;Doblo Adv/Adv TRYON/LOCKER 1.8 Flex;2009 Gasolina
+Fiat;Doblo Adv/Adv TRYON/LOCKER 1.8 Flex;2008 Gasolina
+Fiat;Doblo Adv/Adv TRYON/LOCKER 1.8 Flex;2007 Gasolina
+Fiat;Doblo Adv/Adv TRYON/LOCKER 1.8 Flex;2006 Gasolina
+Fiat;500 Sport Air 1.4 16V/1.4 Flex 16V Aut.;2015 Gasolina
+Fiat;500 Sport Air 1.4 16V/1.4 Flex 16V Aut.;2014 Gasolina
+Fiat;500 Sport Air 1.4 16V/1.4 Flex 16V Aut.;2013 Gasolina
+Fiat;500 Sport Air 1.4 16V/1.4 Flex 16V Aut.;2012 Gasolina
+Fiat;Tempra Ouro/Prata 2.0 2p e 4p;ERRO
+Fiat;Tempra Ouro 16V 2p e 4p;ERRO
+Fiat;Tempra HLX 2.0 16V 4p;ERRO
+Fiat;Tempra 8V/ City 8V;ERRO
+Fiat;Tempra 2.0 mpi 16V;ERRO
+Fiat;Tempra 2.0 i.e. 8V 2p e 4p;ERRO
+Fiat;Tempra 2.0 i.e 16V 2p e 4p;ERRO
+Fiat;Strada/ Strada Working 1.5 mpi 8V CS;ERRO
+Fiat;Strada/ Strada Working 1.5 mpi 8V CE;ERRO
+Fiat;Strada Working Plus 1.4 8V Flex CS;ERRO
+Fiat;Strada Working HARD 1.4 Fire Flex 8V CS;ERRO
+Fiat;Strada Working HARD 1.4 Fire Flex 8V CE;ERRO
+Fiat;Strada Working HARD 1.4 Fire Flex 8V CD;ERRO
+Fiat;Strada Working Celeb.1.4 Fire Flex 8V CS;ERRO
+Fiat;Strada Working Celeb.1.4 Fire Flex 8V CE;ERRO
+Fiat;Strada Working Celeb.1.4 Fire Flex 8V CD;ERRO
+Fiat;Strada Working 1.8 mpi 8V 103cv CS;ERRO
+Fiat;Strada Working 1.8 mpi 8v 103cv CE;ERRO
+Fiat;Strada Working 1.6 mpi 16V CS;ERRO
+Fiat;Strada Working 1.6 mpi 16V CE;ERRO
+Fiat;Strada Working 1.4 mpi Fire Flex 8V CE;ERRO
+Fiat;Strada Working 1.4 mpi Fire Flex 8V CS;ERRO
+Fiat;Strada Working 1.4 mpi Fire Flex 8V CD;ERRO
+Fiat;Strada Volcano 1.3 Flex 8V CD;ERRO
+Fiat;Strada Trekking 1.8 mpi Flex 8V CS;ERRO
+Fiat;Strada Trekking 1.8 mpi Flex 8V CE;ERRO
+Fiat;Strada Trekking 1.6 mpi;ERRO
+Fiat;Strada Trekking 1.6 16V LOCKER Flex  CD;ERRO
+Fiat;Strada Trekking 1.6 16V Flex CS;ERRO
+Fiat;Strada Trekking 1.6 16V Flex CE;ERRO
+Fiat;Strada Trekking 1.6 16V Flex CD;ERRO
+Fiat;Strada Trekking 1.4 mpi Fire Flex 8V CS;ERRO
+Fiat;Strada Trekking 1.4 mpi Fire Flex 8V CE;ERRO
+Fiat;Strada Trek. M. March. 1.6 Flex 16V CE;ERRO
+Fiat;Strada Sporting 1.8 Flex 16V CE;ERRO
+Fiat;Strada Opening Edition 1.3 Flex 8V CD;ERRO
+Fiat;Strada LX 1.6 mpi 16V;ERRO
+Fiat;Strada LX 1.6 16V CE;ERRO
+Fiat;Strada Freedom 1.4 Flex 8V CS;ERRO
+Fiat;Strada Freedom 1.4 Flex 8V CD;ERRO
+Fiat;Strada Freedom 1.3 Flex 8V CD;ERRO
+Fiat;Strada Freedom 1.3 Flex 8V  CS Plus;ERRO
+Fiat;Strada Endurance 1.4 Flex 8V CS Plus;ERRO
+Fiat;Strada Celeb. 1.4 mpi Fire Flex 8V CE;ERRO
+Fiat;Strada Endurance 1.4 Flex 8V CD;ERRO
+Fiat;Strada Celeb. 1.4 mpi Fire Flex 8V CS;ERRO
+Fiat;Strada Adventure1.8/ 1.8 LOCKER Flex CD;ERRO
+Fiat;Strada Adventure Ext. 1.8  Dual. Flex CD;ERRO
+Fiat;Strada Adventure 1.8/ 1.8 LOCKER Flex CE;ERRO
+Fiat;Strada Adventure 1.8 mpi 8V 103cv CE;ERRO
+Fiat;Strada Adventure 1.6 mpi 16V CE;ERRO
+Fiat;Strada Adv/Adv TRYON 1.8 mpi Flex 8V CE;ERRO
+Fiat;Strada Adv.Ext./ Ext. 1.8 LOCKER Flex CD;ERRO
+Fiat;Strada Adv.Ext. 1.8 LOCKER Dual. Flex CD;ERRO
+Fiat;Strada Adv.1.8 16V LOCKER Dualo. Flex CD;ERRO
+Fiat;Strada Adv.1.8 16V Dualogic Flex CE;ERRO
+Fiat;Strada Adv.1.8 16V Dualogic Flex CD;ERRO
+Fiat;Strada Adv.1.8 16V  LOCKER Dual. Flex CE;ERRO
+Fiat;Strada Adv. M. March.1.8 Dual. Flex CD;ERRO
+Fiat;Strada Adv. Extreme 1.8 Dual. Flex CE;ERRO
+Fiat;Strada Adv. M. March. 1.8 Flex 16V CD;ERRO
+Fiat;Strada Adv. Ext./ Ext.1.8 LOCKER Flex CE;ERRO
+Fiat;Strada Adv. Ext. 1.8 LOCKER Dual.Flex CE;ERRO
+Fiat;Strada 1.4 mpi Fire Flex 8V CS;ERRO
+Fiat;Strada 1.4 mpi Fire Flex 8V CE;ERRO
+Fiat;Strada 1.3 mpi Fire 8V 67cv CS;ERRO
+Fiat;Strada 1.3 mpi Fire 8V 67cv CE;ERRO
+Fiat;Stilo Duologic 1.8 ATTRACTIVE Flex 8V 5p;ERRO
+Fiat;Stilo Dualogic 1.8 Sporting Flex 8V 5p;ERRO
+Fiat;Stilo Dualogic 1.8 SP Flex 8V 5p;ERRO
+Fiat;Stilo Dualogic 1.8 Flex 8V 5p;ERRO
+Fiat;Stilo Dualogic 1.8 BlackMotion Flex 8V;ERRO
+Fiat;Stilo 2.4 Abarth 20V 167cv 5p;ERRO
+Fiat;Stilo 1.8/ 1.8 SP/ Connect 16V 122cv 5p;ERRO
+Fiat;Stilo 1.8/ 1.8 Connect Flex 8V 5p;ERRO
+Fiat;Stilo 1.8/ 1.8 Connect 8V 103cv 5p;ERRO
+Fiat;Stilo 1.8 Sporting Flex 8V 5P;ERRO
+Fiat;Stilo 1.8 SP Flex 8V 5p;ERRO
+Fiat;Stilo 1.8 MS Lim.Edit./ MS Season 16V;ERRO
+Fiat;Stilo 1.8 ATTRACTIVE Flex 8V 5p;ERRO
+Fiat;Siena TETRAFUEL 1.4 mpi Fire Flex 8v 4p;ERRO
+Fiat;Siena Stile/Sport MTV 1.6 mpi 16V;ERRO
+Fiat;Siena Sporting Dualogic 1.6 Flex 16V 4p;ERRO
+Fiat;Siena Sporting 1.6 Flex 16V 4p;ERRO
+Fiat;Siena HLX Dualogic 1.8 mpi Flex 8V 4p;ERRO
+Fiat;Siena HLX 1.8 mpi Flex 8V 4p;ERRO
+Fiat;Siena HL 1.6 mpi 16V;ERRO
+Fiat;Siena EX 1.8 mpi 8V 103cv 4p;ERRO
+Fiat;Siena EX 1.3 mpi Fire 8V 67cv 4p;ERRO
+Fiat;Siena EX 1.0 mpi Fire 16v 4p;ERRO
+Fiat;Siena ESSENCE Dualogic 1.6 Flex 16V 4p;ERRO
+Fiat;Siena ESSENCE 1.6 Flex 16V 4p;ERRO
+Fiat;Siena ELX 1.8 mpi 8V 103cv 4p;ERRO
+Fiat;Siena ELX 1.6 mpi 8V/16V 4p;ERRO
+Fiat;Siena ELX 1.5 mpi 4p;ERRO
+Fiat;Siena ELX 1.4 mpi Fire Flex 8V 4p;ERRO
+Fiat;Siena ELX 1.3 mpi Flex 8V 4p;ERRO
+Fiat;Siena ELX 1.3 mpi Fire 16V 4p;ERRO
+Fiat;Siena ELX 1.0 mpi Fire/Fire Flex 8V 4p;ERRO
+Fiat;Siena ELX 1.0 mpi Fire 16v 4p (25 anos);ERRO
+Fiat;Siena EL Celeb. 1.4 mpi Fire Flex 8V 4p;ERRO
+Fiat;Siena EL Celeb. 1.0 mpi Fire Flex 8V 4p;ERRO
+Fiat;Siena EL 1.6 spi;ERRO
+Fiat;Siena EL 1.6 mpi 16V;ERRO
+Fiat;Siena EL 1.4 mpi Fire Flex 8V 4p;ERRO
+Fiat;Siena EL 1.0 mpi Fire Flex 8V 4p;ERRO
+Fiat;Siena City 4p;ERRO
+Fiat;Siena Celebration 1.0 Fire Flex 8V 4p;ERRO
+Fiat;Siena ATTRACTIVE 1.4 Fire Flex 8V 4p;ERRO
+Fiat;Siena ATTRACTIVE 1.0 Fire Flex 8V 4p;ERRO
+Fiat;Siena 1.5 mpi 8V 4p;ERRO
+Fiat;Siena 1.0/ EX 1.0 mpi Fire/ Fire Flex 8v;ERRO
+Fiat;Siena 1.0 mpi/ 500 1.0 mpi;ERRO
+Fiat;Punto T-JET 1.4 16V Turbo 5p;ERRO
+Fiat;Punto Sporting Dualogic 1.8 Flex 16V 5p;ERRO
+Fiat;Punto SX;ERRO
+Fiat;Punto Sporting 1.8 Flex 8V/16V 5p;ERRO
+Fiat;Punto S;ERRO
+Fiat;Punto HLX 1.8 Flex 8V 5p;ERRO
+Fiat;Punto ESSENCE SP Dualogic 1.6 Flex 16V;ERRO
+Fiat;Punto ESSENCE SP 1.6 Flex 16V 5p;ERRO
+Fiat;Punto ESSENCE Dualogic 1.8 Flex 16V 5p;ERRO
+Fiat;Punto ESSENCE Dualogic 1.6 Flex 16V 5p;ERRO
+Fiat;Punto ESSENCE 1.8 Flex 16V 5p;ERRO
+Fiat;Punto ESSENCE 1.6 Flex 16V 5p;ERRO
+Fiat;Punto EL/ELX;ERRO
+Fiat;Punto Cabrio;ERRO
+Fiat;Punto BLACKMOTION Dual. 1.8 Flex 16v 5p;ERRO
+Fiat;Punto BLACKMOTION 1.8 Flex 16V 5p.;ERRO
+Fiat;Punto ATTRACTIVE ITALIA 1.4 F.Flex 8V 5p;ERRO
+Fiat;Punto ATTRACTIVE 1.4 Fire Flex 8V 5p;ERRO
+Fiat;Punto 1.4 Fire Flex 8V 5p;ERRO
+Fiat;Punto  ELX 1.4 Fire Flex 8V 5p;ERRO
+Fiat;Premio S 1.5 i.e./ 1.5 / 1.3;ERRO
+Fiat;Premio CSL 1.6/ 1.5;ERRO
+Fiat;Premio CSL 1.6 i.e./ 1.5 4p;ERRO
+Fiat;Premio CS 1.6/ 1.5/ 1.3 2p;ERRO
+Fiat;Premio CS 1.5 i.e. 2p/ SL 1.6/1.5/1.3 4p;ERRO
+Fiat;Panorama C/CL;ERRO
+Fiat;Palio Young 1.0 mpi Fire 8V 4p;ERRO
+Fiat;Palio Young 1.0 mpi Fire 8V 2p;ERRO
+Fiat;Palio Young 1.0 mpi 8v 4p;ERRO
+Fiat;Palio Young 1.0 mpi 8v 2p;ERRO
+Fiat;Palio Weekend Trekking 1.8 mpi Flex 8V;ERRO
+Fiat;Palio Weekend Trekking 1.6 Flex 16V 5p;ERRO
+Fiat;Palio Weekend Trekking 1.4 Fire Flex 8V;ERRO
+Fiat;Palio Weekend Stile 1.8 mpi 8V 103cv 4p;ERRO
+Fiat;Palio Weekend Stile 1.6 mpi 16V 4p;ERRO
+Fiat;Palio Weekend Sport 1.6 mpi 16V 4p;ERRO
+Fiat;Palio Weekend HLX 1.8 mpi Flex 4p;ERRO
+Fiat;Palio Weekend EX 1.8 mpi 8V 103cv 4p;ERRO
+Fiat;Palio Weekend EX 1.5 mpi;ERRO
+Fiat;Palio Weekend EX 1.3 mpi Fire 8V 67cv 4p;ERRO
+Fiat;Palio Weekend ELX 1.6 mpi;ERRO
+Fiat;Palio Weekend ELX 1.5 mpi 4p;ERRO
+Fiat;Palio Weekend ELX 1.4 mpi Fire Flex 8V;ERRO
+Fiat;Palio Weekend ELX 1.3 mpi Flex 8V 4p;ERRO
+Fiat;Palio Weekend ELX 1.3 mpi  Fire 16V;ERRO
+Fiat;Palio Weekend ELX 1.0 mpi Fire 16V;ERRO
+Fiat;Palio Weekend City 1.5/ 1.6 4p;ERRO
+Fiat;Palio Weekend Adventure LOCKER 1.8 Flex;ERRO
+Fiat;Palio Weekend Adventure 1.8 8V 103cv 4p;ERRO
+Fiat;Palio Weekend Adventure 1.6 8V/16V;ERRO
+Fiat;Palio Weekend Adv. LOCKER Ext. 1.8 Flex;ERRO
+Fiat;Palio Weekend Adv. Loc.Ext.1.8 Dual.Flex;ERRO
+Fiat;Palio Weekend Adv. Ext. 1.8 Flex;ERRO
+Fiat;Palio Weekend Adv. Ext. 1.8 Dual. Flex;ERRO
+Fiat;Palio Weekend 1.6 mpi 16V 4p;ERRO
+Fiat;Palio Weekend 1.5 mpi 4p;ERRO
+Fiat;Palio Weekend 1.0 6-marchas;ERRO
+Fiat;Palio Week.Adv.LOCK.Dualogic 1.8 Flex;ERRO
+Fiat;Palio Week.Adv. ITAL. Dual. 1.8 Flex 16V;ERRO
+Fiat;Palio Week. ATTRACTIVE 1.4 Fire Flex 8V;ERRO
+Fiat;Palio Week. Adv/Adv TRYON 1.8 mpi Flex;ERRO
+Fiat;Palio Week. Adv. ITALIA 1.8 Flex 16V;ERRO
+Fiat;Palio Week. Adv. Dualogic 1.8 Flex;ERRO
+Fiat;Palio Way Celebration 1.0 F. Flex 8V 5p;ERRO
+Fiat;Palio Way 1.0 Fire Flex 8V 5p;ERRO
+Fiat;Palio W.ADV. LOCK. ITALIA 1.8 Flex 16V;ERRO
+Fiat;Palio W.Adv. LOC. ITAL.Dual.1.8 Flex 16V;ERRO
+Fiat;Palio Stile 1.6 mpi 16v 4p;ERRO
+Fiat;Palio SPORTING Dualogic 1.6 Flex 16V 5p;ERRO
+Fiat;Palio SPORTING Dual. B.Edit. 1.6 Flex 5p;ERRO
+Fiat;Palio SPORTING B.Edit. 1.6 Flex 16V 5p;ERRO
+Fiat;Palio SPORTING 1.6 Flex 16V 5p;ERRO
+Fiat;Palio SPORT.INTERLAGOS Dual.1.6 Flex 16V;ERRO
+Fiat;Palio SPORT.INTERLAGOS 1.6 Flex 16V;ERRO
+Fiat;Palio Rua 1.0 Fire Flex 8V 5p;ERRO
+Fiat;Palio HLX 1.8 mpi Flex 8V 4p;ERRO
+Fiat;Palio HLX 1.8 mpi 8V 103cv 4p;ERRO
+Fiat;Palio EX Century 1.0 mpi Fire 16v 4p;ERRO
+Fiat;Palio EX Century 1.0 mpi Fire 16v 2p;ERRO
+Fiat;Palio EX 1.8 mpi 8V 103cv 4p;ERRO
+Fiat;Palio EX 1.3 mpi Fire 8V 67cv 4p;ERRO
+Fiat;Palio EX 1.3 mpi Fire 8V 67cv 2p;ERRO
+Fiat;Palio EX 1.0 mpi Fire/ Fire Flex 8v 2p;ERRO
+Fiat;Palio EX 1.0 mpi Fire 8v 4p;ERRO
+Fiat;Palio EX 1.0 mpi 4p;ERRO
+Fiat;Palio EX 1.0 mpi 2p;ERRO
+Fiat;Palio ESSENCE Dualogic 1.6 Flex 16V 5p;ERRO
+Fiat;Palio ESSENCE 1.6 Flex 16V 5p;ERRO
+Fiat;Palio ELX Dualogic 1.8 mpi Flex 8V 4p;ERRO
+Fiat;Palio ELX/ 500 1.0 4p;ERRO
+Fiat;Palio ELX 1.8/ 1.8 mpi Flex 8V 4p;ERRO
+Fiat;Palio ELX 1.6 mpi 16v 4p;ERRO
+Fiat;Palio ELX 1.6 4p;ERRO
+Fiat;Palio ELX 1.5 4p;ERRO
+Fiat;Palio ELX 1.4 Fire/30 anos F. Flex 8V 4p;ERRO
+Fiat;Palio ELX 1.3 mpi Flex 8V 4p;ERRO
+Fiat;Palio ELX 1.0/ 1.0 Fire Flex 8V 2p;ERRO
+Fiat;Palio ELX 1.3 mpi  Fire 16V 4p;ERRO
+Fiat;Palio ELX 1.0 mpi Fire 16v 4p (25 anos);ERRO
+Fiat;Palio ELX 1.0 Fire/30 anos F. Flex 8V 4p;ERRO
+Fiat;Palio EL 1.6 spi 2p e 4p;ERRO
+Fiat;Palio EL 1.5 mpi 2p e 4p;ERRO
+Fiat;Palio EDX 1.0 mpi 4p;ERRO
+Fiat;Palio EDX 1.0 mpi 2p;ERRO
+Fiat;Palio ED 1.0 mpi 2p e 4p;ERRO
+Fiat;Palio CityMatic 1.0 mpi;ERRO
+Fiat;Palio City 1.5/1.6 4p;ERRO
+Fiat;Palio Celebration 1.0 Fire Flex 8V 4p;ERRO
+Fiat;Palio Celebration 1.0 Fire Flex 8V 2p;ERRO
+Fiat;Palio ATTRA./ITÁLIA 1.4 EVO F.Flex 8V 5p;ERRO
+Fiat;Palio ATTRA. Best Seller 1.4 EVO Flex 5p;ERRO
+Fiat;Palio ATTRA. Best Seller 1.0 EVO Flex 5p;ERRO
+Fiat;Palio 1.8R mpi Flex 8V 2p;ERRO
+Fiat;Palio 1.6 mpi 16V 2p;ERRO
+Fiat;Palio 1.5 mpi 8V 4p;ERRO
+Fiat;CRONOS DRIVE 1.3 8V Flex;ERRO
+Fiat;Doblo Adventure/ Adv.ER 1.8 mpi 8V 103cv;2006 Gasolina
+Fiat;Doblo Adventure/ Adv.ER 1.8 mpi 8V 103cv;2005 Gasolina
+Fiat;Doblo Adventure/ Adv.ER 1.8 mpi 8V 103cv;2004 Gasolina
+Fiat;Doblo ATTRACTIVE 1.4 Fire Flex 8V 5p;2016 Gasolina
+Fiat;Doblo ATTRACTIVE 1.4 Fire Flex 8V 5p;2015 Gasolina
+Fiat;Doblo ATTRACTIVE 1.4 Fire Flex 8V 5p;2014 Gasolina
+Fiat;Doblo ATTRACTIVE 1.4 Fire Flex 8V 5p;2013 Gasolina
+Fiat;Doblo ATTRACTIVE 1.4 Fire Flex 8V 5p;2012 Gasolina
+Fiat;Doblo Cargo 1.3 Fire 16V 4/5p;2006 Gasolina
+Fiat;Doblo Cargo 1.3 Fire 16V 4/5p;2005 Gasolina
+Fiat;Doblo Cargo 1.3 Fire 16V 4/5p;2004 Gasolina
+Fiat;Doblo Cargo 1.3 Fire 16V 4/5p;2003 Gasolina
+Fiat;Doblo Cargo 1.3 Fire 16V 4/5p;2002 Gasolina
+Fiat;Doblo Cargo 1.6 16V 4/5p;2003 Gasolina
+Fiat;Doblo Cargo 1.6 16V 4/5p;2002 Gasolina
+Fiat;Doblo Cargo 1.8 mpi 8V 103cv;2006 Gasolina
+Fiat;Doblo Cargo 1.8 mpi 8V 103cv;2005 Gasolina
+Fiat;Doblo Cargo 1.8 mpi 8V 103cv;2004 Gasolina
+Fiat;Doblo Cargo 1.8 mpi Fire Flex 8V/16V 4p;32000 Gasolina
+Fiat;Doblo Cargo 1.8 mpi Fire Flex 8V/16V 4p;2021 Gasolina
+Fiat;Doblo Cargo 1.8 mpi Fire Flex 8V/16V 4p;2016 Gasolina
+Fiat;Doblo Cargo 1.8 mpi Fire Flex 8V/16V 4p;2015 Gasolina
+Fiat;Doblo Cargo 1.8 mpi Fire Flex 8V/16V 4p;2014 Gasolina
+Fiat;Doblo Cargo 1.8 mpi Fire Flex 8V/16V 4p;2013 Gasolina
+Fiat;Doblo Cargo 1.8 mpi Fire Flex 8V/16V 4p;2012 Gasolina
+Fiat;Doblo Cargo 1.8 mpi Fire Flex 8V/16V 4p;2011 Gasolina
+Fiat;Doblo Cargo 1.8 mpi Fire Flex 8V/16V 4p;2010 Gasolina
+Fiat;Doblo Cargo 1.8 mpi Fire Flex 8V/16V 4p;2009 Gasolina
+Fiat;Doblo Cargo 1.8 mpi Fire Flex 8V/16V 4p;2008 Gasolina
+Fiat;Doblo Cargo 1.8 mpi Fire Flex 8V/16V 4p;2007 Gasolina
+Fiat;Doblo Cargo 1.8 mpi Fire Flex 8V/16V 4p;2006 Gasolina
+Fiat;Doblo ELX 1.4 mpi Fire Flex 8V 4p;2011 Gasolina
+Fiat;Doblo ELX 1.4 mpi Fire Flex 8V 4p;2010 Gasolina
+Fiat;Doblo ELX 1.6 16V 4/5p;2003 Gasolina
+Fiat;Doblo ELX 1.6 16V 4/5p;2002 Gasolina
+Fiat;Doblo ELX 1.8 mpi 8V 103cv;2006 Gasolina
+Fiat;Doblo ELX 1.8 mpi 8V 103cv;2005 Gasolina
+Fiat;Doblo ELX 1.8 mpi 8V 103cv;2004 Gasolina
+Fiat;Doblo ELX 1.8 mpi 8V Flex;2010 Gasolina
+Fiat;Doblo ELX 1.8 mpi 8V Flex;2009 Gasolina
+Fiat;Doblo ELX 1.8 mpi 8V Flex;2008 Gasolina
+Fiat;Doblo ELX 1.8 mpi 8V Flex;2007 Gasolina
+Fiat;Doblo ELX 1.8 mpi 8V Flex;2006 Gasolina
+Fiat;Doblo ESSENCE 1.8 Flex 16V 5p;32000 Gasolina
+Fiat;Doblo ESSENCE 1.8 Flex 16V 5p;2021 Gasolina
+Fiat;Doblo ESSENCE 1.8 Flex 16V 5p;2020 Gasolina
+Fiat;Doblo ESSENCE 1.8 Flex 16V 5p;2019 Gasolina
+Fiat;Doblo ESSENCE 1.8 Flex 16V 5p;2018 Gasolina
+Fiat;Doblo ESSENCE 1.8 Flex 16V 5p;2017 Gasolina
+Fiat;Doblo ESSENCE 1.8 Flex 16V 5p;2016 Gasolina
+Fiat;Doblo ESSENCE 1.8 Flex 16V 5p;2015 Gasolina
+Fiat;Doblo ESSENCE 1.8 Flex 16V 5p;2014 Gasolina
+Fiat;Doblo ESSENCE 1.8 Flex 16V 5p;2013 Gasolina
+Fiat;Doblo ESSENCE 1.8 Flex 16V 5p;2012 Gasolina
+Fiat;Ducato Cargo 2.8 Curto/Longo TB Diesel;2009 Diesel
+Fiat;Ducato Cargo 2.8 Curto/Longo TB Diesel;2008 Diesel
+Fiat;Ducato Cargo 2.8 Curto/Longo TB Diesel;2007 Diesel
+Fiat;Ducato Cargo 2.8 Curto/Longo TB Diesel;2006 Diesel
+Fiat;Ducato Cargo 2.8 Curto/Longo TB Diesel;2005 Diesel
+Fiat;Ducato Cargo 2.8 Curto/Longo TB Diesel;2004 Diesel
+Fiat;Ducato Cargo 2.8 Curto/Longo TB Diesel;2003 Diesel
+Fiat;Doblo EX 1.3 Fire 16V 80cv 4/5p;2006 Gasolina
+Fiat;Doblo EX 1.3 Fire 16V 80cv 4/5p;2005 Gasolina
+Fiat;Doblo EX 1.3 Fire 16V 80cv 4/5p;2004 Gasolina
+Fiat;Doblo EX 1.3 Fire 16V 80cv 4/5p;2003 Gasolina
+Fiat;Doblo EX 1.3 Fire 16V 80cv 4/5p;2002 Gasolina
+Fiat;Doblo HLX 1.8 mpi Flex 5p;2011 Gasolina
+Fiat;Doblo HLX 1.8 mpi Flex 5p;2010 Gasolina
+Fiat;Doblo HLX 1.8 mpi Flex 5p;2009 Gasolina
+Fiat;Doblo HLX 1.8 mpi Flex 5p;2008 Gasolina
+Fiat;Doblo HLX 1.8 mpi Flex 5p;2007 Gasolina
+Fiat;Ducato Cargo Médio 2.3 16V Diesel;ERRO
+Fiat;Ducato Maxi. Curta 2.3 T.Alto ME Diesel;ERRO
+Fiat;Ducato Minibus 2.3 16V Diesel;ERRO
+Fiat;Ducato Cargo Curto 2.3 ME Diesel;ERRO
+Fiat;Ducato Chassi 2.3 16V Diesel;ERRO
+Fiat;Ducato Combinato 2.3 ME Diesel;ERRO
+Fiat;Ducato MaxiMulti 2.3 16V Diesel;ERRO
+Fiat;Ducato Cargo Longo 2.3 ME Diesel;ERRO
+Fiat;Ducato Executivo 2.3 16V Diesel;ERRO
+Fiat;Ducato-15 Furgão 2.8 Diesel;ERRO
+Fiat;Ducato Van 2.5  Diesel;ERRO
+Fiat;Ducato MaxiCargo/Furgão Maxi 2.8 TB Dies;ERRO
+Fiat;Fiorino Furgão EVO 1.4 Flex 8V 2p;ERRO
+Fiat;Ducato Minibus 2.3 ME Diesel;ERRO
+Fiat;Fiorino Furgão Celeb. EVO 1.4 Flex 8V 2p;ERRO
+Fiat;Fiorino Pick-Up LX (todas);ERRO
+Fiat;Idea Adv.Ext./Adv.Ext. Loc. 1.8 Flex 5p;ERRO
+Fiat;Ducato Maxi. Long. 2.3 T.Alto ME Diesel;ERRO
+Fiat;Fiorino Endurance EVO 1.4 Flex 8V 2p;ERRO
+Fiat;Idea ELX 1.4 mpi Fire Flex 8V 5p;ERRO
+Fiat;Elba S 1.6/ 1.5ie / 1.5 / 1.3;ERRO
+Fiat;Elba Weekend 1.5 i.e. 2p e 4p;ERRO
+Fiat;Idea SPORTING 1.8 Flex 16V 5p;ERRO
+Fiat;Ducato Vip Bus 2.3 16V Diesel;ERRO
+Fiat;Grand Siena ESSEN.SUBLIME Dual. 1.6 Flex;ERRO
+Fiat;Idea ELX 1.8 mpi Flex 8V 5p;ERRO
+Fiat;Idea ESSENCE Dualogic 1.6 Flex 16V 5p;ERRO
+Fiat;Fiorino Pick-Up 1.5 i.e./1.3/1.5/HD;ERRO
+Fiat;Grand Siena ESSENCE Dual. 1.6 Flex 16V;ERRO
+Fiat;FREEMONT EMOT./PRECISION 2.4 16V 5p Aut.;ERRO
+Fiat;Ducato MaxiCargo 2.3 16V Diesel;ERRO
+Fiat;Grand Siena ESSEN.SUBLIME 1.6 Flex;ERRO
+Fiat;Ducato Minibus 2.3 T.Alto ME Diesel;ERRO
+Fiat;Ducato-10 Furgão 2.5 Diesel;ERRO
+Fiat;Marea SX 1.6 mpi 16V 106cv 4p;ERRO
+Fiat;Elba 1.6i.e/Top/CSL/ 1.6i.e/1.5 2p e 4p;ERRO
+Fiat;Grand Siena ESSEN. ITALIA Dual. 1.6 Flex;ERRO
+Fiat;Idea HLX 1.8 mpi Flex 8V 5p;ERRO
+Fiat;Fiorino Pick-Up 1.0;ERRO
+Fiat;LINEA ABSOLUTE 1.9/1.8 Flex Dualogic 4p;ERRO
+Fiat;Ducato Combinato 2.8 Turbo Diesel;ERRO
+Fiat;Ducato Furgão Maxi 2.8 Diesel;ERRO
+Fiat;Idea ESSENCE SUBLIME 1.6 Flex 16V 5p;ERRO
+Fiat;Grand Siena ATTRACTIVE 1.0 Flex 8V 4p;ERRO
+Fiat;Ducato Mult/ Vetrato 2.8 T.Alto TB Dies.;ERRO
+Fiat;Fiorino Furgão 1.5 mpi / i.e.;ERRO
+Fiat;Fiorino Pick-Up Trekking 1.5 mpi / i.e.;ERRO
+Fiat;Idea A.Ext./A..Ext.Loc.Dual. 1.8 Flex 5p;ERRO
+Fiat;Fiorino Furgão 1.0;ERRO
+Fiat;Ducato Minibus Comfort 2.3 16v Diesel;ERRO
+Fiat;Fiorino Pick-Up Working 1.5 mpi / i.e.;ERRO
+Fiat;Ducato Multi 2.3 16V Diesel;ERRO
+Fiat;Ducato-15 2.8 Furgão TB Diesel;ERRO
+Fiat;Fiorino Furg.1.5/1.3/1.3 Fire/1.3 F.Flex;ERRO
+Fiat;Grand Siena 1.0 EVO Flex 8V 4p;ERRO
+Fiat;Ducato Mult/ Vetrato 2.8 T.Baixo TB Dies;ERRO
+Fiat;Idea ESSENCE 1.6 Flex 16V 5p;ERRO
+Fiat;Idea Advent./ Adv.LOCKER 1.8 mpi Flex 5p;ERRO
+Fiat;Duna 1.6ie;ERRO
+Fiat;Ducato Minibus 2.8 Turbo Diesel;ERRO
+Fiat;Idea ATTRACTIVE 1.4 Fire Flex 8V 5p;ERRO
+Fiat;Ducato Multi Long. 2.3 T.Alto ME Diesel;ERRO
+Fiat;Grand Siena TETRAFUEL 1.4 Evo F. Flex 8V;ERRO
+Fiat;Grand Siena 1.4 EVO Flex 8V 4p;ERRO
+Fiat;Tempra SW SLX 2.0 i.e.;ERRO
+Fiat;Idea Adv./ Adv.LOCK.Dualogic 1.8 Flex 5p;ERRO
+Fiat;Ducato-8 Furgão 2.5 Diesel;ERRO
+Fiat;Elba CS 1.6 / 1.5 /1.3;ERRO
+Fiat;Tempra Stile 2.0 i.e. Turbo 4p;ERRO
+Fiat;Grand Siena ATTRAC. 1.4 EVO F.Flex 8V;ERRO
+Fiat;Fiorino Working 1.4 Flex 8V 2p;ERRO
+Fiat;Grand Siena ESSENCE 1.6 Flex 16V;ERRO
+Fiat;Ducato Minibus 2.8 Diesel;ERRO
+Fiat;Grand Siena ESSENCE ITALIA 1.6 Flex 16V;ERRO
+Fiat;Ducato Cargo Curto 2.3 16V Diesel;32000 Diesel
+Fiat;Ducato Cargo Curto 2.3 16V Diesel;2021 Diesel
+Fiat;Ducato Cargo Curto 2.3 16V Diesel;2020 Diesel
+Fiat;Ducato Cargo Curto 2.3 16V Diesel;2019 Diesel
+Fiat;Ducato Cargo Curto 2.3 16V Diesel;2018 Diesel
+Fiat;Palio City 1.0 4p;2000 Gasolina
+Fiat;Palio City 1.0 4p;1999 Gasolina
+Fiat;UNO ATTRACTIVE 1.0 Flex 6V 5p;2017 Gasolina
+Fiat;UNO SPORT. Dual. 1.4 B.Edit. Flex 8V 5p;2016 Gasolina
+Fiat;Toro Freedom Road 1.8 16V Flex Aut.;2018 Gasolina
+Fiat;UNO MILLE WAY ECO.XINGU 1.0 F.Flex 8v 5p;2013 Gasolina
+Fiat;MOBI EASY on 1.0 Fire Flex 5p.;2017 Gasolina
+Fiat;UNO VIVACE College 1.0 EVO FireFlex 5p;2014 Gasolina
+Fiat;UNO SPORTING 1.4 EVO Fire Flex 8V 2p;2012 Gasolina
+Fiat;Toro Freedom Road 2.4 16V Flex Aut.;2018 Gasolina
+Fiat;UNO ATTRACTI. Celeb.1.4 EVO F.Flex 8V 2p;2012 Gasolina
+Fiat;Toro Opening Ed. Plus 1.8 16V Flex Aut.;2017 Gasolina
+Fiat;MOBI LIKE ON 1.0 Fire Flex 5p.;2017 Gasolina
+Fiat;Oggi;1985 Gasolina
+Fiat;MOBI WAY on 1.0 Fire Flex 5p.;2017 Gasolina
+Fiat;UNO WAY Celeb. 1.4 EVO Fire Flex 8V 2p;2012 Gasolina
+Fiat;Toro Opening Edition 1.8 16V Flex Aut.;2017 Gasolina
+Fiat;Tipo 2.0 16V 2p/4p;1995 Gasolina
+Fiat;Uno Mille/ Mille EX/ Smart 2p;2004 Álcool
+Fiat;Uno Mille/ Mille EX/ Smart 2p;2003 Álcool
+Fiat;Uno Mille/ Mille EX/ Smart 2p;2002 Gasolina
+Fiat;Uno Mille/ Mille EX/ Smart 2p;2002 Álcool
+Fiat;Uno Mille/ Mille EX/ Smart 2p;2001 Gasolina
+Fiat;Uno Mille/ Mille EX/ Smart 2p;2001 Álcool
+Fiat;Uno Mille/ Mille EX/ Smart 2p;2000 Gasolina
+Fiat;Uno Mille/ Mille EX/ Smart 2p;2000 Álcool
+Fiat;Uno Mille/ Mille EX/ Smart 2p;1999 Gasolina
+Fiat;Uno Mille/ Mille EX/ Smart 2p;1999 Álcool
+Fiat;Uno Mille/ Mille EX/ Smart 2p;1998 Gasolina
+Fiat;Uno Mille/ Mille EX/ Smart 2p;1998 Álcool
+Fiat;Uno Mille/ Mille EX/ Smart 2p;1997 Gasolina
+Fiat;Uno Mille/ Mille EX/ Smart 4p;2004 Álcool
+Fiat;Uno Mille/ Mille EX/ Smart 4p;2003 Álcool
+Fiat;Uno Mille/ Mille EX/ Smart 4p;2002 Álcool
+Fiat;Uno Mille/ Mille EX/ Smart 4p;2001 Gasolina
+Fiat;Uno Mille/ Mille EX/ Smart 4p;2001 Álcool
+Fiat;Uno Mille/ Mille EX/ Smart 4p;2000 Gasolina
+Fiat;Uno Mille/ Mille EX/ Smart 4p;2000 Álcool
+Fiat;Uno Mille/ Mille EX/ Smart 4p;1999 Gasolina
+Fiat;Uno Mille/ Mille EX/ Smart 4p;1999 Álcool
+Fiat;Uno Mille/ Mille EX/ Smart 4p;1998 Gasolina
+Fiat;Uno Mille/ Mille EX/ Smart 4p;1997 Gasolina
+Fiat;UNO WAY Dual./GSR 1.3 Flex 8V 5p;2018 Gasolina
+Fiat;UNO WAY Dual./GSR 1.3 Flex 8V 5p;2017 Gasolina
+Fiat;UNO VIVACE ITALIA 1.0 EVO F. Flex 8V 5p;2015 Gasolina
+Fiat;UNO VIVACE ITALIA 1.0 EVO F. Flex 8V 5p;2013 Gasolina
+Fiat;LINEA T-JET 1.4 16V Turbo 4p;2012 Gasolina
+Fiat;LINEA T-JET 1.4 16V Turbo 4p;2011 Gasolina
+Fiat;LINEA T-JET 1.4 16V Turbo 4p;2010 Gasolina
+Fiat;LINEA T-JET 1.4 16V Turbo 4p;2009 Gasolina
+Fiat;UNO WAY 1.0 EVO Fire Flex 8V 2p;2013 Gasolina
+Fiat;UNO WAY 1.0 EVO Fire Flex 8V 2p;2012 Gasolina
+Fiat;Marea Weekend Turbo 2.0 20V 4p;2007 Gasolina
+Fiat;Marea Weekend Turbo 2.0 20V 4p;2006 Gasolina
+Fiat;Marea Weekend Turbo 2.0 20V 4p;2005 Gasolina
+Fiat;Marea Weekend Turbo 2.0 20V 4p;2004 Gasolina
+Fiat;Marea Weekend Turbo 2.0 20V 4p;2003 Gasolina
+Fiat;Marea Weekend Turbo 2.0 20V 4p;2002 Gasolina
+Fiat;Marea Weekend Turbo 2.0 20V 4p;2001 Gasolina
+Fiat;Marea Weekend Turbo 2.0 20V 4p;2000 Gasolina
+Fiat;Marea Weekend Turbo 2.0 20V 4p;1999 Gasolina
+Fiat;Marea Weekend Turbo 2.0 20V 4p;1998 Gasolina
+Fiat;MOBI EASY COMFORT 1.0 Flex 5p.;32000 Gasolina
+Fiat;MOBI EASY COMFORT 1.0 Flex 5p.;2020 Gasolina
+Fiat;MOBI EASY COMFORT 1.0 Flex 5p.;2019 Gasolina
+Fiat;MOBI WAY 1.0 Fire Flex 5p.;32000 Gasolina
+Fiat;MOBI WAY 1.0 Fire Flex 5p.;2020 Gasolina
+Fiat;MOBI WAY 1.0 Fire Flex 5p.;2019 Gasolina
+Fiat;MOBI WAY 1.0 Fire Flex 5p.;2018 Gasolina
+Fiat;MOBI WAY 1.0 Fire Flex 5p.;2017 Gasolina
+Fiat;UNO SPORTING Dual./GSR 1.3 Flex 8V 5p;2018 Gasolina
+Fiat;UNO SPORTING Dual./GSR 1.3 Flex 8V 5p;2017 Gasolina
+Fiat;Uno Mille Celeb. WAY ECON. 1.0 F.Flex 4p;2013 Gasolina
+Fiat;Uno Mille Celeb. WAY ECON. 1.0 F.Flex 4p;2012 Gasolina
+Fiat;Uno Mille Celeb. WAY ECON. 1.0 F.Flex 4p;2011 Gasolina
+Fiat;Uno Mille Celeb. WAY ECON. 1.0 F.Flex 4p;2010 Gasolina
+Fiat;Uno Mille Celeb. WAY ECON. 1.0 F.Flex 4p;2009 Gasolina
+Fiat;UNO WAY 1.0 Flex 6V 5p;32000 Gasolina
+Fiat;UNO WAY 1.0 Flex 6V 5p;2021 Gasolina
+Fiat;UNO WAY 1.0 Flex 6V 5p;2020 Gasolina
+Fiat;UNO WAY 1.0 Flex 6V 5p;2019 Gasolina
+Fiat;UNO WAY 1.0 Flex 6V 5p;2018 Gasolina
+Fiat;UNO WAY 1.0 Flex 6V 5p;2017 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3;1997 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3;1996 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3;1996 Álcool
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3;1995 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3;1995 Álcool
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3;1994 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3;1993 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3;1992 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3;1991 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3;1990 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3;1989 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3;1988 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3;1987 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3;1986 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 /1.3;1985 Gasolina
+Fiat;Palio 1.0 ECONOMY Fire Flex 8V 2p;2014 Gasolina
+Fiat;Palio 1.0 ECONOMY Fire Flex 8V 2p;2013 Gasolina
+Fiat;Palio 1.0 ECONOMY Fire Flex 8V 2p;2012 Gasolina
+Fiat;Palio 1.0 ECONOMY Fire Flex 8V 2p;2011 Gasolina
+Fiat;Palio 1.0 ECONOMY Fire Flex 8V 2p;2010 Gasolina
+Fiat;Palio 1.0 ECONOMY Fire Flex 8V 2p;2009 Gasolina
+Fiat;UNO SPORTING Dualogic 1.4 EVO Flex 8V 4p;2016 Gasolina
+Fiat;UNO SPORTING Dualogic 1.4 EVO Flex 8V 4p;2015 Gasolina
+Fiat;Palio 1.8R mpi Flex 8V 4p;2010 Gasolina
+Fiat;Palio 1.8R mpi Flex 8V 4p;2009 Gasolina
+Fiat;Palio 1.8R mpi Flex 8V 4p;2008 Gasolina
+Fiat;Palio 1.8R mpi Flex 8V 4p;2007 Gasolina
+Fiat;Palio 1.8R mpi Flex 8V 4p;2006 Gasolina
+Fiat;Palio 1.6 mpi 16V 4p;2000 Gasolina
+Fiat;Palio 1.6 mpi 16V 4p;1999 Gasolina
+Fiat;Palio 1.6 mpi 16V 4p;1998 Gasolina
+Fiat;Palio 1.6 mpi 16V 4p;1997 Gasolina
+Fiat;Palio 1.6 mpi 16V 4p;1996 Gasolina
+Fiat;Marea ELX 2.4 mpi 20V 4p;2003 Gasolina
+Fiat;Marea ELX 2.4 mpi 20V 4p;2002 Gasolina
+Fiat;Marea ELX 2.4 mpi 20V 4p;2001 Gasolina
+Fiat;Uno Furgão 1.5/ 1.3;1993 Gasolina
+Fiat;Uno Furgão 1.5/ 1.3;1992 Gasolina
+Fiat;Uno Furgão 1.5/ 1.3;1991 Gasolina
+Fiat;Uno Furgão 1.5/ 1.3;1990 Gasolina
+Fiat;Uno Furgão 1.5/ 1.3;1989 Gasolina
+Fiat;Uno Furgão 1.5/ 1.3;1988 Gasolina
+Fiat;UNO ATTRACTIVE 1.4 EVO Fire Flex 8V 4p;2012 Gasolina
+Fiat;UNO ATTRACTIVE 1.4 EVO Fire Flex 8V 4p;2011 Gasolina
+Fiat;Marea SX 1.8 16V 4p;2005 Gasolina
+Fiat;Marea SX 1.8 16V 4p;2004 Gasolina
+Fiat;Marea SX 1.8 16V 4p;2003 Gasolina
+Fiat;Marea SX 1.8 16V 4p;2002 Gasolina
+Fiat;Marea SX 1.8 16V 4p;2001 Gasolina
+Fiat;Marea SX 1.8 16V 4p;2000 Gasolina
+Fiat;Marea SX 1.8 16V 4p;1999 Gasolina
+Fiat;Toro Volcano 2.0 16V 4x4 TB Diesel Aut.;32000 Diesel
+Fiat;Toro Volcano 2.0 16V 4x4 TB Diesel Aut.;2021 Diesel
+Fiat;Toro Volcano 2.0 16V 4x4 TB Diesel Aut.;2020 Diesel
+Fiat;Toro Volcano 2.0 16V 4x4 TB Diesel Aut.;2019 Diesel
+Fiat;Toro Volcano 2.0 16V 4x4 TB Diesel Aut.;2018 Diesel
+Fiat;Toro Volcano 2.0 16V 4x4 TB Diesel Aut.;2017 Diesel
+Fiat;Toro Volcano 2.0 16V 4x4 TB Diesel Aut.;2016 Diesel
+Fiat;Toro Blackjack 2.4 16V flex Aut;2019 Gasolina
+Fiat;Toro Blackjack 2.4 16V flex Aut;2018 Gasolina
+Fiat;Toro Ultra 2.0 16V 4x4 Diesel Aut.;32000 Diesel
+Fiat;Toro Ultra 2.0 16V 4x4 Diesel Aut.;2021 Diesel
+Fiat;Toro Ultra 2.0 16V 4x4 Diesel Aut.;2020 Diesel
+Fiat;Uno Mille 1.0/ i.e./Electronic/Brio 2p;1997 Gasolina
+Fiat;Uno Mille 1.0/ i.e./Electronic/Brio 2p;1996 Gasolina
+Fiat;Uno Mille 1.0/ i.e./Electronic/Brio 2p;1995 Gasolina
+Fiat;Uno Mille 1.0/ i.e./Electronic/Brio 2p;1994 Gasolina
+Fiat;Uno Mille 1.0/ i.e./Electronic/Brio 2p;1993 Gasolina
+Fiat;Uno Mille 1.0/ i.e./Electronic/Brio 2p;1992 Gasolina
+Fiat;Uno Mille 1.0/ i.e./Electronic/Brio 2p;1991 Gasolina
+Fiat;Uno Mille 1.0/ i.e./Electronic/Brio 2p;1990 Gasolina
+Fiat;UNO EVOLUTION 1.4 Fire Flex 8V 5p;2016 Gasolina
+Fiat;UNO EVOLUTION 1.4 Fire Flex 8V 5p;2015 Gasolina
+Fiat;Uno Mille Celeb/Celeb.ECON 1.0 F.Flex 4p;2013 Gasolina
+Fiat;Uno Mille Celeb/Celeb.ECON 1.0 F.Flex 4p;2012 Gasolina
+Fiat;Uno Mille Celeb/Celeb.ECON 1.0 F.Flex 4p;2011 Gasolina
+Fiat;Uno Mille Celeb/Celeb.ECON 1.0 F.Flex 4p;2010 Gasolina
+Fiat;Uno Mille Celeb/Celeb.ECON 1.0 F.Flex 4p;2009 Gasolina
+Fiat;Uno Mille Celeb/Celeb.ECON 1.0 F.Flex 4p;2008 Gasolina
+Fiat;UNO ECONOMY Celeb. 1.4 EVO F. Flex 8V 4p;2014 Gasolina
+Fiat;UNO ECONOMY Celeb. 1.4 EVO F. Flex 8V 4p;2013 Gasolina
+Fiat;UNO ECONOMY Celeb. 1.4 EVO F. Flex 8V 4p;2012 Gasolina
+Fiat;Marea Weekend ELX 2.0 20V 4p;2000 Gasolina
+Fiat;Marea Weekend ELX 2.0 20V 4p;1999 Gasolina
+Fiat;Marea Weekend ELX 2.0 20V 4p;1998 Gasolina
+Fiat;Toro Endurance 2.0 16V 4x4 Diesel Aut.;32000 Diesel
+Fiat;Toro Endurance 2.0 16V 4x4 Diesel Aut.;2021 Diesel
+Fiat;Toro Endurance 2.0 16V 4x4 Diesel Aut.;2020 Diesel
+Fiat;UNO SPORT.INTERLAGOS 1.4 EVO F.Flex 8v;2014 Gasolina
+Fiat;UNO SPORT.INTERLAGOS 1.4 EVO F.Flex 8v;2013 Gasolina
+Fiat;Uno Mille SX 2p e 4p;1998 Gasolina
+Fiat;Uno Mille SX 2p e 4p;1997 Gasolina
+Fiat;Uno Mille SX 2p e 4p;1996 Gasolina
+Fiat;UNO ECONOMY 1.4 EVO Fire Flex 8V 2p;2013 Gasolina
+Fiat;UNO ECONOMY 1.4 EVO Fire Flex 8V 2p;2012 Gasolina
+Fiat;Toro Freedom 2.0 16V 4x4 Diesel Aut.;32000 Diesel
+Fiat;Toro Freedom 2.0 16V 4x4 Diesel Aut.;2021 Diesel
+Fiat;Toro Freedom 2.0 16V 4x4 Diesel Aut.;2020 Diesel
+Fiat;Toro Freedom 2.0 16V 4x4 Diesel Aut.;2019 Diesel
+Fiat;Toro Freedom 2.0 16V 4x4 Diesel Aut.;2018 Diesel
+Fiat;Uno CSL 1.6 4p (Argentino);1993 Gasolina
+Fiat;Uno CSL 1.6 4p (Argentino);1992 Gasolina
+Fiat;Uno CSL 1.6 4p (Argentino);1991 Gasolina
+Fiat;Uno Mille Celeb/Celeb.ECON 1.0 F.Flex 2p;2013 Gasolina
+Fiat;Uno Mille Celeb/Celeb.ECON 1.0 F.Flex 2p;2012 Gasolina
+Fiat;Uno Mille Celeb/Celeb.ECON 1.0 F.Flex 2p;2011 Gasolina
+Fiat;Uno Mille Celeb/Celeb.ECON 1.0 F.Flex 2p;2010 Gasolina
+Fiat;Uno Mille Celeb/Celeb.ECON 1.0 F.Flex 2p;2009 Gasolina
+Fiat;Uno Mille Celeb/Celeb.ECON 1.0 F.Flex 2p;2008 Gasolina
+Fiat;UNO SPORTING 1.3 Flex 8V 5p;2018 Gasolina
+Fiat;UNO SPORTING 1.3 Flex 8V 5p;2017 Gasolina
+Fiat;UNO WAY RIO 450 1.0 EVO Flex 8V 5p;2016 Gasolina
+Fiat;UNO WAY RIO 450 1.0 EVO Flex 8V 5p;2015 Gasolina
+Fiat;UNO WAY 1.0 EVO Fire Flex 8V 5p;2016 Gasolina
+Fiat;UNO WAY 1.0 EVO Fire Flex 8V 5p;2015 Gasolina
+Fiat;UNO WAY 1.0 EVO Fire Flex 8V 5p;2014 Gasolina
+Fiat;UNO WAY 1.0 EVO Fire Flex 8V 5p;2013 Gasolina
+Fiat;UNO WAY 1.0 EVO Fire Flex 8V 5p;2012 Gasolina
+Fiat;UNO WAY 1.0 EVO Fire Flex 8V 5p;2011 Gasolina
+Fiat;Marea SX 2.0 20V 4p;2000 Gasolina
+Fiat;Marea SX 2.0 20V 4p;1999 Gasolina
+Fiat;Marea SX 2.0 20V 4p;1998 Gasolina
+Fiat;Marea HLX 2.0 20V 4p;2000 Gasolina
+Fiat;Marea HLX 2.0 20V 4p;1999 Gasolina
+Fiat;Marea HLX 2.0 20V 4p;1998 Gasolina
+Fiat;Uno Mille EP 2p e 4p;1997 Gasolina
+Fiat;Uno Mille EP 2p e 4p;1996 Gasolina
+Fiat;LINEA ESSENCE Dualogic 1.8 Flex 16V 4p;2016 Gasolina
+Fiat;LINEA ESSENCE Dualogic 1.8 Flex 16V 4p;2015 Gasolina
+Fiat;LINEA ESSENCE Dualogic 1.8 Flex 16V 4p;2014 Gasolina
+Fiat;LINEA ESSENCE Dualogic 1.8 Flex 16V 4p;2013 Gasolina
+Fiat;LINEA ESSENCE Dualogic 1.8 Flex 16V 4p;2012 Gasolina
+Fiat;Idea ESSENCE SUBLIME Dual.1.6 Flex16V 5p;2016 Gasolina
+Fiat;Idea ESSENCE SUBLIME Dual.1.6 Flex16V 5p;2015 Gasolina
+Fiat;Idea ESSENCE SUBLIME Dual.1.6 Flex16V 5p;2014 Gasolina
+Fiat;MOBI DRIVE GSR 1.0 Flex 6V 5p;32000 Gasolina
+Fiat;MOBI DRIVE GSR 1.0 Flex 6V 5p;2020 Gasolina
+Fiat;MOBI DRIVE GSR 1.0 Flex 6V 5p;2019 Gasolina
+Fiat;MOBI DRIVE GSR 1.0 Flex 6V 5p;2018 Gasolina
+Fiat;UNO Furgão 1.0 Fire Flex 8V 3p;2016 Gasolina
+Fiat;UNO Furgão 1.0 Fire Flex 8V 3p;2015 Gasolina
+Fiat;UNO Furgão 1.0 Fire Flex 8V 3p;2014 Gasolina
+Fiat;Marea Weekend SX 1.8 16V 4p;2005 Gasolina
+Fiat;Marea Weekend SX 1.8 16V 4p;2004 Gasolina
+Fiat;Marea Weekend SX 1.8 16V 4p;2003 Gasolina
+Fiat;Marea Weekend SX 1.8 16V 4p;2002 Gasolina
+Fiat;Marea Weekend SX 1.8 16V 4p;2001 Gasolina
+Fiat;Marea Weekend SX 1.8 16V 4p;2000 Gasolina
+Fiat;Marea Weekend SX 1.8 16V 4p;1999 Gasolina
+Fiat;Marea Weekend HLX 2.0 20V 4p;2000 Gasolina
+Fiat;Marea Weekend HLX 2.0 20V 4p;1999 Gasolina
+Fiat;Marea Weekend HLX 2.0 20V 4p;1998 Gasolina
+Fiat;Marea Turbo 2.0 20V 4p;2007 Gasolina
+Fiat;Marea Turbo 2.0 20V 4p;2006 Gasolina
+Fiat;Marea Turbo 2.0 20V 4p;2005 Gasolina
+Fiat;Marea Turbo 2.0 20V 4p;2004 Gasolina
+Fiat;Marea Turbo 2.0 20V 4p;2003 Gasolina
+Fiat;Marea Turbo 2.0 20V 4p;2002 Gasolina
+Fiat;Marea Turbo 2.0 20V 4p;2001 Gasolina
+Fiat;Marea Turbo 2.0 20V 4p;2000 Gasolina
+Fiat;Marea Turbo 2.0 20V 4p;1999 Gasolina
+Fiat;Marea Turbo 2.0 20V 4p;1998 Gasolina
+Fiat;Marea City;2000 Gasolina
+Fiat;Marea City;1999 Gasolina
+Fiat;Uno City / Smart City 1.0 4p;2001 Gasolina
+Fiat;Uno City / Smart City 1.0 4p;2001 Álcool
+Fiat;Uno City / Smart City 1.0 4p;2000 Gasolina
+Fiat;Uno City / Smart City 1.0 4p;2000 Álcool
+Fiat;Uno City / Smart City 1.0 4p;1999 Gasolina
+Fiat;Uno City / Smart City 1.0 4p;1999 Álcool
+Fiat;UNO WAY Celeb. 1.0 EVO Fire Flex 8V 5p;2016 Gasolina
+Fiat;UNO WAY Celeb. 1.0 EVO Fire Flex 8V 5p;2015 Gasolina
+Fiat;UNO WAY Celeb. 1.0 EVO Fire Flex 8V 5p;2014 Gasolina
+Fiat;UNO WAY Celeb. 1.0 EVO Fire Flex 8V 5p;2013 Gasolina
+Fiat;UNO WAY Celeb. 1.0 EVO Fire Flex 8V 5p;2012 Gasolina
+Fiat;UNO WAY Celeb. 1.0 EVO Fire Flex 8V 5p;2011 Gasolina
+Fiat;LINEA ESSEN.SUBLIME 1.8 Flex 16V 4p;2014 Gasolina
+Fiat;LINEA ESSEN.SUBLIME 1.8 Flex 16V 4p;2013 Gasolina
+Fiat;UNO VIVACE Celeb. 1.0 EVO F. Flex 8V 3p;2016 Gasolina
+Fiat;UNO VIVACE Celeb. 1.0 EVO F. Flex 8V 3p;2015 Gasolina
+Fiat;UNO VIVACE Celeb. 1.0 EVO F. Flex 8V 3p;2014 Gasolina
+Fiat;UNO VIVACE Celeb. 1.0 EVO F. Flex 8V 3p;2013 Gasolina
+Fiat;UNO VIVACE Celeb. 1.0 EVO F. Flex 8V 3p;2012 Gasolina
+Fiat;LINEA 1.9/ HLX 1.9/1.8 Flex  Dualogic 4p;2011 Gasolina
+Fiat;LINEA 1.9/ HLX 1.9/1.8 Flex  Dualogic 4p;2010 Gasolina
+Fiat;LINEA 1.9/ HLX 1.9/1.8 Flex  Dualogic 4p;2009 Gasolina
+Fiat;Marea Weekend HLX 2.4 mpi 20V 4p Mec.;2003 Gasolina
+Fiat;Marea Weekend HLX 2.4 mpi 20V 4p Mec.;2002 Gasolina
+Fiat;Marea Weekend HLX 2.4 mpi 20V 4p Mec.;2001 Gasolina
+Fiat;Marea ELX 2.0 20V 4p;2000 Gasolina
+Fiat;Marea ELX 2.0 20V 4p;1999 Gasolina
+Fiat;Marea ELX 2.0 20V 4p;1998 Gasolina
+Fiat;Uno Mille WAY ECONOMY 1.0 F.Flex 4p;2013 Gasolina
+Fiat;Uno Mille WAY ECONOMY 1.0 F.Flex 4p;2012 Gasolina
+Fiat;Uno Mille WAY ECONOMY 1.0 F.Flex 4p;2011 Gasolina
+Fiat;Uno Mille WAY ECONOMY 1.0 F.Flex 4p;2010 Gasolina
+Fiat;Uno Mille WAY ECONOMY 1.0 F.Flex 4p;2009 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 4p;2017 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 4p;2016 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 4p;2015 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 4p;2014 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 4p;2009 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 4p;2008 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 4p;2007 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 4p;2006 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 4p;2005 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 4p;2004 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 4p;2003 Gasolina
+Fiat;UNO VIVACE 1.0 EVO Fire Flex 8V 3p;2016 Gasolina
+Fiat;UNO VIVACE 1.0 EVO Fire Flex 8V 3p;2015 Gasolina
+Fiat;UNO VIVACE 1.0 EVO Fire Flex 8V 3p;2014 Gasolina
+Fiat;UNO VIVACE 1.0 EVO Fire Flex 8V 3p;2013 Gasolina
+Fiat;UNO VIVACE 1.0 EVO Fire Flex 8V 3p;2012 Gasolina
+Fiat;Palio 1.0 ECONOMY Fire Flex 8V 4p;2014 Gasolina
+Fiat;Palio 1.0 ECONOMY Fire Flex 8V 4p;2013 Gasolina
+Fiat;Palio 1.0 ECONOMY Fire Flex 8V 4p;2012 Gasolina
+Fiat;Palio 1.0 ECONOMY Fire Flex 8V 4p;2011 Gasolina
+Fiat;Palio 1.0 ECONOMY Fire Flex 8V 4p;2010 Gasolina
+Fiat;Palio 1.0 ECONOMY Fire Flex 8V 4p;2009 Gasolina
+Fiat;UNO ECONOMY 1.4 EVO Fire Flex 8V 4p;2014 Gasolina
+Fiat;UNO ECONOMY 1.4 EVO Fire Flex 8V 4p;2013 Gasolina
+Fiat;UNO ECONOMY 1.4 EVO Fire Flex 8V 4p;2012 Gasolina
+Fiat;Tempra SX 2.0 16V 4p;1998 Gasolina
+Fiat;Tempra SX 2.0 16V 4p;1997 Gasolina
+Fiat;Tempra SX 2.0 16V 4p;1996 Gasolina
+Fiat;UNO SPORTING 1.4 EVO Fire Flex 8V 4p;2016 Gasolina
+Fiat;UNO SPORTING 1.4 EVO Fire Flex 8V 4p;2015 Gasolina
+Fiat;UNO SPORTING 1.4 EVO Fire Flex 8V 4p;2014 Gasolina
+Fiat;UNO SPORTING 1.4 EVO Fire Flex 8V 4p;2013 Gasolina
+Fiat;UNO SPORTING 1.4 EVO Fire Flex 8V 4p;2012 Gasolina
+Fiat;UNO SPORTING 1.4 EVO Fire Flex 8V 4p;2011 Gasolina
+Fiat;Palio 1.5 mpi 8V 2p;2003 Álcool
+Fiat;Palio 1.5 mpi 8V 2p;2002 Álcool
+Fiat;Marea HLX 2.4 mpi 20V 4p Aut.;2007 Gasolina
+Fiat;Marea HLX 2.4 mpi 20V 4p Aut.;2006 Gasolina
+Fiat;Marea HLX 2.4 mpi 20V 4p Aut.;2005 Gasolina
+Fiat;Marea HLX 2.4 mpi 20V 4p Aut.;2004 Gasolina
+Fiat;Marea HLX 2.4 mpi 20V 4p Aut.;2003 Gasolina
+Fiat;Marea HLX 2.4 mpi 20V 4p Aut.;2002 Gasolina
+Fiat;Uno Mille 1.0 Electronic 4p;1996 Gasolina
+Fiat;Uno Mille 1.0 Electronic 4p;1995 Gasolina
+Fiat;Uno Mille 1.0 Electronic 4p;1994 Gasolina
+Fiat;Uno Mille 1.0 Electronic 4p;1993 Gasolina
+Fiat;Uno Turbo 1.4 i.e. 2p;1996 Gasolina
+Fiat;Uno Turbo 1.4 i.e. 2p;1995 Gasolina
+Fiat;Uno Turbo 1.4 i.e. 2p;1994 Gasolina
+Fiat;MOBI LIKE 1.0 Fire Flex 5p.;32000 Gasolina
+Fiat;MOBI LIKE 1.0 Fire Flex 5p.;2021 Gasolina
+Fiat;MOBI LIKE 1.0 Fire Flex 5p.;2020 Gasolina
+Fiat;MOBI LIKE 1.0 Fire Flex 5p.;2019 Gasolina
+Fiat;MOBI LIKE 1.0 Fire Flex 5p.;2018 Gasolina
+Fiat;MOBI LIKE 1.0 Fire Flex 5p.;2017 Gasolina
+Fiat;UNO DRIVE 1.0 Flex 6V 5p;32000 Gasolina
+Fiat;UNO DRIVE 1.0 Flex 6V 5p;2021 Gasolina
+Fiat;UNO DRIVE 1.0 Flex 6V 5p;2020 Gasolina
+Fiat;UNO DRIVE 1.0 Flex 6V 5p;2019 Gasolina
+Fiat;UNO DRIVE 1.0 Flex 6V 5p;2018 Gasolina
+Fiat;Toro Volcano 2.4 16V Flex Aut.;32000 Gasolina
+Fiat;Toro Volcano 2.4 16V Flex Aut.;2020 Gasolina
+Fiat;Toro Volcano 2.4 16V Flex Aut.;2019 Gasolina
+Fiat;Tempra Turbo 2.0 i.e. 2p;1997 Gasolina
+Fiat;Tempra Turbo 2.0 i.e. 2p;1996 Gasolina
+Fiat;Tempra Turbo 2.0 i.e. 2p;1995 Gasolina
+Fiat;Tempra Turbo 2.0 i.e. 2p;1994 Gasolina
+Fiat;LINEA 1.9/ HLX 1.9/ 1.8 Flex 16V 4p;2011 Gasolina
+Fiat;LINEA 1.9/ HLX 1.9/ 1.8 Flex 16V 4p;2010 Gasolina
+Fiat;LINEA 1.9/ HLX 1.9/ 1.8 Flex 16V 4p;2009 Gasolina
+Fiat;Toro Freedom 2.0 16V 4x2 TB Diesel Mec.;2018 Diesel
+Fiat;Toro Freedom 2.0 16V 4x2 TB Diesel Mec.;2017 Diesel
+Fiat;Toro Freedom 2.0 16V 4x2 TB Diesel Mec.;2016 Diesel
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 2p;2016 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 2p;2015 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 2p;2014 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 2p;2009 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 2p;2008 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 2p;2007 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 2p;2006 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 2p;2005 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 2p;2004 Gasolina
+Fiat;Palio 1.0/ Trofeo 1.0 Fire/ Fire Flex 2p;2003 Gasolina
+Fiat;Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p;2013 Gasolina
+Fiat;Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p;2012 Gasolina
+Fiat;Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p;2011 Gasolina
+Fiat;Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p;2010 Gasolina
+Fiat;Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p;2009 Gasolina
+Fiat;Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p;2008 Gasolina
+Fiat;Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p;2007 Gasolina
+Fiat;Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p;2006 Gasolina
+Fiat;Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p;2005 Gasolina
+Fiat;Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p;2004 Gasolina
+Fiat;Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p;2003 Gasolina
+Fiat;Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 2p;2002 Gasolina
+Fiat;Toro Freedom 2.4 16V Flex Aut.;2018 Gasolina
+Fiat;Toro Freedom 2.4 16V Flex Aut.;2017 Gasolina
+Fiat;Toro Endurance 1.8 16V Flex Mec.;32000 Gasolina
+Fiat;Toro Endurance 1.8 16V Flex Mec.;2021 Gasolina
+Fiat;Toro Endurance 1.8 16V Flex Mec.;2020 Gasolina
+Fiat;Marea Weekend ELX 1.8 mpi 16V 132cv 4p;2007 Gasolina
+Fiat;Marea Weekend ELX 1.8 mpi 16V 132cv 4p;2006 Gasolina
+Fiat;Marea Weekend ELX 1.8 mpi 16V 132cv 4p;2005 Gasolina
+Fiat;Marea Weekend ELX 1.8 mpi 16V 132cv 4p;2004 Gasolina
+Fiat;Marea Weekend ELX 1.8 mpi 16V 132cv 4p;2003 Gasolina
+Fiat;Marea HLX 2.4 mpi 20V 4p Mec.;2002 Gasolina
+Fiat;Marea HLX 2.4 mpi 20V 4p Mec.;2001 Gasolina
+Fiat;Marea Weekend City 4p;2000 Gasolina
+Fiat;Marea Weekend City 4p;1999 Gasolina
+Fiat;Toro Ranch 2.0 16V 4x4 Diesel Aut.;32000 Diesel
+Fiat;Toro Ranch 2.0 16V 4x4 Diesel Aut.;2021 Diesel
+Fiat;Toro Ranch 2.0 16V 4x4 Diesel Aut.;2020 Diesel
+Fiat;Toro Ranch 2.0 16V 4x4 Diesel Aut.;2019 Diesel
+Fiat;Tipo 1.6 i.e. 2p e 4p;1995 Gasolina
+Fiat;Tipo 1.6 i.e. 2p e 4p;1994 Gasolina
+Fiat;Tipo 1.6 i.e. 2p e 4p;1993 Gasolina
+Fiat;UNO WAY 1.4 EVO Fire Flex 8V 5p;2016 Gasolina
+Fiat;UNO WAY 1.4 EVO Fire Flex 8V 5p;2015 Gasolina
+Fiat;UNO WAY 1.4 EVO Fire Flex 8V 5p;2014 Gasolina
+Fiat;UNO WAY 1.4 EVO Fire Flex 8V 5p;2013 Gasolina
+Fiat;UNO WAY 1.4 EVO Fire Flex 8V 5p;2012 Gasolina
+Fiat;UNO WAY 1.4 EVO Fire Flex 8V 5p;2011 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 4p;1996 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 4p;1996 Álcool
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 4p;1995 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 4p;1995 Álcool
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 4p;1994 Gasolina
+Fiat;Uno CS/Top/Sport 1.5 i.e. / 1.5 4p;1993 Gasolina
+Fiat;LINEA ESSENCE 1.8 Flex 16V 4p;2016 Gasolina
+Fiat;LINEA ESSENCE 1.8 Flex 16V 4p;2015 Gasolina
+Fiat;LINEA ESSENCE 1.8 Flex 16V 4p;2014 Gasolina
+Fiat;LINEA ESSENCE 1.8 Flex 16V 4p;2013 Gasolina
+Fiat;LINEA ESSENCE 1.8 Flex 16V 4p;2012 Gasolina
+Fiat;Uno Furgão 1.5 mpi/i.e.;2002 Gasolina
+Fiat;Uno Furgão 1.5 mpi/i.e.;2001 Gasolina
+Fiat;Uno Furgão 1.5 mpi/i.e.;2000 Gasolina
+Fiat;Uno Furgão 1.5 mpi/i.e.;1999 Gasolina
+Fiat;Uno Furgão 1.5 mpi/i.e.;1998 Gasolina
+Fiat;Uno Furgão 1.5 mpi/i.e.;1997 Gasolina
+Fiat;Uno Furgão 1.5 mpi/i.e.;1996 Gasolina
+Fiat;Uno Furgão 1.5 mpi/i.e.;1996 Álcool
+Fiat;Uno Furgão 1.5 mpi/i.e.;1995 Gasolina
+Fiat;Uno Furgão 1.5 mpi/i.e.;1995 Álcool
+Fiat;Uno Furgão 1.5 mpi/i.e.;1994 Gasolina
+Fiat;Uno Furgão 1.5 mpi/i.e.;1993 Gasolina
+Fiat;MOBI DRIVE 1.0 Flex 6V 5p;32000 Gasolina
+Fiat;MOBI DRIVE 1.0 Flex 6V 5p;2020 Gasolina
+Fiat;MOBI DRIVE 1.0 Flex 6V 5p;2019 Gasolina
+Fiat;MOBI DRIVE 1.0 Flex 6V 5p;2018 Gasolina
+Fiat;MOBI DRIVE 1.0 Flex 6V 5p;2017 Gasolina
+Fiat;Uno Mille WAY ECONOMY 1.0 F.Flex 2p;2013 Gasolina
+Fiat;Uno Mille WAY ECONOMY 1.0 F.Flex 2p;2012 Gasolina
+Fiat;Uno Mille WAY ECONOMY 1.0 F.Flex 2p;2011 Gasolina
+Fiat;Uno Mille WAY ECONOMY 1.0 F.Flex 2p;2010 Gasolina
+Fiat;Uno Mille WAY ECONOMY 1.0 F.Flex 2p;2009 Gasolina
+Fiat;UNO WAY 1.4 EVO Dualogic Flex 8V 5p;2016 Gasolina
+Fiat;UNO WAY 1.4 EVO Dualogic Flex 8V 5p;2015 Gasolina
+Fiat;MOBI TREKKING 1.0 Flex 5p.;32000 Gasolina
+Fiat;MOBI TREKKING 1.0 Flex 5p.;2021 Gasolina
+Fiat;Marea Weekend ELX 2.4 mpi 20V 4p;2003 Gasolina
+Fiat;Marea Weekend ELX 2.4 mpi 20V 4p;2002 Gasolina
+Fiat;Marea Weekend ELX 2.4 mpi 20V 4p;2001 Gasolina
+Fiat;Uno Mille Celeb. WAY ECON. 1.0 F.Flex 2p;2013 Gasolina
+Fiat;Uno Mille Celeb. WAY ECON. 1.0 F.Flex 2p;2012 Gasolina
+Fiat;Uno Mille Celeb. WAY ECON. 1.0 F.Flex 2p;2011 Gasolina
+Fiat;Uno Mille Celeb. WAY ECON. 1.0 F.Flex 2p;2010 Gasolina
+Fiat;Uno Mille Celeb. WAY ECON. 1.0 F.Flex 2p;2009 Gasolina
+Fiat;UNO ECONOMY Celeb. 1.4 EVO F. Flex 8V 2p;ERRO
+Fiat;Marea ELX 1.8 mpi 16V 132cv 4p;ERRO
+Fiat;Uno 1.6 mpi 2p e 4p;ERRO
+Fiat;Uno 1.6R mpi / 1.6R / 1.5R;ERRO
+Fiat;Uno Mille  ELX  2p e 4p;ERRO
+Fiat;Tipo 2.0 SLX 4p;ERRO
+Fiat;Uno Furgão 1.3 mpi Fire/ Fire Flex 8V;ERRO
+Fiat;UNO WAY XINGU 1.4 EVO F.Flex 8V 5p;ERRO
+Fiat;UNO WAY 1.3 Flex 8V 5p;ERRO
+Fiat;MOBI EASY 1.0 Fire Flex 5p.;ERRO
+Fiat;UNO WAY XINGU 1.0 EVO F.Flex 8V 5P;ERRO
+Fiat;LINEA ESSEN.SUBLIME Dual.1.8 Flex 16V 4p;ERRO
+Fiat;LINEA LX 1.9/ 1.8 Flex 16V Dualogic 4p;ERRO
+Fiat;Idea SPORTING Dualogic 1.8 Flex 16V 5p;ERRO
+Fiat;LINEA LX 1.9/ 1.8 Flex 16V 4p;ERRO
+Fiat;UNO WAY Celeb. 1.4 EVO Fire Flex 8V 5p;ERRO
+Fiat;UNO VIVACE/RUA 1.0 EVO Fire Flex 8V 5p;ERRO
+Fiat;Uno Mille 1.0 Fire/ F.Flex/ ECONOMY 4p;ERRO
+Fiat;Palio 1.0 Cel. ECON./ITALIA F.Flex 8V 4p;ERRO
+Fiat;UNO WAY Celeb. 1.0 EVO Fire Flex 8V 2p;ERRO
+Fiat;UNO VIVACE Celeb. 1.0 EVO F.Flex 8V 5p;ERRO
+Fiat;UNO ATTRACTIVE 1.0 Fire Flex 8V 5p;ERRO
+Fiat;Marea Weekend SX 2.0 20V 4p;ERRO
+Fiat;UNO WAY 1.4 EVO Fire Flex 8V 2p;ERRO
+Fiat;Tipo 1.6 mpi 4p;ERRO
+Fiat;Palio 1.0 Celebr. ECONOMY F.Flex 8V 2p;ERRO
+Fiat;Uno Mille Grazie 1.0 Fire Flex 8v 4p;ERRO
+Fiat;Uno S 1.5 i.e. / 1.5 / 1.3/ SX 1.3;ERRO
+Fiat;UNO ATTRACTI. Celeb.1.4 EVO F.Flex 8V 4p;ERRO
+Fiat;Uno Mille SX Young 1.0 IE;ERRO
+Fiat;Toro Freedom 2.0 16V 4x4 TB Diesel Mec.;ERRO
+Fiat;UNO ATTRACTIVE 1.4 EVO Fire Flex 8V 2p;ERRO
+Fiat;Tempra SX 2.0 i.e. 8V 4p;ERRO
+Fiat;Toro Freedom 1.8 16V Flex Aut.;32000 Gasolina
+Fiat;Toro Freedom 1.8 16V Flex Aut.;2021 Gasolina
+Fiat;Toro Freedom 1.8 16V Flex Aut.;2020 Gasolina
+Fiat;Toro Freedom 1.8 16V Flex Aut.;2019 Gasolina
+Fiat;Toro Freedom 1.8 16V Flex Aut.;2018 Gasolina
+Fiat;Toro Freedom 1.8 16V Flex Aut.;2017 Gasolina
+Fiat;Toro Freedom 1.8 16V Flex Aut.;2016 Gasolina
+Fiat;Toro Endurance 1.8 16V Flex Aut.;32000 Gasolina
+Fiat;Toro Endurance 1.8 16V Flex Aut.;2021 Gasolina
+Fiat;Toro Endurance 1.8 16V Flex Aut.;2020 Gasolina
+Fiat;Toro Endurance 1.8 16V Flex Aut.;2019 Gasolina
