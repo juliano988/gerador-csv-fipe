@@ -1,1222 +1,1081 @@
 MARCA;MODELO;ANO
-VW - VolksWagen;AMAROK Comfor. CD 2.0 TDI 4x4 Dies. Aut.;32000 Diesel
-VW - VolksWagen;AMAROK Comfor. CD 2.0 TDI 4x4 Dies. Aut.;2020 Diesel
-VW - VolksWagen;AMAROK Comfor. CD 2.0 TDI 4x4 Dies. Aut.;2019 Diesel
-VW - VolksWagen;AMAROK Hig.ULTIMATE CD 2.0 4x4 Dies. Aut;2016 Diesel
-VW - VolksWagen;Fox SELEÇÃO IMOTION 1.6 Mi T. Flex 8V 5p;2014 Gasolina
-VW - VolksWagen;Bora 2.0 8v Comfortline Aut.;2001 Gasolina
-VW - VolksWagen;Fox Comfortline 1.0 Flex 8V 5p;2015 Gasolina
-VW - VolksWagen;Fox BlueMotion 1.6 Mi Total Flex 5p.;2013 Gasolina
-VW - VolksWagen;Bora 2.0 8v Comfortline Mec.;2001 Gasolina
-VW - VolksWagen;Fox Trendline 1.0 Flex 8V 5p;2015 Gasolina
-VW - VolksWagen;Apolo GL 1.8;1992 Gasolina
-VW - VolksWagen;Apolo GL 1.8;1991 Gasolina
-VW - VolksWagen;Apolo GL 1.8;1990 Gasolina
-VW - VolksWagen;Fox Rock in Rio 1.6 Mi Total Flex 8V 5p;2016 Gasolina
-VW - VolksWagen;Fox Rock in Rio 1.6 Mi Total Flex 8V 5p;2014 Gasolina
-VW - VolksWagen;Fox Rock in Rio 1.6 Mi Total Flex 8V 5p;2013 Gasolina
-VW - VolksWagen;Fox Rock in Rio 1.6 Mi Total Flex 8V 5p;2012 Gasolina
-VW - VolksWagen;Fox PRIME/Higli. 1.6 Total Flex 8V 5p;2014 Gasolina
-VW - VolksWagen;Fox PRIME/Higli. 1.6 Total Flex 8V 5p;2013 Gasolina
-VW - VolksWagen;Fox PRIME/Higli. 1.6 Total Flex 8V 5p;2012 Gasolina
-VW - VolksWagen;Fox PRIME/Higli. 1.6 Total Flex 8V 5p;2011 Gasolina
-VW - VolksWagen;Fox PRIME/Higli. 1.6 Total Flex 8V 5p;2010 Gasolina
-VW - VolksWagen;Fox Sportline/Sports 1.0 Tot.Flex 8V 4p;2007 Gasolina
-VW - VolksWagen;Fox Sportline/Sports 1.0 Tot.Flex 8V 4p;2006 Gasolina
-VW - VolksWagen;Fox Sportline/Sports 1.0 Tot.Flex 8V 4p;2005 Gasolina
-VW - VolksWagen;Fox Sportline/Sports 1.0 Tot.Flex 8V 4p;2004 Gasolina
-VW - VolksWagen;Fox Sportline/Sports 1.6/1.6 Tot.Flex 3p;2007 Gasolina
-VW - VolksWagen;Fox Sportline/Sports 1.6/1.6 Tot.Flex 3p;2006 Gasolina
-VW - VolksWagen;Fox Sportline/Sports 1.6/1.6 Tot.Flex 3p;2005 Gasolina
-VW - VolksWagen;Fox Sportline/Sports 1.6/1.6 Tot.Flex 3p;2004 Gasolina
-VW - VolksWagen;AMAROK Highline CD 2.0 16V TDI 4x4 Dies.;2014 Diesel
-VW - VolksWagen;AMAROK Highline CD 2.0 16V TDI 4x4 Dies.;2013 Diesel
-VW - VolksWagen;AMAROK Highline CD 2.0 16V TDI 4x4 Dies.;2012 Diesel
-VW - VolksWagen;AMAROK Highline CD 2.0 16V TDI 4x4 Dies.;2011 Diesel
-VW - VolksWagen;AMAROK Trendline CD 2.0 TDI 4X4 Dies Aut;2018 Diesel
-VW - VolksWagen;AMAROK Trendline CD 2.0 TDI 4X4 Dies Aut;2017 Diesel
-VW - VolksWagen;AMAROK Trendline CD 2.0 TDI 4X4 Dies Aut;2016 Diesel
-VW - VolksWagen;AMAROK Trendline CD 2.0 TDI 4X4 Dies Aut;2015 Diesel
-VW - VolksWagen;AMAROK Trendline CD 2.0 TDI 4X4 Dies Aut;2014 Diesel
-VW - VolksWagen;AMAROK Trendline CD 2.0 TDI 4X4 Dies Aut;2013 Diesel
-VW - VolksWagen;AMAROK Trendline CD 2.0 16V TDI 4x4 Dies;2017 Diesel
-VW - VolksWagen;AMAROK Trendline CD 2.0 16V TDI 4x4 Dies;2016 Diesel
-VW - VolksWagen;AMAROK Trendline CD 2.0 16V TDI 4x4 Dies;2015 Diesel
-VW - VolksWagen;AMAROK Trendline CD 2.0 16V TDI 4x4 Dies;2014 Diesel
-VW - VolksWagen;AMAROK Trendline CD 2.0 16V TDI 4x4 Dies;2013 Diesel
-VW - VolksWagen;AMAROK Trendline CD 2.0 16V TDI 4x4 Dies;2012 Diesel
-VW - VolksWagen;AMAROK Trendline CD 2.0 16V TDI 4x4 Dies;2011 Diesel
-VW - VolksWagen;Fox 1.0 Mi Total Flex 8V 5p;2014 Gasolina
-VW - VolksWagen;Fox 1.0 Mi Total Flex 8V 5p;2013 Gasolina
-VW - VolksWagen;Fox 1.0 Mi Total Flex 8V 5p;2012 Gasolina
-VW - VolksWagen;Fox 1.0 Mi Total Flex 8V 5p;2011 Gasolina
-VW - VolksWagen;Fox 1.0 Mi Total Flex 8V 5p;2010 Gasolina
-VW - VolksWagen;Fox 1.6 Mi Total Flex 8V 5p;2014 Gasolina
-VW - VolksWagen;Fox 1.6 Mi Total Flex 8V 5p;2013 Gasolina
-VW - VolksWagen;Fox 1.6 Mi Total Flex 8V 5p;2012 Gasolina
-VW - VolksWagen;Fox 1.6 Mi Total Flex 8V 5p;2011 Gasolina
-VW - VolksWagen;Fox 1.6 Mi Total Flex 8V 5p;2010 Gasolina
-VW - VolksWagen;AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel;32000 Diesel
-VW - VolksWagen;AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel;2020 Diesel
-VW - VolksWagen;AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel;2019 Diesel
-VW - VolksWagen;AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel;2018 Diesel
-VW - VolksWagen;AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel;2017 Diesel
-VW - VolksWagen;AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel;2016 Diesel
-VW - VolksWagen;AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel;2015 Diesel
-VW - VolksWagen;AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel;2014 Diesel
-VW - VolksWagen;AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel;2013 Diesel
-VW - VolksWagen;AMAROK CS2.0 16V/S2.0 16V TDI 4x4 Diesel;2012 Diesel
-VW - VolksWagen;AMAROK T. Dark nome CD 2.0 4x4 Dies Aut;2016 Diesel
-VW - VolksWagen;AMAROK T. Dark nome CD 2.0 4x4 Dies Aut;2015 Diesel
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Aut.;2011 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Aut.;2010 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Aut.;2009 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Aut.;2008 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Aut.;2007 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Aut.;2006 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Aut.;2005 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Aut.;2004 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Aut.;2003 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Aut.;2002 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Aut.;2001 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Aut.;2000 Gasolina
-VW - VolksWagen;AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut;32000 Diesel
-VW - VolksWagen;AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut;2020 Diesel
-VW - VolksWagen;AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut;2019 Diesel
-VW - VolksWagen;AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut;2018 Diesel
-VW - VolksWagen;AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut;2017 Diesel
-VW - VolksWagen;AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut;2016 Diesel
-VW - VolksWagen;AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut;2015 Diesel
-VW - VolksWagen;AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut;2014 Diesel
-VW - VolksWagen;AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut;2013 Diesel
-VW - VolksWagen;AMAROK High.CD 2.0 16V TDI 4x4 Dies. Aut;2012 Diesel
-VW - VolksWagen;AMAROK Extreme CD 3.0 4x4 TB Dies. Aut.;32000 Diesel
-VW - VolksWagen;AMAROK Extreme CD 3.0 4x4 TB Dies. Aut.;2021 Diesel
-VW - VolksWagen;AMAROK Extreme CD 3.0 4x4 TB Dies. Aut.;2020 Diesel
-VW - VolksWagen;AMAROK Extreme CD 3.0 4x4 TB Dies. Aut.;2019 Diesel
-VW - VolksWagen;AMAROK Extreme CD 3.0 4x4 TB Dies. Aut.;2018 Diesel
-VW - VolksWagen;Corrado 2.0 Turbo;1992 Gasolina
-VW - VolksWagen;Corrado 2.0 Turbo;1991 Gasolina
-VW - VolksWagen;Caravelle 2.4 Diesel;2000 Diesel
-VW - VolksWagen;Caravelle 2.4 Diesel;1999 Diesel
-VW - VolksWagen;Caravelle 2.4 Diesel;1998 Diesel
-VW - VolksWagen;AMAROK CS2.0 16V/S2.0 16V TDI 4x2 Diesel;2014 Diesel
-VW - VolksWagen;AMAROK CS2.0 16V/S2.0 16V TDI 4x2 Diesel;2013 Diesel
-VW - VolksWagen;AMAROK CS2.0 16V/S2.0 16V TDI 4x2 Diesel;2012 Diesel
-VW - VolksWagen;AMAROK Highline CD 3.0 4x4 TB Dies. Aut.;32000 Diesel
-VW - VolksWagen;AMAROK Highline CD 3.0 4x4 TB Dies. Aut.;2021 Diesel
-VW - VolksWagen;AMAROK Highline CD 3.0 4x4 TB Dies. Aut.;2020 Diesel
-VW - VolksWagen;AMAROK Highline CD 3.0 4x4 TB Dies. Aut.;2019 Diesel
-VW - VolksWagen;AMAROK Highline CD 3.0 4x4 TB Dies. Aut.;2018 Diesel
-VW - VolksWagen;CROSSFOX I MOTION 1.6 Mi T. Flex 8V 5p;2015 Gasolina
-VW - VolksWagen;CROSSFOX I MOTION 1.6 Mi T. Flex 8V 5p;2014 Gasolina
-VW - VolksWagen;CROSSFOX I MOTION 1.6 Mi T. Flex 8V 5p;2013 Gasolina
-VW - VolksWagen;Fox Highline I MOTION 1.6 Flex 16V 5p;2018 Gasolina
-VW - VolksWagen;Fox Highline I MOTION 1.6 Flex 16V 5p;2017 Gasolina
-VW - VolksWagen;Fox Highline I MOTION 1.6 Flex 16V 5p;2016 Gasolina
-VW - VolksWagen;Fox Highline I MOTION 1.6 Flex 16V 5p;2015 Gasolina
-VW - VolksWagen;AMAROK CD2.0 16V/S CD2.0 16V TDI 4x2 Die;2013 Diesel
-VW - VolksWagen;AMAROK CD2.0 16V/S CD2.0 16V TDI 4x2 Die;2012 Diesel
-VW - VolksWagen;AMAROK CD2.0 16V/S CD2.0 16V TDI 4x2 Die;2011 Diesel
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Mec.;2011 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Mec.;2010 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Mec.;2009 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Mec.;2008 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Mec.;2007 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Mec.;2006 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Mec.;2005 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Mec.;2004 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Mec.;2003 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Mec.;2002 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Mec.;2001 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Mec.;2000 Gasolina
-VW - VolksWagen;Bora 2.0/ 2.0 Flex 8v Mec.;1999 Gasolina
-VW - VolksWagen;Apolo GLS/ Vip 1.8;1992 Gasolina
-VW - VolksWagen;Apolo GLS/ Vip 1.8;1991 Gasolina
-VW - VolksWagen;Apolo GLS/ Vip 1.8;1990 Gasolina
-VW - VolksWagen;Fox Comfortline 1.0 Flex 12V 5p;2017 Gasolina
-VW - VolksWagen;Fox Comfortline 1.0 Flex 12V 5p;2016 Gasolina
-VW - VolksWagen;AMAROK Hig. Extreme CD 2.0 4x4 Dies. Aut;2018 Diesel
-VW - VolksWagen;AMAROK Hig. Extreme CD 2.0 4x4 Dies. Aut;2017 Diesel
-VW - VolksWagen;EOS Cab. 2.0 Turbo FSI Tiptronic;2012 Gasolina
-VW - VolksWagen;EOS Cab. 2.0 Turbo FSI Tiptronic;2011 Gasolina
-VW - VolksWagen;EOS Cab. 2.0 Turbo FSI Tiptronic;2010 Gasolina
-VW - VolksWagen;EOS Cab. 2.0 Turbo FSI Tiptronic;2009 Gasolina
-VW - VolksWagen;EOS Cab. 2.0 Turbo FSI Tiptronic;2008 Gasolina
-VW - VolksWagen;Eurovan 2.4 Diesel;2000 Diesel
-VW - VolksWagen;Eurovan 2.4 Diesel;1999 Diesel
-VW - VolksWagen;Eurovan 2.4 Diesel;1998 Diesel
-VW - VolksWagen;Fox City 1.0 Mi/ 1.0Mi Total Flex 8V 5p;2010 Gasolina
-VW - VolksWagen;Fox City 1.0 Mi/ 1.0Mi Total Flex 8V 5p;2009 Gasolina
-VW - VolksWagen;Fox City 1.0 Mi/ 1.0Mi Total Flex 8V 5p;2008 Gasolina
-VW - VolksWagen;Fox City 1.0 Mi/ 1.0Mi Total Flex 8V 5p;2007 Gasolina
-VW - VolksWagen;Fox City 1.0 Mi/ 1.0Mi Total Flex 8V 5p;2006 Gasolina
-VW - VolksWagen;Fox City 1.0 Mi/ 1.0Mi Total Flex 8V 5p;2005 Gasolina
-VW - VolksWagen;Fox City 1.0 Mi/ 1.0Mi Total Flex 8V 5p;2004 Gasolina
-VW - VolksWagen;AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die;2018 Diesel
-VW - VolksWagen;AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die;2017 Diesel
-VW - VolksWagen;AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die;2016 Diesel
-VW - VolksWagen;AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die;2015 Diesel
-VW - VolksWagen;AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die;2014 Diesel
-VW - VolksWagen;AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die;2013 Diesel
-VW - VolksWagen;AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die;2012 Diesel
-VW - VolksWagen;AMAROK CD2.0 16V/S CD2.0 16V TDI 4x4 Die;2011 Diesel
-VW - VolksWagen;CROSSFOX  I MOTION 1.6 T. Flex 16V 5p;2018 Gasolina
-VW - VolksWagen;CROSSFOX  I MOTION 1.6 T. Flex 16V 5p;2017 Gasolina
-VW - VolksWagen;CROSSFOX  I MOTION 1.6 T. Flex 16V 5p;2016 Gasolina
-VW - VolksWagen;CROSSFOX  I MOTION 1.6 T. Flex 16V 5p;2015 Gasolina
-VW - VolksWagen;AMAROK SE CD 2.0 16V TDI 4x4 Diesel;32000 Diesel
-VW - VolksWagen;AMAROK SE CD 2.0 16V TDI 4x4 Diesel;2020 Diesel
-VW - VolksWagen;AMAROK SE CD 2.0 16V TDI 4x4 Diesel;2019 Diesel
-VW - VolksWagen;AMAROK SE CD 2.0 16V TDI 4x4 Diesel;2018 Diesel
-VW - VolksWagen;AMAROK SE CD 2.0 16V TDI 4x4 Diesel;2017 Diesel
-VW - VolksWagen;AMAROK SE CD 2.0 16V TDI 4x4 Diesel;2016 Diesel
-VW - VolksWagen;AMAROK SE CD 2.0 16V TDI 4x4 Diesel;2015 Diesel
-VW - VolksWagen;AMAROK SE CD 2.0 16V TDI 4x4 Diesel;2014 Diesel
-VW - VolksWagen;AMAROK SE CD 2.0 16V TDI 4x4 Diesel;2013 Diesel
-VW - VolksWagen;AMAROK SE CD 2.0 16V TDI 4x4 Diesel;2012 Diesel
-VW - VolksWagen;AMAROK SE CD 2.0 16V TDI 4x4 Diesel;2011 Diesel
-VW - VolksWagen;Fox Plus 1.6Mi/ 1.6Mi Total Flex 8V 4p;2010 Gasolina
-VW - VolksWagen;Fox Plus 1.6Mi/ 1.6Mi Total Flex 8V 4p;2009 Gasolina
-VW - VolksWagen;Fox Plus 1.6Mi/ 1.6Mi Total Flex 8V 4p;2008 Gasolina
-VW - VolksWagen;Fox Plus 1.6Mi/ 1.6Mi Total Flex 8V 4p;2007 Gasolina
-VW - VolksWagen;Fox Plus 1.6Mi/ 1.6Mi Total Flex 8V 4p;2006 Gasolina
-VW - VolksWagen;Fox Plus 1.6Mi/ 1.6Mi Total Flex 8V 4p;2005 Gasolina
-VW - VolksWagen;Fox Plus 1.6Mi/ 1.6Mi Total Flex 8V 4p;2004 Gasolina
-VW - VolksWagen;Gol 1.0 Total Flex 8V 5p (25 anos);2013 Gasolina
-VW - VolksWagen;Fusca 2.0 TSI 16V Aut.;2016 Gasolina
-VW - VolksWagen;Fusca 2.0 TSI 16V Aut.;2015 Gasolina
-VW - VolksWagen;Fusca 2.0 TSI 16V Aut.;2014 Gasolina
-VW - VolksWagen;Fusca 2.0 TSI 16V Aut.;2013 Gasolina
-VW - VolksWagen;Fusca;1996 Gasolina
-VW - VolksWagen;Fusca;1996 Álcool
-VW - VolksWagen;Fusca;1995 Gasolina
-VW - VolksWagen;Fusca;1995 Álcool
-VW - VolksWagen;Fusca;1994 Gasolina
-VW - VolksWagen;Fusca;1986 Gasolina
-VW - VolksWagen;Fusca;1985 Gasolina
-VW - VolksWagen;Fusca 2.0 R-Line TSI 16V Aut.;2016 Gasolina
-VW - VolksWagen;Fusca 2.0 R-Line TSI 16V Aut.;2015 Gasolina
-VW - VolksWagen;Fusca 2.0 R-Line TSI 16V Aut.;2014 Gasolina
-VW - VolksWagen;Fusca 2.0 R-Line TSI 16V Aut.;2013 Gasolina
-VW - VolksWagen;Fusca 2.0 TSI 16V Mec.;2014 Gasolina
-VW - VolksWagen;Fusca 2.0 TSI 16V Mec.;2013 Gasolina
-VW - VolksWagen;Gol (novo) 1.0 Mi Total Flex 8V 4p;2015 Gasolina
-VW - VolksWagen;Gol (novo) 1.0 Mi Total Flex 8V 4p;2014 Gasolina
-VW - VolksWagen;Gol (novo) 1.0 Mi Total Flex 8V 4p;2013 Gasolina
-VW - VolksWagen;Gol (novo) 1.0 Mi Total Flex 8V 4p;2012 Gasolina
-VW - VolksWagen;Gol (novo) 1.0 Mi Total Flex 8V 4p;2011 Gasolina
-VW - VolksWagen;Gol (novo) 1.0 Mi Total Flex 8V 4p;2010 Gasolina
-VW - VolksWagen;Gol (novo) 1.0 Mi Total Flex 8V 4p;2009 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Mi Total Flex 8V 2p;2015 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Mi Total Flex 8V 2p;2014 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Mi Total Flex 8V 2p;2013 Gasolina
-VW - VolksWagen;Gol (novo) 1.0 Mi Total Flex 8V 2p;2014 Gasolina
-VW - VolksWagen;Gol (novo) 1.0 Mi Total Flex 8V 2p;2013 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Power/Highi T.Flex 8v 4P;2017 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Power/Highi T.Flex 8v 4P;2016 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Power/Highi T.Flex 8v 4P;2015 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Power/Highi T.Flex 8v 4P;2014 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Power/Highi T.Flex 8v 4P;2013 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Power/Highi T.Flex 8v 4P;2012 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Power/Highi T.Flex 8v 4P;2011 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Power/Highi T.Flex 8v 4P;2010 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Power/Highi T.Flex 8v 4P;2009 Gasolina
-VW - VolksWagen;Gol 1.0 Flex 12V 5p;32000 Gasolina
-VW - VolksWagen;Gol 1.0 Flex 12V 5p;2021 Gasolina
-VW - VolksWagen;Gol 1.0 Flex 12V 5p;2020 Gasolina
-VW - VolksWagen;Gol 1.0 Flex 12V 5p;2019 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Mi Total Flex 8V 4p;2015 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Mi Total Flex 8V 4p;2014 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Mi Total Flex 8V 4p;2013 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Mi Total Flex 8V 4p;2012 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Mi Total Flex 8V 4p;2011 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Mi Total Flex 8V 4p;2010 Gasolina
-VW - VolksWagen;Gol (novo) 1.6 Mi Total Flex 8V 4p;2009 Gasolina
-VW - VolksWagen;Fox Xtreme 1.6 Flex 8V 5p;32000 Gasolina
-VW - VolksWagen;Fox Xtreme 1.6 Flex 8V 5p;2021 Gasolina
-VW - VolksWagen;Fox Xtreme 1.6 Flex 8V 5p;2020 Gasolina
-VW - VolksWagen;Fox Xtreme 1.6 Flex 8V 5p;2019 Gasolina
-VW - VolksWagen;Fox Xtreme 1.6 Flex 8V 5p;2018 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 16v 2p;2005 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 16v 2p;2004 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 16v 2p;2003 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 16v 2p;2002 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 16v 2p;2001 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 16v 2p;2000 Gasolina
-VW - VolksWagen;Gol 1.0 Mi FUN/ Highway/ Sport 16V  2/4p;2003 Gasolina
-VW - VolksWagen;Gol 1.0 Mi FUN/ Highway/ Sport 16V  2/4p;2002 Gasolina
-VW - VolksWagen;Gol 1.0 Mi FUN/ Highway/ Sport 16V  2/4p;2001 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 16v 4p;2005 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 16v 4p;2004 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 16v 4p;2003 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 16v 4p;2002 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 16v 4p;2001 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 16v 4p;2000 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Plus Total Flex 8V 2p;2003 Gasolina
-VW - VolksWagen;Polo Sense 200 TSI 1.0 Flex 12V Aut(PCD);ERRO
-VW - VolksWagen;Polo Sedan Evidence 1.6 Mi T.Flex 8v 4p;ERRO
-VW - VolksWagen;Polo Sedan I MOTION  1.6 Total Flex  4p;ERRO
-VW - VolksWagen;Polo Sedan 1.6 Mi Total Flex 8V 4p;ERRO
-VW - VolksWagen;Polo Sedan 1.6 Mi 101cv 8V 4p;ERRO
-VW - VolksWagen;Polo Sed.COMFORT. I MOTION 1.6 T.Flex 4p;ERRO
-VW - VolksWagen;Polo Sed./Sed. COMF. 2.0/2.0 Flex 8V 4p;ERRO
-VW - VolksWagen;Polo Sed. COMFORT. 1.6 Mi Tot. Flex 8v;ERRO
-VW - VolksWagen;Polo Next 1.6 Mi 101cv 8V 5p;ERRO
-VW - VolksWagen;Polo I MOTION 1.6 Total Flex  5p;ERRO
-VW - VolksWagen;Polo Highline 200 TSI 1.0 Flex 12V Aut.;ERRO
-VW - VolksWagen;Polo GTS 1.4 TSI 16V Flex;ERRO
-VW - VolksWagen;Polo GTI 1.8 Mi 150cv 20V Turbo 3p;ERRO
-VW - VolksWagen;Polo GT 2.0 Mi Total Flex 8V 5p;ERRO
-VW - VolksWagen;Polo Comfort. 200 TSI 1.0 Flex 12V Aut.;ERRO
-VW - VolksWagen;Polo Classic/ Special 1.8 Mi;ERRO
-VW - VolksWagen;Polo Classic 1.0 Mi 16v  65cv 4p;ERRO
-VW - VolksWagen;Polo BLUEMOTION 1.6 Total Flex 8V 5p;ERRO
-VW - VolksWagen;Polo 2.0 Mi 116cv 8V 5p;ERRO
-VW - VolksWagen;Polo 1.6 MSI Total Flex 16V 5p Aut.;ERRO
-VW - VolksWagen;Polo 1.6 MSI Flex 16V 5p;ERRO
-VW - VolksWagen;Polo 1.6 Mi/S.Ouro 1.6 Mi Tot.Flex 8V 5p;ERRO
-VW - VolksWagen;Polo 1.6 Mi/ S.Ouro 1.6Mi 101cv 8V 5p;ERRO
-VW - VolksWagen;Polo 1.6 E-Flex 8V 5p;ERRO
-VW - VolksWagen;Polo 1.0 Mi 79cv 16V 5p;ERRO
-VW - VolksWagen;Polo 1.0 Flex 12V 5p;ERRO
-VW - VolksWagen;Pointer GTi 2.0;ERRO
-VW - VolksWagen;Pointer GLi 2.0;ERRO
-VW - VolksWagen;Pointer 1.8 / CLi;ERRO
-VW - VolksWagen;Pointer GLi 1.8;ERRO
-VW - VolksWagen;Passat VR6 2.8;ERRO
-VW - VolksWagen;Passat Variant VR6 2.8;ERRO
-VW - VolksWagen;Passat Variant Turbo 2.0 FSI Tiptron. 5p;ERRO
-VW - VolksWagen;Passat Variant Turbo 1.8 Tiptronic;ERRO
-VW - VolksWagen;Passat Variant Turbo 1.8;ERRO
-VW - VolksWagen;Passat Variant R-Line TB 2.0 TSI Tip. 5p;ERRO
-VW - VolksWagen;Passat Variant 3.2 V6 FSI 24V 250cv Tip.;ERRO
-VW - VolksWagen;Passat Variant 2.8 V6 Tiptronic;ERRO
-VW - VolksWagen;Passat Variant 2.8 V6;ERRO
-VW - VolksWagen;Passat Variant 2.0;ERRO
-VW - VolksWagen;Passat Variant 1.8 Mec.;ERRO
-VW - VolksWagen;Passat Variant 1.8 Aut.;ERRO
-VW - VolksWagen;Passat Variant  2.0 FSI 150cv Tiptron.5p;ERRO
-VW - VolksWagen;Passat Turbo 1.8 Tiptronic;ERRO
-VW - VolksWagen;Passat Turbo 1.8 Mec.;ERRO
-VW - VolksWagen;Passat TB 2.0 FSI/TSI 211cv Tiptronic 4p;ERRO
-VW - VolksWagen;Passat R-Line TB 2.0 TSI Tiptronic 4p;ERRO
-VW - VolksWagen;Passat Pointer GTS;ERRO
-VW - VolksWagen;Passat Highline 2.0 TSI 220cv Tip.;ERRO
-VW - VolksWagen;Passat Comfortline 2.0 TSI 220cv Tip.;ERRO
-VW - VolksWagen;Passat CC 3.6 V6 FSI 300cv Tiptronic;ERRO
-VW - VolksWagen;Passat CC 2.0 TSI 211cv Tiptronic;ERRO
-VW - VolksWagen;Passat 3.2 V6 FSI 24V 250cv Tip.;ERRO
-VW - VolksWagen;Passat 2.8 V6 Tiptronic;ERRO
-VW - VolksWagen;Passat 2.8 V6 Protect Tiptronic;ERRO
-VW - VolksWagen;Passat 2.8 V6 Mec.;ERRO
-VW - VolksWagen;Passat 2.0 FSI Tiptronic;ERRO
-VW - VolksWagen;Passat 2.0;ERRO
-VW - VolksWagen;Passat 1.8 Tiptronic;ERRO
-VW - VolksWagen;Passat 1.8 Mec.;ERRO
-VW - VolksWagen;Passat 1.8 Aut.;ERRO
-VW - VolksWagen;Passat  L/LS/LSe/GL/GLS/TS/Fla/Vill/Plus;ERRO
-VW - VolksWagen;Parati Utility 1.8 8V/ 1.0 Turbo 16V;ERRO
-VW - VolksWagen;Parati TITAN 1.6 Mi Total Flex 8V 4p;ERRO
-VW - VolksWagen;Parati SURF 1.8 Mi Total Flex;ERRO
-VW - VolksWagen;Parati Plus/ LS/ S;ERRO
-VW - VolksWagen;Parati SURF 1.6 Mi Total Flex;ERRO
-VW - VolksWagen;Parati GTi 2.0 Mi 16V;ERRO
-VW - VolksWagen;Parati GLSi 2.0 / GLS/ Surf 1.8;ERRO
-VW - VolksWagen;Parati GLS 2.0 Mi 2/4p;ERRO
-VW - VolksWagen;Parati GLi / GL 1.8;ERRO
-VW - VolksWagen;Parati GL 1.8 Mi/ Club 1.8 Mi 2p e 4p;ERRO
-VW - VolksWagen;Parati GL 1.6 Mi/ 1.6/ GLS/ Club 1.6;ERRO
-VW - VolksWagen;Parati Evidence 1.8 8V/ 1.0 16V TB 4p;ERRO
-VW - VolksWagen;Parati CROSSOVER 2.0 8V/ 1.0 16V TB 4p;ERRO
-VW - VolksWagen;Parati COMFORTLINE 1.8 Mi Tot.Flex 8V 4p;ERRO
-VW - VolksWagen;Parati COMFORTLINE 1.6 Mi Tot.Flex 8V 4p;ERRO
-VW - VolksWagen;Parati CLi / CL/ Atlanta 1.8;ERRO
-VW - VolksWagen;Parati CLi / CL/ Atlanta 1.6;ERRO
-VW - VolksWagen;Parati CL 1.8 Mi 2p e 4p;ERRO
-VW - VolksWagen;Parati C 1.6/ CL 1.6 Mi 2p e 4p;ERRO
-VW - VolksWagen;Logus Wolfsburg Edition 2000i;ERRO
-VW - VolksWagen;Logus GLSi / GLS 2000;ERRO
-VW - VolksWagen;Logus GLS 1.8;ERRO
-VW - VolksWagen;Logus GLi / GL 1.8;ERRO
-VW - VolksWagen;Logus 1.8 / CLi / CL;ERRO
-VW - VolksWagen;JETTA Trendline 2.0 T.Flex 8V 4p Tip.;ERRO
-VW - VolksWagen;JETTA Trendline 1.4 TSI 16V 4p Mec.;ERRO
-VW - VolksWagen;JETTA Trendline 1.4 TSI 16V 4p  Aut.;ERRO
-VW - VolksWagen;JETTA R-Line 250 TSI 1.4 Flex 16V Aut.;ERRO
-VW - VolksWagen;JETTA Highline 2.0 TSI 16V 4p Tiptronic;ERRO
-VW - VolksWagen;JETTA GLI 350 TSI 2.0 16V 4p Aut.;ERRO
-VW - VolksWagen;JETTA Comfortline 2.0 T.Flex 8V 4p Tipt.;ERRO
-VW - VolksWagen;JETTA Comfortline 1.4 TSI 16V 4p Aut.;ERRO
-VW - VolksWagen;Fox PRIME/Hghi. IMOTION 1.6 T.Flex 8V 5p;ERRO
-VW - VolksWagen;Fox Route 1.0 Mi Total Flex 8V 5p;ERRO
-VW - VolksWagen;Fox Route 1.0 Mi Total Flex 8V 3p;ERRO
-VW - VolksWagen;Fox RUN 1.6 Flex 8V 5p;ERRO
-VW - VolksWagen;Fox Route 1.6 Mi Total Flex 8V 5p;ERRO
-VW - VolksWagen;Fox Plus 1.6Mi/ 1.6Mi Total Flex 8V 3p;ERRO
-VW - VolksWagen;Fox SELEÇÃO 1.0 Total Flex 8V 5p;ERRO
-VW - VolksWagen;Fox SELEÇÃO 1.6 Total Flex 8V 5p;ERRO
-VW - VolksWagen;Fox TRACK 1.0 Flex 12V 5p;ERRO
-VW - VolksWagen;Fox Trendline 1.0 Flex 12V 5p;ERRO
-VW - VolksWagen;Fox Sportline/Sports 1.0/1.0 Tot.Flex 3p;ERRO
-VW - VolksWagen;Fox Trendline 1.6 Flex 8V 5p;ERRO
-VW - VolksWagen;Fox Route 1.6 Mi Total Flex 8V 3p;ERRO
-VW - VolksWagen;Fox SUNRISE 1.0 Mi Total Flex 8V 5p;ERRO
-VW - VolksWagen;Fox Sportline/Sports 1.6/1.6 Tot.Flex 4p;ERRO
-VW - VolksWagen;Fox Plus 1.0Mi/ 1.0Mi Total Flex 8V 3p;ERRO
-VW - VolksWagen;Fox Highline1.6 Flex 16V 5p;ERRO
-VW - VolksWagen;Fox 1.6 Mi I MOTION Total Flex 8V 5p;ERRO
-VW - VolksWagen;Fox BLUEMOTION 1.0 Mi Total Flex 12V 5p;ERRO
-VW - VolksWagen;Corrado G-60 2.8;ERRO
-VW - VolksWagen;Fox PEPPER 1.6 Flex 16V 5p;ERRO
-VW - VolksWagen;Fox BLUEMOTION 1.0 Mi Total Flex 12V 3p;ERRO
-VW - VolksWagen;Fox extreme 1.6 Mi Total Flex 8V 5p;ERRO
-VW - VolksWagen;Fox Comfortline I Motion 1.6 Flex 8V 5p;ERRO
-VW - VolksWagen;CROSSFOX 1.6 Mi Total Flex 8V 5p;ERRO
-VW - VolksWagen;Fox BlueMotion 1.6 Mi Total Flex 3p.;ERRO
-VW - VolksWagen;Fox PEPPER I MOTION 1.6 Flex 16V 5p;ERRO
-VW - VolksWagen;Fox City 1.0Mi/ 1.0Mi Total Flex 8V 3p;ERRO
-VW - VolksWagen;CROSSFOX  1.6 T. Flex 16V 5p;ERRO
-VW - VolksWagen;Fox Plus 1.0Mi/ 1.0Mi Total Flex 8V 4p;ERRO
-VW - VolksWagen;Fox Comfortline 1.6 Flex 8V 5p;ERRO
-VW - VolksWagen;Fox Connect I Motion 1.6 Flex 8V 5p;ERRO
-VW - VolksWagen;Fox Connect 1.6 Flex 8V 5p;ERRO
-VW - VolksWagen;Fox 1.0 Mi Total Flex 8V 3p;ERRO
-VW - VolksWagen;Gol 1.0 Plus 8v 4p;2003 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 8v 4p;2003 Álcool
-VW - VolksWagen;Gol 1.0 Plus 8v 4p;2002 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 8v 4p;2002 Álcool
-VW - VolksWagen;Gol 1.0 Plus 8v 4p;2001 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 8v 4p;2001 Álcool
-VW - VolksWagen;Gol 1.0 Plus 8v 2p;2004 Álcool
-VW - VolksWagen;Gol 1.0 Plus 8v 2p;2003 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 8v 2p;2003 Álcool
-VW - VolksWagen;Gol 1.0 Plus 8v 2p;2002 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 8v 2p;2002 Álcool
-VW - VolksWagen;Gol 1.0 Plus 8v 2p;2001 Gasolina
-VW - VolksWagen;Gol 1.0 Plus 8v 2p;2001 Álcool
-VW - VolksWagen;Gol 1.0 Power 16v 76cv 4p;2003 Gasolina
-VW - VolksWagen;Gol 1.0 Power 16v 76cv 4p;2002 Gasolina
-VW - VolksWagen;Gol 1.0 Trend/ Power 8V 2p;2003 Gasolina
-VW - VolksWagen;Gol 1.0 Trend/ Power 8V 2p;2002 Gasolina
-VW - VolksWagen;Gol 1.0 Trend/ Power 8V 4p;2003 Gasolina
-VW - VolksWagen;Gol 1.0 Trend/ Power 8V 4p;2002 Gasolina
-VW - VolksWagen;Gol 1000 Mi 4p;ERRO
-VW - VolksWagen;Gol 1.8 Mi Rallye Total Flex 8V 4p;ERRO
-VW - VolksWagen;Gol 1000 Mi Plus 8v 2p e 4p;ERRO
-VW - VolksWagen;Gol 1000i Plus 2p;ERRO
-VW - VolksWagen;Gol 1.8 Mi Power Total Flex 8V 4p;ERRO
-VW - VolksWagen;Gol Comfortline 1.6 T. Flex 8V 3p;ERRO
-VW - VolksWagen;Gol 1000 Mi 16V/ Ouro  2p;ERRO
-VW - VolksWagen;Gol 1000 Mi 16V 2p Turbo;ERRO
-VW - VolksWagen;Gol 1000 (modelo antigo);ERRO
-VW - VolksWagen;Gol CL 1.8 Mi 2p e 4p;ERRO
-VW - VolksWagen;Gol 1000 Mi 16V 4p Turbo;ERRO
-VW - VolksWagen;Gol Furgao 1.0 mi;ERRO
-VW - VolksWagen;Gol Comfort. I MOTION 1.6 T. Flex 8V 3p;ERRO
-VW - VolksWagen;Gol 1000 Mi 16V/ Ouro 4p;ERRO
-VW - VolksWagen;Gol 2.0 Mi 2p;ERRO
-VW - VolksWagen;Gol City 1.6 Mi 8V 2p;ERRO
-VW - VolksWagen;Gol Comfort. I MOTION 1.6 T. Flex 8V 5p;ERRO
-VW - VolksWagen;Gol CLi / CL 1.8;ERRO
-VW - VolksWagen;Gol City (Trend)/Titan 1.0 T. Flex 8V 4p;ERRO
-VW - VolksWagen;Santana COMFORTLINE 1.8 Mi 8V 4p;ERRO
-VW - VolksWagen;Gol City 1.0 Mi 8V 2p;ERRO
-VW - VolksWagen;Gol Furgão 1.6 Mi/ 1.6i/ 1.6;ERRO
-VW - VolksWagen;Gol Comfortline 1.0 T. Flex 8V 3p;ERRO
-VW - VolksWagen;Gol City (Trend) 1.6 Mi T.Flex 8V 4p;ERRO
-VW - VolksWagen;Gol Comfortline 1.6 T. Flex 8V 5p;ERRO
-VW - VolksWagen;Gol COPA 1.6 Mi Total Flex 8V 4p;ERRO
-VW - VolksWagen;Gol City 1.0 Mi 8V 4p;ERRO
-VW - VolksWagen;Gol City (Trend) 1.0 Mi Total Flex 8V 2p;ERRO
-VW - VolksWagen;Gol City (Trend) 1.6 Mi T. Flex 8V 2p;ERRO
-VW - VolksWagen;Gol City 1.0 Total Flex 12V 2p;ERRO
-VW - VolksWagen;Gol Comfortline 1.0 T. Flex 12V 5p;ERRO
-VW - VolksWagen;Gol City 1.6 Mi 8V 4p;ERRO
-VW - VolksWagen;Gol 1000 Mi 2p  / 1000i;ERRO
-VW - VolksWagen;Gol Comfortline 1.0 T. Flex 8V 5p;ERRO
-VW - VolksWagen;Gol 2.0 Mi 4p;ERRO
-VW - VolksWagen;Gol CL 1.6 Mi 2p e 4p;ERRO
-VW - VolksWagen;Gol BLACK 1.0 Mi Total Flex 8V 4p;ERRO
-VW - VolksWagen;Gol CLi / CL/ Copa/ Stones 1.6;ERRO
-VW - VolksWagen;Gol City 1.0 Total Flex 12V 4P;ERRO
-VW - VolksWagen;Gol 1.6 Mi Rallye I MOTION T. Flex 8V 4p;2014 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Rallye I MOTION T. Flex 8V 4p;2013 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Rallye I MOTION T. Flex 8V 4p;2012 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Rallye I MOTION T. Flex 8V 4p;2011 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Plus Total Flex 8V 4p;2004 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Plus Total Flex 8V 4p;2003 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ Power 1.6 Mi 4p;2004 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ Power 1.6 Mi 4p;2004 Álcool
-VW - VolksWagen;Gol 1.6 Mi/ Power 1.6 Mi 4p;2003 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ Power 1.6 Mi 4p;2003 Álcool
-VW - VolksWagen;Gol 1.6 Mi/ Power 1.6 Mi 4p;2002 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ Power 1.6 Mi 4p;2002 Álcool
-VW - VolksWagen;Gol 1.6 Mi/ Power 1.6 Mi 4p;2001 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ Power 1.6 Mi 4p;2001 Álcool
-VW - VolksWagen;Gol 1.6 Mi/ Power 1.6 Mi 4p;2000 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ Power 1.6 Mi 4p;2000 Álcool
-VW - VolksWagen;Gol 1.6 Mi/ Power 1.6 Mi 4p;1999 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ Power 1.6 Mi 4p;1999 Álcool
-VW - VolksWagen;Gol 1.6 Mi/ Power 1.6 Mi 4p;1998 Gasolina
-VW - VolksWagen;Gol 1.8 Mi;2004 Gasolina
-VW - VolksWagen;Gol 1.8 Mi;2003 Gasolina
-VW - VolksWagen;Gol 1.8 Mi;2002 Gasolina
-VW - VolksWagen;Gol 1.8 Mi;2001 Gasolina
-VW - VolksWagen;Gol 1.8 Mi;2000 Gasolina
-VW - VolksWagen;Gol 1.6 MSI Flex 16V 5p Aut.;32000 Gasolina
-VW - VolksWagen;Gol 1.6 MSI Flex 16V 5p Aut.;2021 Gasolina
-VW - VolksWagen;Gol 1.6 MSI Flex 16V 5p Aut.;2020 Gasolina
-VW - VolksWagen;Gol 1.6 MSI Flex 16V 5p Aut.;2019 Gasolina
-VW - VolksWagen;Gol 1.8 Mi 4p;2004 Gasolina
-VW - VolksWagen;Gol 1.8 Mi 4p;2003 Gasolina
-VW - VolksWagen;Gol 1.8 Mi 4p;2002 Gasolina
-VW - VolksWagen;Gol 1.8 Mi 4p;2001 Gasolina
-VW - VolksWagen;Gol 1.8 Mi 4p;2000 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Rallye Total Flex 8V 4p;2014 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Rallye Total Flex 8V 4p;2013 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Rallye Total Flex 8V 4p;2012 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Rallye Total Flex 8V 4p;2011 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Rallye Total Flex 8V 4p;2009 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Rallye Total Flex 8V 4p;2008 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Rallye Total Flex 8V 4p;2005 Gasolina
-VW - VolksWagen;Gol 1.6 I MOTI.Power/Highli T.Flex 8V 4p;2017 Gasolina
-VW - VolksWagen;Gol 1.6 I MOTI.Power/Highli T.Flex 8V 4p;2016 Gasolina
-VW - VolksWagen;Gol 1.6 I MOTI.Power/Highli T.Flex 8V 4p;2015 Gasolina
-VW - VolksWagen;Gol 1.6 I MOTI.Power/Highli T.Flex 8V 4p;2014 Gasolina
-VW - VolksWagen;Gol 1.6 I MOTI.Power/Highli T.Flex 8V 4p;2013 Gasolina
-VW - VolksWagen;Gol 1.6 I MOTI.Power/Highli T.Flex 8V 4p;2012 Gasolina
-VW - VolksWagen;Gol 1.6 I MOTI.Power/Highli T.Flex 8V 4p;2011 Gasolina
-VW - VolksWagen;Gol 1.6 I MOTI.Power/Highli T.Flex 8V 4p;2010 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;2003 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;2003 Álcool
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;2002 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;2002 Álcool
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;2001 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;2001 Álcool
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;2000 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;2000 Álcool
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;1999 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;1999 Álcool
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;1998 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;1998 Álcool
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;1997 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;1997 Álcool
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;1996 Gasolina
-VW - VolksWagen;Gol 1.6 Mi/ 1.6i 2p;1996 Álcool
-VW - VolksWagen;Gol 1.6 Mi I MOTION Total Flex 8V 3p;2014 Gasolina
-VW - VolksWagen;Gol 1.6 Mi I MOTION Total Flex 8V 3p;2013 Gasolina
-VW - VolksWagen;Gol 1.6 MSI Flex 8V 5p;32000 Gasolina
-VW - VolksWagen;Gol 1.6 MSI Flex 8V 5p;2021 Gasolina
-VW - VolksWagen;Gol 1.6 MSI Flex 8V 5p;2020 Gasolina
-VW - VolksWagen;Gol 1.6 MSI Flex 8V 5p;2019 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Power Total Flex 8V 4p;2009 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Power Total Flex 8V 4p;2008 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Power Total Flex 8V 4p;2007 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Power Total Flex 8V 4p;2006 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Power Total Flex 8V 4p;2005 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Power Total Flex 8V 4p;2004 Gasolina
-VW - VolksWagen;Gol 1.6 Mi Power Total Flex 8V 4p;2003 Gasolina
-VW - VolksWagen;VOYAGE I MOTION TREND 1.6 Mi T. Flex 8V;2014 Gasolina
-VW - VolksWagen;VOYAGE I MOTION TREND 1.6 Mi T. Flex 8V;2013 Gasolina
-VW - VolksWagen;VOYAGE I MOTION TREND 1.6 Mi T. Flex 8V;2012 Gasolina
-VW - VolksWagen;VOYAGE I MOTION TREND 1.6 Mi T. Flex 8V;2011 Gasolina
-VW - VolksWagen;VOYAGE I MOTION TREND 1.6 Mi T. Flex 8V;2010 Gasolina
-VW - VolksWagen;Kombi Pick-Up Diesel;1985 Diesel
-VW - VolksWagen;Golf  TECH 1.6 Mi Total Flex 8V 4p;2009 Gasolina
-VW - VolksWagen;Gol COPA 1.0 Mi Total Flex 8V 4p;2006 Gasolina
-VW - VolksWagen;Gol Trendline I Motion 1.6 T. Flex 8V 3p;2015 Gasolina
-VW - VolksWagen;Golf Variant Comf. 250 1.4 TSI Flex Aut.;2018 Gasolina
-VW - VolksWagen;up! Run 1.0 Total Flex 12V 5p;2017 Gasolina
-VW - VolksWagen;Golf Variant High. 250 1.4 TSI Flex Aut.;2018 Gasolina
-VW - VolksWagen;Golf Variant Highli. 1.4 TSI T.Flex Aut;2017 Gasolina
-VW - VolksWagen;up! track 1.0 Total Flex 12V 5p;2017 Gasolina
-VW - VolksWagen;Golf 1.6 Mi Trip/ Sport 101cv 8V;2003 Gasolina
-VW - VolksWagen;Gol Trendline I MOTION 1.6 T. Flex 8V 5p;2015 Gasolina
-VW - VolksWagen;up! high 1.0 Total Flex 12V 5p;ERRO
-VW - VolksWagen;Golf GTi 2.0 TSI 220cv Aut.;ERRO
-VW - VolksWagen;Golf GTi 1.8 Mi 180/193cv Turbo 4p Mec.;ERRO
-VW - VolksWagen;New Beetle 2.0 Mi Mec./Aut.;ERRO
-VW - VolksWagen;VOYAGE C/CL/Fox 1.6;1995 Gasolina
-VW - VolksWagen;VOYAGE C/CL/Fox 1.6;1995 Álcool
-VW - VolksWagen;VOYAGE C/CL/Fox 1.6;1994 Gasolina
-VW - VolksWagen;VOYAGE C/CL/Fox 1.6;1993 Gasolina
-VW - VolksWagen;VOYAGE C/CL/Fox 1.6;1992 Gasolina
-VW - VolksWagen;VOYAGE C/CL/Fox 1.6;1991 Gasolina
-VW - VolksWagen;VOYAGE C/CL/Fox 1.6;1990 Gasolina
-VW - VolksWagen;VOYAGE C/CL/Fox 1.6;1989 Gasolina
-VW - VolksWagen;VOYAGE C/CL/Fox 1.6;1988 Gasolina
-VW - VolksWagen;VOYAGE C/CL/Fox 1.6;1987 Gasolina
-VW - VolksWagen;VOYAGE I MOTION 1.6 Mi Total Flex 8V;2015 Gasolina
-VW - VolksWagen;VOYAGE I MOTION 1.6 Mi Total Flex 8V;2014 Gasolina
-VW - VolksWagen;VOYAGE I MOTION 1.6 Mi Total Flex 8V;2013 Gasolina
-VW - VolksWagen;VOYAGE I MOTION 1.6 Mi Total Flex 8V;2012 Gasolina
-VW - VolksWagen;VOYAGE I MOTION 1.6 Mi Total Flex 8V;2011 Gasolina
-VW - VolksWagen;VOYAGE I MOTION 1.6 Mi Total Flex 8V;2010 Gasolina
-VW - VolksWagen;VOYAGE TREND 1.6 Mi Total Flex 8V 4p;2014 Gasolina
-VW - VolksWagen;VOYAGE TREND 1.6 Mi Total Flex 8V 4p;2013 Gasolina
-VW - VolksWagen;VOYAGE TREND 1.6 Mi Total Flex 8V 4p;2012 Gasolina
-VW - VolksWagen;VOYAGE TREND 1.6 Mi Total Flex 8V 4p;2011 Gasolina
-VW - VolksWagen;VOYAGE TREND 1.6 Mi Total Flex 8V 4p;2010 Gasolina
-VW - VolksWagen;VOYAGE TREND 1.6 Mi Total Flex 8V 4p;2009 Gasolina
-VW - VolksWagen;up! take 1.0 Total Flex 12V 5p;2019 Gasolina
-VW - VolksWagen;up! take 1.0 Total Flex 12V 5p;2018 Gasolina
-VW - VolksWagen;up! take 1.0 Total Flex 12V 5p;2017 Gasolina
-VW - VolksWagen;up! take 1.0 Total Flex 12V 5p;2016 Gasolina
-VW - VolksWagen;up! take 1.0 Total Flex 12V 5p;2015 Gasolina
-VW - VolksWagen;up! take 1.0 Total Flex 12V 5p;2014 Gasolina
-VW - VolksWagen;Saveiro TITAN  1.6 Mi Total Flex 2p;2010 Gasolina
-VW - VolksWagen;Saveiro TITAN  1.6 Mi Total Flex 2p;2009 Gasolina
-VW - VolksWagen;Saveiro TITAN  1.6 Mi Total Flex 2p;2008 Gasolina
-VW - VolksWagen;VOYAGE SELEÇÃO 1.6 Total Flex 8V 4p;2015 Gasolina
-VW - VolksWagen;VOYAGE SELEÇÃO 1.6 Total Flex 8V 4p;2014 Gasolina
-VW - VolksWagen;VOYAGE Comfortline  1.0 T.Flex 8V 4p;2016 Gasolina
-VW - VolksWagen;VOYAGE Comfortline  1.0 T.Flex 8V 4p;2015 Gasolina
-VW - VolksWagen;Saveiro Trendline 1.6 T.Flex 8V;32000 Gasolina
-VW - VolksWagen;Saveiro Trendline 1.6 T.Flex 8V;2021 Gasolina
-VW - VolksWagen;Saveiro Trendline 1.6 T.Flex 8V;2020 Gasolina
-VW - VolksWagen;Saveiro Trendline 1.6 T.Flex 8V;2019 Gasolina
-VW - VolksWagen;Saveiro Trendline 1.6 T.Flex 8V;2018 Gasolina
-VW - VolksWagen;Saveiro Trendline 1.6 T.Flex 8V;2017 Gasolina
-VW - VolksWagen;Saveiro Trendline 1.6 T.Flex 8V;2016 Gasolina
-VW - VolksWagen;Saveiro Trendline 1.6 T.Flex 8V;2015 Gasolina
-VW - VolksWagen;Saveiro TROOPER 1.6 Mi Total Flex 8V CE;2014 Gasolina
-VW - VolksWagen;Saveiro TROOPER 1.6 Mi Total Flex 8V CE;2013 Gasolina
-VW - VolksWagen;Saveiro TROOPER 1.6 Mi Total Flex 8V CE;2012 Gasolina
-VW - VolksWagen;Saveiro TROOPER 1.6 Mi Total Flex 8V CE;2011 Gasolina
-VW - VolksWagen;Saveiro TROOPER 1.6 Mi Total Flex 8V CE;2010 Gasolina
-VW - VolksWagen;VOYAGE CL 1.8;1995 Gasolina
-VW - VolksWagen;VOYAGE CL 1.8;1995 Álcool
-VW - VolksWagen;VOYAGE CL 1.8;1994 Gasolina
-VW - VolksWagen;VOYAGE CL 1.8;1993 Gasolina
-VW - VolksWagen;VOYAGE CL 1.8;1992 Gasolina
-VW - VolksWagen;VOYAGE CL 1.8;1991 Gasolina
-VW - VolksWagen;VOYAGE CL 1.8;1990 Gasolina
-VW - VolksWagen;Golf GTI VR6/ Golf 2.8 VR6;2003 Gasolina
-VW - VolksWagen;Golf GTI VR6/ Golf 2.8 VR6;1997 Gasolina
-VW - VolksWagen;Golf GTI VR6/ Golf 2.8 VR6;1996 Gasolina
-VW - VolksWagen;Golf GTI VR6/ Golf 2.8 VR6;1995 Gasolina
-VW - VolksWagen;up! black/white/red 1.0 TSI TFlex 12V 5p;2017 Gasolina
-VW - VolksWagen;up! black/white/red 1.0 TSI TFlex 12V 5p;2016 Gasolina
-VW - VolksWagen;Gol Trendline 1.6 T.Flex 8V 5p;2018 Gasolina
-VW - VolksWagen;Gol Trendline 1.6 T.Flex 8V 5p;2017 Gasolina
-VW - VolksWagen;Gol Trendline 1.6 T.Flex 8V 5p;2016 Gasolina
-VW - VolksWagen;Gol Trendline 1.6 T.Flex 8V 5p;2015 Gasolina
-VW - VolksWagen;Gol ECOMOTION 1.0 Mi Total Flex 8V 2p;2014 Gasolina
-VW - VolksWagen;Gol ECOMOTION 1.0 Mi Total Flex 8V 2p;2013 Gasolina
-VW - VolksWagen;Gol ECOMOTION 1.0 Mi Total Flex 8V 2p;2012 Gasolina
-VW - VolksWagen;Gol ECOMOTION 1.0 Mi Total Flex 8V 2p;2011 Gasolina
-VW - VolksWagen;Gol Plus 1.0 Mi Total Flex 4p;2008 Gasolina
-VW - VolksWagen;Gol Plus 1.0 Mi Total Flex 4p;2007 Gasolina
-VW - VolksWagen;Gol Plus 1.0 Mi Total Flex 4p;2006 Gasolina
-VW - VolksWagen;up! Xtreme 1.0 TSI Total Flex 12V 5p;32000 Gasolina
-VW - VolksWagen;up! Xtreme 1.0 TSI Total Flex 12V 5p;2021 Gasolina
-VW - VolksWagen;up! Xtreme 1.0 TSI Total Flex 12V 5p;2020 Gasolina
-VW - VolksWagen;Gol TRACK 1.0 Mi Total Flex 8V 4p;2016 Gasolina
-VW - VolksWagen;Gol TRACK 1.0 Mi Total Flex 8V 4p;2015 Gasolina
-VW - VolksWagen;Gol TRACK 1.0 Mi Total Flex 8V 4p;2014 Gasolina
-VW - VolksWagen;SPACEFOX COMFORTLINE 1.6 Mi T.Flex 8V 5p;2018 Gasolina
-VW - VolksWagen;SPACEFOX COMFORTLINE 1.6 Mi T.Flex 8V 5p;2017 Gasolina
-VW - VolksWagen;SPACEFOX COMFORTLINE 1.6 Mi T.Flex 8V 5p;2016 Gasolina
-VW - VolksWagen;SPACEFOX COMFORTLINE 1.6 Mi T.Flex 8V 5p;2015 Gasolina
-VW - VolksWagen;SPACEFOX COMFORTLINE 1.6 Mi T.Flex 8V 5p;2009 Gasolina
-VW - VolksWagen;SPACEFOX COMFORTLINE 1.6 Mi T.Flex 8V 5p;2008 Gasolina
-VW - VolksWagen;SPACEFOX COMFORTLINE 1.6 Mi T.Flex 8V 5p;2007 Gasolina
-VW - VolksWagen;SPACEFOX COMFORTLINE 1.6 Mi T.Flex 8V 5p;2006 Gasolina
-VW - VolksWagen;Kombi Escolar 1.6 MPi;2006 Gasolina
-VW - VolksWagen;Kombi Escolar 1.6 MPi;2006 Álcool
-VW - VolksWagen;Kombi Escolar 1.6 MPi;2005 Gasolina
-VW - VolksWagen;Kombi Escolar 1.6 MPi;2005 Álcool
-VW - VolksWagen;Kombi Escolar 1.6 MPi;2004 Gasolina
-VW - VolksWagen;Kombi Escolar 1.6 MPi;2004 Álcool
-VW - VolksWagen;Kombi Escolar 1.6 MPi;2003 Gasolina
-VW - VolksWagen;Kombi Escolar 1.6 MPi;2003 Álcool
-VW - VolksWagen;Kombi Escolar 1.6 MPi;2002 Gasolina
-VW - VolksWagen;Kombi Escolar 1.6 MPi;2002 Álcool
-VW - VolksWagen;Kombi Escolar 1.6 MPi;2001 Gasolina
-VW - VolksWagen;Kombi Escolar 1.6 MPi;2001 Álcool
-VW - VolksWagen;Kombi Escolar 1.6 MPi;2000 Gasolina
-VW - VolksWagen;Kombi Escolar 1.6 MPi;2000 Álcool
-VW - VolksWagen;Kombi Escolar 1.6 MPi;1999 Gasolina
-VW - VolksWagen;Kombi Escolar 1.6 MPi;1999 Álcool
-VW - VolksWagen;Golf Comfortline 1.4 TSI 140cv Mec.;2015 Gasolina
-VW - VolksWagen;Golf Comfortline 1.4 TSI 140cv Mec.;2014 Gasolina
-VW - VolksWagen;Gol TECH 1.0 Mi Total Flex 8V 4p;2007 Gasolina
-VW - VolksWagen;Gol TECH 1.0 Mi Total Flex 8V 4p;2006 Gasolina
-VW - VolksWagen;Golf GTi Cabrio 2.0 Mi;1997 Gasolina
-VW - VolksWagen;Golf GTi Cabrio 2.0 Mi;1996 Gasolina
-VW - VolksWagen;Golf GTi Cabrio 2.0 Mi;1995 Gasolina
-VW - VolksWagen;Golf GTi Cabrio 2.0 Mi;1994 Gasolina
-VW - VolksWagen;Golf GTi Cabrio 2.0 Mi;1993 Gasolina
-VW - VolksWagen;Golf GTi Cabrio 2.0 Mi;1992 Gasolina
-VW - VolksWagen;Golf GTi 2.0;1998 Gasolina
-VW - VolksWagen;Golf GTi 2.0;1997 Gasolina
-VW - VolksWagen;Golf GTi 2.0;1996 Gasolina
-VW - VolksWagen;Golf GTi 2.0;1995 Gasolina
-VW - VolksWagen;Golf GTi 2.0;1994 Gasolina
-VW - VolksWagen;up! cross I MOTION 1.0 T.Flex 12V 5p;2017 Gasolina
-VW - VolksWagen;up! cross I MOTION 1.0 T.Flex 12V 5p;2016 Gasolina
-VW - VolksWagen;up! cross I MOTION 1.0 T.Flex 12V 5p;2015 Gasolina
-VW - VolksWagen;Gol Special 1.0 Total Flex 8V 3p;2016 Gasolina
-VW - VolksWagen;Gol Special 1.0 Total Flex 8V 3p;2015 Gasolina
-VW - VolksWagen;Gol Rallye 1.6 T. Flex 16V 5p;2016 Gasolina
-VW - VolksWagen;Gol Rallye 1.6 T. Flex 16V 5p;2015 Gasolina
-VW - VolksWagen;Golf Comfortline 1.4 TSI 140cv Aut.;2015 Gasolina
-VW - VolksWagen;Golf Comfortline 1.4 TSI 140cv Aut.;2014 Gasolina
-VW - VolksWagen;Saveiro 1.6 Mi/ 1.6Mi City Total Flex 8V;2010 Gasolina
-VW - VolksWagen;Saveiro 1.6 Mi/ 1.6Mi City Total Flex 8V;2009 Gasolina
-VW - VolksWagen;Saveiro 1.6 Mi/ 1.6Mi City Total Flex 8V;2008 Gasolina
-VW - VolksWagen;Saveiro 1.6 Mi/ 1.6Mi City Total Flex 8V;2007 Gasolina
-VW - VolksWagen;Saveiro 1.6 Mi/ 1.6Mi City Total Flex 8V;2006 Gasolina
-VW - VolksWagen;Saveiro 1.6 Mi/ 1.6Mi City Total Flex 8V;2005 Gasolina
-VW - VolksWagen;Saveiro 1.6 Mi/ 1.6Mi City Total Flex 8V;2004 Gasolina
-VW - VolksWagen;Saveiro 1.6 Mi/ 1.6Mi City Total Flex 8V;2003 Gasolina
-VW - VolksWagen;Gol Trendline 1.0 T.Flex 8V 3p;2016 Gasolina
-VW - VolksWagen;Gol Trendline 1.0 T.Flex 8V 3p;2015 Gasolina
-VW - VolksWagen;Gol Rock in Rio 1.0 Mi Total Flex 8V 5p;2016 Gasolina
-VW - VolksWagen;Gol Rock in Rio 1.0 Mi Total Flex 8V 5p;2012 Gasolina
-VW - VolksWagen;Saveiro Super Surf  1.8 Mi 8V 99cv;2005 Gasolina
-VW - VolksWagen;Saveiro Super Surf  1.8 Mi 8V 99cv;2004 Gasolina
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1999 Gasolina
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1998 Gasolina
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1997 Gasolina
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1996 Gasolina
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1996 Álcool
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1995 Gasolina
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1995 Álcool
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1994 Gasolina
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1993 Gasolina
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1992 Gasolina
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1991 Gasolina
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1990 Gasolina
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1989 Gasolina
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1988 Gasolina
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1987 Gasolina
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1986 Gasolina
-VW - VolksWagen;Saveiro GL 1.8Mi e 1.6/GL/LS/S/ Sunset;1985 Gasolina
-VW - VolksWagen;Gol ECOMOTION  1.0 Mi Total Flex 8V 4p;2014 Gasolina
-VW - VolksWagen;Gol ECOMOTION  1.0 Mi Total Flex 8V 4p;2013 Gasolina
-VW - VolksWagen;Gol ECOMOTION  1.0 Mi Total Flex 8V 4p;2012 Gasolina
-VW - VolksWagen;Gol ECOMOTION  1.0 Mi Total Flex 8V 4p;2011 Gasolina
-VW - VolksWagen;Gol GT/GTS 1.8;1994 Gasolina
-VW - VolksWagen;Gol GT/GTS 1.8;1993 Gasolina
-VW - VolksWagen;Gol GT/GTS 1.8;1992 Gasolina
-VW - VolksWagen;Gol GT/GTS 1.8;1991 Gasolina
-VW - VolksWagen;Gol GT/GTS 1.8;1990 Gasolina
-VW - VolksWagen;Gol GT/GTS 1.8;1989 Gasolina
-VW - VolksWagen;Gol GT/GTS 1.8;1988 Gasolina
-VW - VolksWagen;Gol GT/GTS 1.8;1987 Gasolina
-VW - VolksWagen;Gol GT/GTS 1.8;1986 Gasolina
-VW - VolksWagen;Gol GT/GTS 1.8;1985 Gasolina
-VW - VolksWagen;VIRTUS Highline 200 TSI 1.0 Flex 12V Aut;32000 Gasolina
-VW - VolksWagen;VIRTUS Highline 200 TSI 1.0 Flex 12V Aut;2021 Gasolina
-VW - VolksWagen;VIRTUS Highline 200 TSI 1.0 Flex 12V Aut;2020 Gasolina
-VW - VolksWagen;VIRTUS Highline 200 TSI 1.0 Flex 12V Aut;2019 Gasolina
-VW - VolksWagen;VIRTUS Highline 200 TSI 1.0 Flex 12V Aut;2018 Gasolina
-VW - VolksWagen;up! Connect 1.0 TSI Total Flex 12V 5p;32000 Gasolina
-VW - VolksWagen;up! Connect 1.0 TSI Total Flex 12V 5p;2020 Gasolina
-VW - VolksWagen;VIRTUS GTS 1.4 TSI 16V Flex 4p;32000 Gasolina
-VW - VolksWagen;VIRTUS GTS 1.4 TSI 16V Flex 4p;2021 Gasolina
-VW - VolksWagen;VIRTUS GTS 1.4 TSI 16V Flex 4p;2020 Gasolina
-VW - VolksWagen;Golf 2.0/ 2.0 Mi Flex Comfortline Aut.;2009 Gasolina
-VW - VolksWagen;Golf 2.0/ 2.0 Mi Flex Comfortline Aut.;2008 Gasolina
-VW - VolksWagen;Golf 2.0/ 2.0 Mi Flex Comfortline Aut.;2007 Gasolina
-VW - VolksWagen;Golf 2.0/ 2.0 Mi Flex Comfortline Aut.;2006 Gasolina
-VW - VolksWagen;Golf 2.0/ 2.0 Mi Flex Comfortline Aut.;2005 Gasolina
-VW - VolksWagen;Golf 2.0/ 2.0 Mi Flex Comfortline Aut.;2004 Gasolina
-VW - VolksWagen;Golf 2.0/ 2.0 Mi Flex Comfortline Aut.;2003 Gasolina
-VW - VolksWagen;Golf 2.0/ 2.0 Mi Flex Comfortline Aut.;2002 Gasolina
-VW - VolksWagen;Golf 2.0/ 2.0 Mi Flex Comfortline Aut.;2001 Gasolina
-VW - VolksWagen;Golf 2.0/ 2.0 Mi Flex Comfortline Aut.;2000 Gasolina
-VW - VolksWagen;Golf 2.0/ 2.0 Mi Flex Comfortline Aut.;1999 Gasolina
-VW - VolksWagen;Gol GLS 2.0 Mi;1999 Gasolina
-VW - VolksWagen;Gol GLS 2.0 Mi;1998 Gasolina
-VW - VolksWagen;up! black/white/red I MOTION 1.0 Flex 5p;2016 Gasolina
-VW - VolksWagen;up! black/white/red I MOTION 1.0 Flex 5p;2015 Gasolina
-VW - VolksWagen;up! black/white/red I MOTION 1.0 Flex 5p;2014 Gasolina
-VW - VolksWagen;TOUAREG 3.2 24V V6 Tiptronic 5p;2008 Gasolina
-VW - VolksWagen;TOUAREG 3.2 24V V6 Tiptronic 5p;2007 Gasolina
-VW - VolksWagen;TOUAREG 3.2 24V V6 Tiptronic 5p;2006 Gasolina
-VW - VolksWagen;VOYAGE 1.6 MSI Flex 8V 4p;32000 Gasolina
-VW - VolksWagen;VOYAGE 1.6 MSI Flex 8V 4p;2021 Gasolina
-VW - VolksWagen;VOYAGE 1.6 MSI Flex 8V 4p;2020 Gasolina
-VW - VolksWagen;VOYAGE 1.6 MSI Flex 8V 4p;2019 Gasolina
-VW - VolksWagen;Golf Highline 1.4 TSI 140cv Mec.;2015 Gasolina
-VW - VolksWagen;Golf Highline 1.4 TSI 140cv Mec.;2014 Gasolina
-VW - VolksWagen;Golf  BLACK EDITON 2.0 Mi T. Flex 8V Tip;2013 Gasolina
-VW - VolksWagen;Golf  BLACK EDITON 2.0 Mi T. Flex 8V Tip;2012 Gasolina
-VW - VolksWagen;Golf  BLACK EDITON 2.0 Mi T. Flex 8V Tip;2011 Gasolina
-VW - VolksWagen;Golf  BLACK EDITON 2.0 Mi T. Flex 8V Tip;2010 Gasolina
-VW - VolksWagen;Gol TSi 2000 2p e 4p;1999 Gasolina
-VW - VolksWagen;Gol TSi 2000 2p e 4p;1998 Gasolina
-VW - VolksWagen;Gol TSi 2000 2p e 4p;1997 Gasolina
-VW - VolksWagen;VOYAGE 1.6/1.6 City  Mi Total Flex 8V 4p;2016 Gasolina
-VW - VolksWagen;VOYAGE 1.6/1.6 City  Mi Total Flex 8V 4p;2015 Gasolina
-VW - VolksWagen;VOYAGE 1.6/1.6 City  Mi Total Flex 8V 4p;2014 Gasolina
-VW - VolksWagen;VOYAGE 1.6/1.6 City  Mi Total Flex 8V 4p;2013 Gasolina
-VW - VolksWagen;VOYAGE 1.6/1.6 City  Mi Total Flex 8V 4p;2012 Gasolina
-VW - VolksWagen;VOYAGE 1.6/1.6 City  Mi Total Flex 8V 4p;2011 Gasolina
-VW - VolksWagen;VOYAGE 1.6/1.6 City  Mi Total Flex 8V 4p;2010 Gasolina
-VW - VolksWagen;VOYAGE 1.6/1.6 City  Mi Total Flex 8V 4p;2009 Gasolina
-VW - VolksWagen;Gol GLi / GL/ Atlanta 1.8;1996 Gasolina
-VW - VolksWagen;Gol GLi / GL/ Atlanta 1.8;1996 Álcool
-VW - VolksWagen;Gol GLi / GL/ Atlanta 1.8;1995 Gasolina
-VW - VolksWagen;Gol GLi / GL/ Atlanta 1.8;1995 Álcool
-VW - VolksWagen;Gol GLi / GL/ Atlanta 1.8;1994 Gasolina
-VW - VolksWagen;Gol GLi / GL/ Atlanta 1.8;1993 Gasolina
-VW - VolksWagen;Gol GLi / GL/ Atlanta 1.8;1992 Gasolina
-VW - VolksWagen;Gol GLi / GL/ Atlanta 1.8;1991 Gasolina
-VW - VolksWagen;Gol GLi / GL/ Atlanta 1.8;1990 Gasolina
-VW - VolksWagen;Gol GLi / GL/ Atlanta 1.8;1989 Gasolina
-VW - VolksWagen;Gol GLi / GL/ Atlanta 1.8;1988 Gasolina
-VW - VolksWagen;Gol GTi 2000 16V;2000 Gasolina
-VW - VolksWagen;Gol GTi 2000 16V;1999 Gasolina
-VW - VolksWagen;Gol GTi 2000 16V;1998 Gasolina
-VW - VolksWagen;Gol GTi 2000 16V;1997 Gasolina
-VW - VolksWagen;Gol GTi 2000 16V;1996 Gasolina
-VW - VolksWagen;Grand Saveiro Xtreme/Street  1.6/1.8/2.0;2003 Gasolina
-VW - VolksWagen;Grand Saveiro Xtreme/Street  1.6/1.8/2.0;2002 Gasolina
-VW - VolksWagen;Golf GT 2.0 Mi T. Flex 8V 4p Tiptronic;2013 Gasolina
-VW - VolksWagen;Golf GT 2.0 Mi T. Flex 8V 4p Tiptronic;2012 Gasolina
-VW - VolksWagen;Golf GT 2.0 Mi T. Flex 8V 4p Tiptronic;2011 Gasolina
-VW - VolksWagen;Golf GT 2.0 Mi T. Flex 8V 4p Tiptronic;2010 Gasolina
-VW - VolksWagen;Golf GT 2.0 Mi T. Flex 8V 4p Tiptronic;2009 Gasolina
-VW - VolksWagen;VOYAGE 1.0 Flex 12V 4p;32000 Gasolina
-VW - VolksWagen;VOYAGE 1.0 Flex 12V 4p;2021 Gasolina
-VW - VolksWagen;VOYAGE 1.0 Flex 12V 4p;2020 Gasolina
-VW - VolksWagen;VOYAGE 1.0 Flex 12V 4p;2019 Gasolina
-VW - VolksWagen;Gol GTi 2.0;1997 Gasolina
-VW - VolksWagen;Gol GTi 2.0;1997 Álcool
-VW - VolksWagen;Gol GTi 2.0;1996 Gasolina
-VW - VolksWagen;Gol GTi 2.0;1996 Álcool
-VW - VolksWagen;Gol GTi 2.0;1995 Gasolina
-VW - VolksWagen;Gol GTi 2.0;1995 Álcool
-VW - VolksWagen;Gol GTi 2.0;1994 Gasolina
-VW - VolksWagen;Gol GTi 2.0;1993 Gasolina
-VW - VolksWagen;Gol GTi 2.0;1992 Gasolina
-VW - VolksWagen;Gol GTi 2.0;1991 Gasolina
-VW - VolksWagen;Gol GTi 2.0;1990 Gasolina
-VW - VolksWagen;Gol GTi 2.0;1989 Gasolina
-VW - VolksWagen;Saveiro Robust 1.6 Total Flex 8V;32000 Gasolina
-VW - VolksWagen;Saveiro Robust 1.6 Total Flex 8V;2021 Gasolina
-VW - VolksWagen;Saveiro Robust 1.6 Total Flex 8V;2020 Gasolina
-VW - VolksWagen;Saveiro Robust 1.6 Total Flex 8V;2019 Gasolina
-VW - VolksWagen;Saveiro Robust 1.6 Total Flex 8V;2018 Gasolina
-VW - VolksWagen;Saveiro Robust 1.6 Total Flex 8V;2017 Gasolina
-VW - VolksWagen;VOYAGE COMF/Highli. 1.6 T.Flex 8V 4p;2018 Gasolina
-VW - VolksWagen;VOYAGE COMF/Highli. 1.6 T.Flex 8V 4p;2017 Gasolina
-VW - VolksWagen;VOYAGE COMF/Highli. 1.6 T.Flex 8V 4p;2016 Gasolina
-VW - VolksWagen;VOYAGE COMF/Highli. 1.6 T.Flex 8V 4p;2015 Gasolina
-VW - VolksWagen;VOYAGE COMF/Highli. 1.6 T.Flex 8V 4p;2014 Gasolina
-VW - VolksWagen;VOYAGE COMF/Highli. 1.6 T.Flex 8V 4p;2013 Gasolina
-VW - VolksWagen;VOYAGE COMF/Highli. 1.6 T.Flex 8V 4p;2012 Gasolina
-VW - VolksWagen;VOYAGE COMF/Highli. 1.6 T.Flex 8V 4p;2011 Gasolina
-VW - VolksWagen;VOYAGE COMF/Highli. 1.6 T.Flex 8V 4p;2010 Gasolina
-VW - VolksWagen;VOYAGE COMF/Highli. 1.6 T.Flex 8V 4p;2009 Gasolina
-VW - VolksWagen;Golf 1.8 Mi Sport 150cv Turbo Mec/Aut.;2006 Gasolina
-VW - VolksWagen;Golf 1.8 Mi Sport 150cv Turbo Mec/Aut.;2005 Gasolina
-VW - VolksWagen;Golf 1.8 Mi Sport 150cv Turbo Mec/Aut.;2004 Gasolina
-VW - VolksWagen;VOYAGE Trendline 1.6 T.Flex 8V 4p;2018 Gasolina
-VW - VolksWagen;VOYAGE Trendline 1.6 T.Flex 8V 4p;2017 Gasolina
-VW - VolksWagen;VOYAGE Trendline 1.6 T.Flex 8V 4p;2016 Gasolina
-VW - VolksWagen;VOYAGE Trendline 1.6 T.Flex 8V 4p;2015 Gasolina
-VW - VolksWagen;SpaceCross 1.6 Mi Total Flex 8V;2015 Gasolina
-VW - VolksWagen;SpaceCross 1.6 Mi Total Flex 8V;2014 Gasolina
-VW - VolksWagen;SpaceCross 1.6 Mi Total Flex 8V;2013 Gasolina
-VW - VolksWagen;SpaceCross 1.6 Mi Total Flex 8V;2012 Gasolina
-VW - VolksWagen;Golf GTi 1.8 Mi 20V 2p Turbo Mec.;2001 Gasolina
-VW - VolksWagen;Golf GTi 1.8 Mi 20V 2p Turbo Mec.;2000 Gasolina
-VW - VolksWagen;Golf GTi 1.8 Mi 20V 2p Turbo Mec.;1999 Gasolina
-VW - VolksWagen;up! cross 1.0 T. Flex 12V 5p;2017 Gasolina
-VW - VolksWagen;up! cross 1.0 T. Flex 12V 5p;2016 Gasolina
-VW - VolksWagen;up! cross 1.0 T. Flex 12V 5p;2015 Gasolina
-VW - VolksWagen;T-Cross 1.0 TSI Flex 12V 5p Mec.;32000 Gasolina
-VW - VolksWagen;T-Cross 1.0 TSI Flex 12V 5p Mec.;2021 Gasolina
-VW - VolksWagen;T-Cross 1.0 TSI Flex 12V 5p Mec.;2020 Gasolina
-VW - VolksWagen;up! move 1.0 Total Flex 12V 5p;2019 Gasolina
-VW - VolksWagen;up! move 1.0 Total Flex 12V 5p;2018 Gasolina
-VW - VolksWagen;up! move 1.0 Total Flex 12V 5p;2017 Gasolina
-VW - VolksWagen;up! move 1.0 Total Flex 12V 5p;2016 Gasolina
-VW - VolksWagen;up! move 1.0 Total Flex 12V 5p;2015 Gasolina
-VW - VolksWagen;up! move 1.0 Total Flex 12V 5p;2014 Gasolina
-VW - VolksWagen;Saveiro Super Surf 1.6 Mi Total Flex 8V;2008 Gasolina
-VW - VolksWagen;Saveiro Super Surf 1.6 Mi Total Flex 8V;2007 Gasolina
-VW - VolksWagen;Saveiro Super Surf 1.6 Mi Total Flex 8V;2006 Gasolina
-VW - VolksWagen;Saveiro Super Surf 1.6 Mi Total Flex 8V;2005 Gasolina
-VW - VolksWagen;Saveiro Super Surf 1.6 Mi Total Flex 8V;2004 Gasolina
-VW - VolksWagen;Saveiro Super Surf 1.6 Mi Total Flex 8V;2003 Gasolina
-VW - VolksWagen;Kombi Escolar/50 anos 1.4 Mi Total Flex;2014 Gasolina
-VW - VolksWagen;Kombi Escolar/50 anos 1.4 Mi Total Flex;2013 Gasolina
-VW - VolksWagen;Kombi Escolar/50 anos 1.4 Mi Total Flex;2012 Gasolina
-VW - VolksWagen;Kombi Escolar/50 anos 1.4 Mi Total Flex;2011 Gasolina
-VW - VolksWagen;Kombi Escolar/50 anos 1.4 Mi Total Flex;2010 Gasolina
-VW - VolksWagen;Kombi Escolar/50 anos 1.4 Mi Total Flex;2009 Gasolina
-VW - VolksWagen;Kombi Escolar/50 anos 1.4 Mi Total Flex;2008 Gasolina
-VW - VolksWagen;Kombi Escolar/50 anos 1.4 Mi Total Flex;2007 Gasolina
-VW - VolksWagen;Kombi Escolar/50 anos 1.4 Mi Total Flex;2006 Gasolina
-VW - VolksWagen;VIRTUS Sense 1.6 Flex 16V 5p Aut. (PCD);32000 Gasolina
-VW - VolksWagen;VIRTUS Sense 1.6 Flex 16V 5p Aut. (PCD);2021 Gasolina
-VW - VolksWagen;VIRTUS Sense 1.6 Flex 16V 5p Aut. (PCD);2020 Gasolina
-VW - VolksWagen;VIRTUS Sense 1.6 Flex 16V 5p Aut. (PCD);2019 Gasolina
-VW - VolksWagen;Nivus Comfortline 1.0 200 TSI Flex Aut.;32000 Gasolina
-VW - VolksWagen;Nivus Comfortline 1.0 200 TSI Flex Aut.;2021 Gasolina
-VW - VolksWagen;JETTA Comfort. 250 TSI 1.4 Flex 16v Aut.;32000 Gasolina
-VW - VolksWagen;JETTA Comfort. 250 TSI 1.4 Flex 16v Aut.;2020 Gasolina
-VW - VolksWagen;JETTA Comfort. 250 TSI 1.4 Flex 16v Aut.;2019 Gasolina
-VW - VolksWagen;JETTA Comfort. 250 TSI 1.4 Flex 16v Aut.;2018 Gasolina
-VW - VolksWagen;VOYAGE GL/ Special 1.6/ 1.8;1995 Gasolina
-VW - VolksWagen;VOYAGE GL/ Special 1.6/ 1.8;1995 Álcool
-VW - VolksWagen;VOYAGE GL/ Special 1.6/ 1.8;1994 Gasolina
-VW - VolksWagen;VOYAGE GL/ Special 1.6/ 1.8;1993 Gasolina
-VW - VolksWagen;VOYAGE GL/ Special 1.6/ 1.8;1992 Gasolina
-VW - VolksWagen;VOYAGE GL/ Special 1.6/ 1.8;1991 Gasolina
-VW - VolksWagen;VOYAGE GL/ Special 1.6/ 1.8;1990 Gasolina
-VW - VolksWagen;VOYAGE GL/ Special 1.6/ 1.8;1989 Gasolina
-VW - VolksWagen;VOYAGE GL/ Special 1.6/ 1.8;1988 Gasolina
-VW - VolksWagen;VOYAGE GL/ Special 1.6/ 1.8;1987 Gasolina
-VW - VolksWagen;Saveiro 1.6 Mi Total Flex 8V CE;2014 Gasolina
-VW - VolksWagen;Saveiro 1.6 Mi Total Flex 8V CE;2013 Gasolina
-VW - VolksWagen;Saveiro 1.6 Mi Total Flex 8V CE;2012 Gasolina
-VW - VolksWagen;Saveiro 1.6 Mi Total Flex 8V CE;2011 Gasolina
-VW - VolksWagen;Saveiro 1.6 Mi Total Flex 8V CE;2010 Gasolina
-VW - VolksWagen;Parati 1.6 Mi Plus Total Flex  8V 4p;2009 Gasolina
-VW - VolksWagen;Parati 1.6 Mi Plus Total Flex  8V 4p;2008 Gasolina
-VW - VolksWagen;Parati 1.6 Mi Plus Total Flex  8V 4p;2007 Gasolina
-VW - VolksWagen;Parati 1.6 Mi Plus Total Flex  8V 4p;2006 Gasolina
-VW - VolksWagen;Parati 1.6 Mi Plus Total Flex  8V 4p;2005 Gasolina
-VW - VolksWagen;Gol Trendline 1.0 T.Flex 8V 5p;2016 Gasolina
-VW - VolksWagen;Gol Trendline 1.0 T.Flex 8V 5p;2015 Gasolina
-VW - VolksWagen;SPACEFOX COMF. I MOTION 1.6 Flex 8V 5p;2018 Gasolina
-VW - VolksWagen;SPACEFOX COMF. I MOTION 1.6 Flex 8V 5p;2017 Gasolina
-VW - VolksWagen;SPACEFOX COMF. I MOTION 1.6 Flex 8V 5p;2016 Gasolina
-VW - VolksWagen;SPACEFOX COMF. I MOTION 1.6 Flex 8V 5p;2015 Gasolina
-VW - VolksWagen;Golf Highline 1.4 TSI 140cv Aut.;2015 Gasolina
-VW - VolksWagen;Golf Highline 1.4 TSI 140cv Aut.;2014 Gasolina
-VW - VolksWagen;Gol Special/ Special Xtreme 1.0 Mi 2p;2005 Gasolina
-VW - VolksWagen;Gol Special/ Special Xtreme 1.0 Mi 2p;2005 Álcool
-VW - VolksWagen;Gol Special/ Special Xtreme 1.0 Mi 2p;2004 Gasolina
-VW - VolksWagen;Gol Special/ Special Xtreme 1.0 Mi 2p;2004 Álcool
-VW - VolksWagen;Gol Special/ Special Xtreme 1.0 Mi 2p;2003 Gasolina
-VW - VolksWagen;Gol Special/ Special Xtreme 1.0 Mi 2p;2003 Álcool
-VW - VolksWagen;Gol Special/ Special Xtreme 1.0 Mi 2p;2002 Gasolina
-VW - VolksWagen;Gol Special/ Special Xtreme 1.0 Mi 2p;2002 Álcool
-VW - VolksWagen;Gol Special/ Special Xtreme 1.0 Mi 2p;2001 Gasolina
-VW - VolksWagen;Gol Special/ Special Xtreme 1.0 Mi 2p;2001 Álcool
-VW - VolksWagen;Gol Special/ Special Xtreme 1.0 Mi 2p;2000 Gasolina
-VW - VolksWagen;Gol Special/ Special Xtreme 1.0 Mi 2p;2000 Álcool
-VW - VolksWagen;Gol Special/ Special Xtreme 1.0 Mi 2p;1999 Gasolina
-VW - VolksWagen;Gol Special/ Special Xtreme 1.0 Mi 2p;1999 Álcool
-VW - VolksWagen;Gol Special/ Special Xtreme 1.0 Mi 2p;1998 Gasolina
-VW - VolksWagen;Kombi Furgão;2006 Gasolina
-VW - VolksWagen;Kombi Furgão;2006 Álcool
-VW - VolksWagen;Kombi Furgão;2005 Gasolina
-VW - VolksWagen;Kombi Furgão;2005 Álcool
-VW - VolksWagen;Kombi Furgão;2004 Gasolina
-VW - VolksWagen;Kombi Furgão;2004 Álcool
-VW - VolksWagen;Kombi Furgão;2003 Gasolina
-VW - VolksWagen;Kombi Furgão;2003 Álcool
-VW - VolksWagen;Kombi Furgão;2002 Gasolina
-VW - VolksWagen;Kombi Furgão;2002 Álcool
-VW - VolksWagen;Kombi Furgão;2001 Gasolina
-VW - VolksWagen;Kombi Furgão;2001 Álcool
-VW - VolksWagen;Kombi Furgão;2000 Gasolina
-VW - VolksWagen;Kombi Furgão;2000 Álcool
-VW - VolksWagen;Kombi Furgão;1999 Gasolina
-VW - VolksWagen;Kombi Furgão;1999 Álcool
-VW - VolksWagen;Kombi Furgão;1998 Gasolina
-VW - VolksWagen;Kombi Furgão;1998 Álcool
-VW - VolksWagen;Kombi Furgão;1997 Gasolina
-VW - VolksWagen;Kombi Furgão;1997 Álcool
-VW - VolksWagen;Kombi Furgão;1996 Gasolina
-VW - VolksWagen;Kombi Furgão;1996 Álcool
-VW - VolksWagen;Kombi Furgão;1995 Gasolina
-VW - VolksWagen;Kombi Furgão;1995 Álcool
-VW - VolksWagen;Kombi Furgão;1994 Gasolina
-VW - VolksWagen;Kombi Furgão;1993 Gasolina
-VW - VolksWagen;Kombi Furgão;1992 Gasolina
-VW - VolksWagen;Kombi Furgão;1991 Gasolina
-VW - VolksWagen;Kombi Furgão;1990 Gasolina
-VW - VolksWagen;Kombi Furgão;1989 Gasolina
-VW - VolksWagen;Kombi Furgão;1988 Gasolina
-VW - VolksWagen;Kombi Furgão;1987 Gasolina
-VW - VolksWagen;Kombi Furgão;1986 Gasolina
-VW - VolksWagen;Kombi Furgão;1985 Gasolina
-VW - VolksWagen;Saveiro Trendline 1.6 T.Flex 8V CE;2018 Gasolina
-VW - VolksWagen;Saveiro Trendline 1.6 T.Flex 8V CE;2017 Gasolina
-VW - VolksWagen;Saveiro Trendline 1.6 T.Flex 8V CE;2016 Gasolina
-VW - VolksWagen;Saveiro Trendline 1.6 T.Flex 8V CE;2015 Gasolina
-VW - VolksWagen;SpaceCross I MOTION 1.6 Mi T. Flex 16V;2017 Gasolina
-VW - VolksWagen;SpaceCross I MOTION 1.6 Mi T. Flex 16V;2016 Gasolina
-VW - VolksWagen;SpaceCross I MOTION 1.6 Mi T. Flex 16V;2015 Gasolina
-VW - VolksWagen;Golf Variant Comfortline 1.4 TSI  Aut.;2016 Gasolina
-VW - VolksWagen;Golf Variant Comfortline 1.4 TSI  Aut.;2015 Gasolina
-VW - VolksWagen;Golf Variant Highline 1.4 TSI Aut.;2016 Gasolina
-VW - VolksWagen;Golf Variant Highline 1.4 TSI Aut.;2015 Gasolina
-VW - VolksWagen;Parati 1.0 Mi Plus 16v 4p;2003 Gasolina
-VW - VolksWagen;Parati 1.0 Mi Plus 16v 4p;2002 Gasolina
-VW - VolksWagen;Parati 1.0 Mi Plus 16v 4p;2001 Gasolina
-VW - VolksWagen;SPACEFOX HIGHLINE I MOT. 1.6 T.Flex 16V;2018 Gasolina
-VW - VolksWagen;SPACEFOX HIGHLINE I MOT. 1.6 T.Flex 16V;2017 Gasolina
-VW - VolksWagen;SPACEFOX HIGHLINE I MOT. 1.6 T.Flex 16V;2016 Gasolina
-VW - VolksWagen;SPACEFOX HIGHLINE I MOT. 1.6 T.Flex 16V;2015 Gasolina
-VW - VolksWagen;Gol Special 1.0 Total Flex 8V 5p;2016 Gasolina
-VW - VolksWagen;Gol Special 1.0 Total Flex 8V 5p;2015 Gasolina
-VW - VolksWagen;Saveiro Startline 1.6 T.Flex 8V;2016 Gasolina
-VW - VolksWagen;Saveiro Startline 1.6 T.Flex 8V;2015 Gasolina
-VW - VolksWagen;SPACEFOX 1.6 Trendline I MOT. T.Flex 8V;2019 Gasolina
-VW - VolksWagen;SPACEFOX 1.6 Trendline I MOT. T.Flex 8V;2018 Gasolina
-VW - VolksWagen;SPACEFOX 1.6 Trendline I MOT. T.Flex 8V;2017 Gasolina
-VW - VolksWagen;SPACEFOX 1.6 Trendline I MOT. T.Flex 8V;2016 Gasolina
-VW - VolksWagen;SPACEFOX 1.6 Trendline I MOT. T.Flex 8V;2015 Gasolina
-VW - VolksWagen;up! take 1.0 T. Flex 12V 3p;2017 Gasolina
-VW - VolksWagen;up! take 1.0 T. Flex 12V 3p;2016 Gasolina
-VW - VolksWagen;up! take 1.0 T. Flex 12V 3p;2015 Gasolina
-VW - VolksWagen;up! take 1.0 T. Flex 12V 3p;2014 Gasolina
-VW - VolksWagen;Gol TSi 1.8/ 1.8Mi;1997 Gasolina
-VW - VolksWagen;Gol TSi 1.8/ 1.8Mi;1997 Álcool
-VW - VolksWagen;Gol TSi 1.8/ 1.8Mi;1996 Gasolina
-VW - VolksWagen;Gol TSi 1.8/ 1.8Mi;1996 Álcool
-VW - VolksWagen;Gol L 1.3/ L/ LS/ C/ S/ BX/ Plus 1.6;1988 Gasolina
-VW - VolksWagen;Gol L 1.3/ L/ LS/ C/ S/ BX/ Plus 1.6;1987 Gasolina
-VW - VolksWagen;Gol L 1.3/ L/ LS/ C/ S/ BX/ Plus 1.6;1986 Gasolina
-VW - VolksWagen;Gol L 1.3/ L/ LS/ C/ S/ BX/ Plus 1.6;1985 Gasolina
-VW - VolksWagen;Gol SELEÇÃO 1.0 Mi Total Flex 8V 5p;2015 Gasolina
-VW - VolksWagen;Gol SELEÇÃO 1.0 Mi Total Flex 8V 5p;2014 Gasolina
-VW - VolksWagen;Gol SELEÇÃO 1.0 Mi Total Flex 8V 5p;2011 Gasolina
-VW - VolksWagen;up! high 1.0 TSI Total Flex 12V 5p;2018 Gasolina
-VW - VolksWagen;up! high 1.0 TSI Total Flex 12V 5p;2017 Gasolina
-VW - VolksWagen;up! high 1.0 TSI Total Flex 12V 5p;2016 Gasolina
-VW - VolksWagen;VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang;1995 Gasolina
-VW - VolksWagen;VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang;1995 Álcool
-VW - VolksWagen;VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang;1994 Gasolina
-VW - VolksWagen;VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang;1993 Gasolina
-VW - VolksWagen;VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang;1992 Gasolina
-VW - VolksWagen;VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang;1991 Gasolina
-VW - VolksWagen;VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang;1990 Gasolina
-VW - VolksWagen;VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang;1989 Gasolina
-VW - VolksWagen;VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang;1988 Gasolina
-VW - VolksWagen;VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang;1987 Gasolina
-VW - VolksWagen;VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang;1986 Gasolina
-VW - VolksWagen;VOYAGE L/LS/Plus/GLS/S/Sport/Super L.Ang;1985 Gasolina
-VW - VolksWagen;Gol GL 1.6 Mi/Star 1.6 e 1.8/Atlanta 1.6;1998 Gasolina
-VW - VolksWagen;Gol GL 1.6 Mi/Star 1.6 e 1.8/Atlanta 1.6;1997 Gasolina
-VW - VolksWagen;Gol GL 1.6 Mi/Star 1.6 e 1.8/Atlanta 1.6;1997 Álcool
-VW - VolksWagen;Gol GL 1.6 Mi/Star 1.6 e 1.8/Atlanta 1.6;1996 Gasolina
-VW - VolksWagen;Gol GL 1.6 Mi/Star 1.6 e 1.8/Atlanta 1.6;1992 Gasolina
-VW - VolksWagen;Gol GL 1.6 Mi/Star 1.6 e 1.8/Atlanta 1.6;1991 Gasolina
-VW - VolksWagen;Gol GL 1.6 Mi/Star 1.6 e 1.8/Atlanta 1.6;1990 Gasolina
-VW - VolksWagen;Gol GL 1.6 Mi/Star 1.6 e 1.8/Atlanta 1.6;1989 Gasolina
-VW - VolksWagen;Gol GL 1.6 Mi/Star 1.6 e 1.8/Atlanta 1.6;1988 Gasolina
-VW - VolksWagen;Gol GL 1.6 Mi/Star 1.6 e 1.8/Atlanta 1.6;1987 Gasolina
-VW - VolksWagen;Parati 1000 Mi 16V 4p Turbo;2004 Gasolina
-VW - VolksWagen;Parati 1000 Mi 16V 4p Turbo;2003 Gasolina
-VW - VolksWagen;Parati 1000 Mi 16V 4p Turbo;2002 Gasolina
-VW - VolksWagen;Parati 1000 Mi 16V 4p Turbo;2001 Gasolina
-VW - VolksWagen;Parati 1000 Mi 16V 4p Turbo;2000 Gasolina
-VW - VolksWagen;Golf Sportline 2.0 Mi Total F. 8V Tip.;2014 Gasolina
-VW - VolksWagen;Golf Sportline 2.0 Mi Total F. 8V Tip.;2013 Gasolina
-VW - VolksWagen;Golf Sportline 2.0 Mi Total F. 8V Tip.;2012 Gasolina
-VW - VolksWagen;Golf Sportline 2.0 Mi Total F. 8V Tip.;2011 Gasolina
-VW - VolksWagen;SPACEFOX 1.6 Trendline Total Flex 8v 5p;2019 Gasolina
-VW - VolksWagen;SPACEFOX 1.6 Trendline Total Flex 8v 5p;2018 Gasolina
-VW - VolksWagen;SPACEFOX 1.6 Trendline Total Flex 8v 5p;2017 Gasolina
-VW - VolksWagen;SPACEFOX 1.6 Trendline Total Flex 8v 5p;2016 Gasolina
-VW - VolksWagen;SPACEFOX 1.6 Trendline Total Flex 8v 5p;2015 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;2006 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;2006 Álcool
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;2005 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;2005 Álcool
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;2004 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;2004 Álcool
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;2003 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;2003 Álcool
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;2002 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;2002 Álcool
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;2001 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;2001 Álcool
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;2000 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;2000 Álcool
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1999 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1999 Álcool
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1998 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1998 Álcool
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1997 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1997 Álcool
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1996 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1996 Álcool
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1995 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1995 Álcool
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1994 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1993 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1992 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1991 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1990 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1989 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1988 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1987 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1986 Gasolina
-VW - VolksWagen;Kombi Standard/ Luxo/ Série Prata;1985 Gasolina
-VW - VolksWagen;Saveiro Robust 1.6 Total Flex 8V CD;32000 Gasolina
-VW - VolksWagen;Saveiro Robust 1.6 Total Flex 8V CD;2021 Gasolina
-VW - VolksWagen;Saveiro Robust 1.6 Total Flex 8V CD;2020 Gasolina
-VW - VolksWagen;Saveiro Robust 1.6 Total Flex 8V CD;2019 Gasolina
-VW - VolksWagen;Saveiro Robust 1.6 Total Flex 8V CD;2018 Gasolina
-VW - VolksWagen;T-Cross 1.0 TSI Flex 12V 5p Aut.;32000 Gasolina
-VW - VolksWagen;T-Cross 1.0 TSI Flex 12V 5p Aut.;2021 Gasolina
-VW - VolksWagen;T-Cross 1.0 TSI Flex 12V 5p Aut.;2020 Gasolina
-VW - VolksWagen;Golf GL 1.8/ 2.0i 4p;1999 Gasolina
-VW - VolksWagen;Golf GL 1.8/ 2.0i 4p;1998 Gasolina
-VW - VolksWagen;Golf GL 1.8/ 2.0i 4p;1997 Gasolina
-VW - VolksWagen;Golf GL 1.8/ 2.0i 4p;1996 Gasolina
-VW - VolksWagen;Golf GL 1.8/ 2.0i 4p;1995 Gasolina
-VW - VolksWagen;Saveiro TROOPER 1.6 Mi Total Flex 8V;ERRO
-VW - VolksWagen;TIGUAN Allspac R-Line 350 TSI 2.0 4x4;ERRO
-VW - VolksWagen;Golf Highline 250 TSI 1.4 Flex 16V Aut.;ERRO
-VW - VolksWagen;Golf Sportline 1.6 Mi Total Flex 8V 4p;ERRO
-VW - VolksWagen;up! move 1.0 T. Flex 12V 3p;ERRO
-VW - VolksWagen;Saveiro SPORTLINE 1.8 Mi Total Flex 8V;ERRO
-VW - VolksWagen;Quantum Exclusive 2.0 Mi;ERRO
-VW - VolksWagen;Golf GTi 1.8 Mi 20V Turbo 2p Aut.;ERRO
-VW - VolksWagen;Saveiro Pepper 1.6 Flex 8V CE;ERRO
-VW - VolksWagen;Saveiro Diesel (todas);ERRO
-VW - VolksWagen;Golf SILVER EDIT. 2.0 Mi T.Flex 8v Mec.;ERRO
-VW - VolksWagen;Quantum Evidence 2.0 Mi;ERRO
-VW - VolksWagen;Gol Trendline 1.0 T.Flex 12V 3p;ERRO
-VW - VolksWagen;Quantum 1.8 Mi/ 1.8i;ERRO
-VW - VolksWagen;Saveiro CROSSOVER 1.8 Mi Total Flex 8V;ERRO
-VW - VolksWagen;Polo SPORTLINE I MOTION 1.6 T.Flex 5p;ERRO
-VW - VolksWagen;VIRTUS 1.6 MSI Flex 16V 5p Mec.;ERRO
-VW - VolksWagen;Kombi Furgão 1.4 Mi Total Flex 8V;ERRO
-VW - VolksWagen;Saveiro CROSS 1.6 T.Flex 16V CD;ERRO
-VW - VolksWagen;SPACEFOX 1.6/ 1.6 Trend Total Flex 8V 5p;ERRO
-VW - VolksWagen;up! Pepper 1.0 TSI T.Flex 12V 5p;ERRO
-VW - VolksWagen;Kombi Furgão Diesel;ERRO
-VW - VolksWagen;Saveiro SURF 1.8 Mi Total Flex 2p;ERRO
-VW - VolksWagen;Nivus Highline 1.0 200 TSI Flex Aut.;ERRO
-VW - VolksWagen;Golf Comfort. 200 TSI 1.0 Flex 12V Aut.;ERRO
-VW - VolksWagen;Saveiro CROSS 1.6 Mi Total Flex 8V CE;ERRO
-VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;ERRO
-VW - VolksWagen;Parati 1000 Mi 16V 2p e 4p;ERRO
-VW - VolksWagen;VOYAGE  Trendline 1.0 T.Flex 8V 4p;ERRO
-VW - VolksWagen;Parati 1.8 Mi Tour 8V 99cv 4p;ERRO
-VW - VolksWagen;Kombi Lotação 1.6 MPi;ERRO
-VW - VolksWagen;SpaceCross I MOTION 1.6 Mi Total Flex 8V;ERRO
-VW - VolksWagen;Saveiro CL 1.6 Mi / CL/ C 1.6;ERRO
-VW - VolksWagen;Saveiro FUN 1.8 99cv/ City e S.Surf  1.6;ERRO
-VW - VolksWagen;Golf GTE TSI 1.4 16V Híbrido Aut.;ERRO
-VW - VolksWagen;Nivus Launching Ed. 1.0 200 TSI Flex Aut;ERRO
-VW - VolksWagen;SPACEFOX  TREND I MOTION 1.6 T. Flex 8V;ERRO
-VW - VolksWagen;Parati 1.8 Mi Plus Total Flex 8V 4p;ERRO
-VW - VolksWagen;Logus 1.6 / CLi / CL/ GL;ERRO
-VW - VolksWagen;Golf Highline 1.4 TSI Total Flex Mec.;ERRO
-VW - VolksWagen;JETTA  GLX III 2.8 VR6;ERRO
-VW - VolksWagen;JETTA 2.5 20V 150/170cv Tiptronic;ERRO
-VW - VolksWagen;Kombi Carat;ERRO
-VW - VolksWagen;Parati 1.8 Mi City Total Flex 8V 4p;ERRO
-VW - VolksWagen;Parati 1.8 Mi CROSSOVER Total Flex 8V 4p;ERRO
-VW - VolksWagen;up! 1.0 Total Flex 12V 5p;ERRO
-VW - VolksWagen;Parati 1.0 Mi FUN/ SunSet 16V 4p;ERRO
-VW - VolksWagen;VOYAGE I MOTION  Trendline 1.6 T.Flex 8V;ERRO
-VW - VolksWagen;Quantum 2.0 Mi;ERRO
-VW - VolksWagen;Golf 1.6Mi/ 1.6Mi Gener./Black & Silver;ERRO
-VW - VolksWagen;Golf GTi 350 TSI 2.0 230cv 16V Aut.;ERRO
-VW - VolksWagen;Golf Variant Comfortline 1.4 TSI Mec.;ERRO
-VW - VolksWagen;Gol TECH 1.0 Mi Total Flex 8V 2p;ERRO
-VW - VolksWagen;VOYAGE SELEÇÃO 1.6 I MOTION T.Flex 8V 4p;ERRO
-VW - VolksWagen;Santana GLi / GL/ Sport 1.8/ 2.0;ERRO
-VW - VolksWagen;Golf 2.0/ 2.0 Mi Flex Aut/Tiptronic.;ERRO
-VW - VolksWagen;Saveiro Super Surf 1.8 Mi Total Flex 8V;ERRO
-VW - VolksWagen;Gol GL 1.8 Mi 2p e 4p;ERRO
-VW - VolksWagen;Golf 1.6 Mi Total Flex 8V 4p;ERRO
-VW - VolksWagen;Golf Highline 1.4 TSI Total Flex Aut.;ERRO
-VW - VolksWagen;Golf Comfortline 1.0 TSI Total Flex Mec.;ERRO
-VW - VolksWagen;Gol TRACK 1.0 Total Flex 12V 5p;ERRO
-VW - VolksWagen;Gol SELEÇÃO 1.6 I MOTION T.Flex 8V 5p;ERRO
-VW - VolksWagen;Gol SELEÇÃO 1.6 Total Flex 8V 5p;ERRO
-VW - VolksWagen;T-Cross Sense 1.0 TSI Flex 5p Aut.(PCD);ERRO
-VW - VolksWagen;VOYAGE I MOTION COMF/Hghli.1.6 T.Flex 8V;ERRO
-VW - VolksWagen;VOYAGE Comfortline 1.0 T.Flex 12V 4p;ERRO
-VW - VolksWagen;Gol I MOTION 1.6 Mi Total Flex 8V 4p;ERRO
-VW - VolksWagen;TIGUAN 1.4 TSI 16V 150cv 5p;ERRO
-VW - VolksWagen;Quantum GLi / GL 1.8/ 2.0;ERRO
-VW - VolksWagen;Parati 1.0 Mi Tour 16V 76cv 4p;ERRO
-VW - VolksWagen;VOYAGE I MOTION Evidence 1.6 T.Flex 8V;ERRO
-VW - VolksWagen;VOYAGE Trendline 1.0 T.Flex 12V 4p;ERRO
-VW - VolksWagen;up! black/white/red 1.0 T. Flex 12V 5p;ERRO
-VW - VolksWagen;Golf GTI 1.8 Turbo;ERRO
-VW - VolksWagen;TOUAREG 4.2 32V V8  Tiptronic 5p;ERRO
-VW - VolksWagen;JETTA 250 TSI 1.4 flex 16v Aut.;ERRO
-VW - VolksWagen;Santana CS/CD/CG;ERRO
-VW - VolksWagen;SPACEFOX SPORTLINE/HIGHLINE I MOTION 1.6;ERRO
-VW - VolksWagen;Golf GT 2.0 Mi Total Flex 8V 4p;ERRO
-VW - VolksWagen;SpaceCross 1.6 Mi Total Flex 16V;ERRO
-VW - VolksWagen;up! SPEED 1.0 TSI T. Flex 12V 5p;ERRO
-VW - VolksWagen;Kombi Lotação 1.4 Mi Total Flex 8V;ERRO
-VW - VolksWagen;Parati 1.0 Mi Summer 16v 4p;ERRO
-VW - VolksWagen;TIGUAN Allspac Comf 250 TSI 1.4 Flex;ERRO
-VW - VolksWagen;up! move I MOTION 1.0 T. Flex 12V 5p;ERRO
-VW - VolksWagen;SPACEFOX  SPORTLINE/HIGHLINE 1.6 T.Flex;ERRO
-VW - VolksWagen;Saveiro CROSSOVER 1.8 Mi 8V;ERRO
-VW - VolksWagen;Golf GTi 1.8 Mi 180/193cv Turbo 4p Tip.;ERRO
-VW - VolksWagen;Saveiro CROSSOVER 1.6 Mi Total Flex 8V;ERRO
-VW - VolksWagen;Golf Flash 1.6 Mi/1.6 Mi Tot. Flex 8V 4p;ERRO
-VW - VolksWagen;Santana Exclusiv 2.0 Mi/ Executivo 2.0i;ERRO
-VW - VolksWagen;Saveiro TSi 2.0 Mi;ERRO
-VW - VolksWagen;Polo Sportline 2.0 Mi Total Flex 8V 5p;ERRO
-VW - VolksWagen;Saveiro Pepper 1.6 Flex 8V CD;ERRO
-VW - VolksWagen;up! move 1.0 TSI Total Flex 12V 5p;ERRO
-VW - VolksWagen;Santana 1.8 Mi;ERRO
-VW - VolksWagen;Saveiro SURF 1.6 Mi Total Flex 2p;ERRO
-VW - VolksWagen;Parati 1.8 Mi/ 1.8 Mi Plus;ERRO
-VW - VolksWagen;TIGUAN 2.0 TSI 16V 200cv Tiptronic 5p;ERRO
-VW - VolksWagen;up! Run I MOTION 1.0 Total Flex 12V 5p;ERRO
-VW - VolksWagen;Van 1.6 Mi (furgão);ERRO
-VW - VolksWagen;Santana Evidenc 2.0 MI;ERRO
-VW - VolksWagen;VIRTUS Comfort. 200 TSI 1.0 Flex 12V Aut;ERRO
-VW - VolksWagen;Golf Comfortline 1.6 MSI Total Flex Aut.;ERRO
-VW - VolksWagen;Gol Trendline 1.0 T.Flex 12V 5p;ERRO
-VW - VolksWagen;VOYAGE Evidence 1.6 Total Flex 8V 4p;ERRO
-VW - VolksWagen;Saveiro 1.8 Mi;ERRO
-VW - VolksWagen;Gol Plus 1.0 Mi Total Flex 2p;ERRO
-VW - VolksWagen;Golf 2.0/2.0 T. Flex Mec.(Black & Silv);ERRO
-VW - VolksWagen;Saveiro CL/ Summer 1.8 Mi e 1.8;ERRO
-VW - VolksWagen;SPACEFOX HIGHLINE 1.6 T.Flex 16V;ERRO
-VW - VolksWagen;Gol Trendline 1.6 T.Flex 8V 3p;ERRO
-VW - VolksWagen;Golf 2.0/ 2.0 Mi Flex Comfortline/ Sport;ERRO
-VW - VolksWagen;VOYAGE 1.0/1.0 City Mi Total Flex 8V 4p;ERRO
-VW - VolksWagen;Kombi LAST EDITION 56 1.4 Mi Total Flex;ERRO
-VW - VolksWagen;Golf GTi 1.8 Mi 20V Turbo 4p Mec.;ERRO
-VW - VolksWagen;TOUAREG R-Line 4.2 V8 360cv Tiptronic 5p;ERRO
-VW - VolksWagen;Golf GLX 2.0 4p;ERRO
-VW - VolksWagen;Gol Rallye I MOTION 1.6 T. Flex 16V 5p;ERRO
-VW - VolksWagen;Golf Variant Comfort. 1.4 TSI T.Flex Aut;ERRO
-VW - VolksWagen;Gol Special 1.6 Mi 8V 99cv 2p;ERRO
-VW - VolksWagen;Gol Special 1.0 Mi 4p;ERRO
-VW - VolksWagen;Saveiro CROSS 1.6 T. Flex 16V CE;ERRO
-VW - VolksWagen;SPACEFOX Route 1.6 Mi T.Flex 5p;ERRO
-VW - VolksWagen;Golf GTi 1.8 Mi 20V Turbo 4p Aut.;ERRO
-VW - VolksWagen;up! move I MOTION 1.0 T. Flex 12V 3p;ERRO
-VW - VolksWagen;VOYAGE GL 1.8 4p (Argentino);ERRO
-VW - VolksWagen;Golf SILVER EDIT. 2.0 Mi T.Flex 8V Tip.;ERRO
-VW - VolksWagen;Parati 2.0 Mi/ 2.0 Mi Track & Field;ERRO
-VW - VolksWagen;JETTA Variant 2.5 20V 170cv Tiptronic;ERRO
-VW - VolksWagen;VOYAGE 1.6 MSI Flex 16V 4p Aut.;ERRO
-VW - VolksWagen;T-Cross Comfortline 1.0 TSI Flex 5p Aut.;ERRO
-VW - VolksWagen;TOUAREG 3.6 24V V6 280cv Tiptronic 5p;ERRO
-VW - VolksWagen;VOYAGE SELEÇÃO 1.0 Mi Total Flex 8V 4p;ERRO
-VW - VolksWagen;Saveiro Highline 1.6 T. Flex 8V CD;ERRO
-VW - VolksWagen;up! cross 1.0 TSI Total Flex 12V 5p;ERRO
-VW - VolksWagen;JETTA Comfortline  2.0 T.Flex 8V 4p Mec.;ERRO
-VW - VolksWagen;Kombi Standard 1.4 Mi Total Flex 8V;ERRO
-VW - VolksWagen;Parati 1.6Mi/1.6Mi City/T.Field T.Flex;ERRO
-VW - VolksWagen;Santana 2.0 Mi 2p e 4p;ERRO
-VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;ERRO
-VW - VolksWagen;Parati 1.8 Mi T. Field Total Flex 8V 4p;ERRO
-VW - VolksWagen;Saveiro Trendline 1.6 T.Flex 8V CD;ERRO
-VW - VolksWagen;Quantum GLSi / GLS 1.8/Sport/ Family 2.0;ERRO
-VW - VolksWagen;Golf Comfortline 1.6 MSI Total Flex Mec.;ERRO
-VW - VolksWagen;Saveiro City 1.8 Mi Total Flex 8V;ERRO
-VW - VolksWagen;Parati 1.6 Mi/ 1.6 Mi City;ERRO
-VW - VolksWagen;VIRTUS 1.6 MSI Flex 16V 4p Aut.;ERRO
-VW - VolksWagen;Gol 1000 Mi Plus 16V 2p e 4p;ERRO
-VW - VolksWagen;Saveiro Rock in Rio 1.6 Total Flex 8V CD;ERRO
+Ford;Club Wagon XLT 4.9 V6;1996 Gasolina
+Ford;Club Wagon XLT 4.9 V6;1995 Gasolina
+Ford;Aspire 1.3;1995 Gasolina
+Ford;Courier Sport 1.6 8v;2001 Gasolina
+Ford;Contour SE/ GL/ LX  2.0 16V;1995 Gasolina
+Ford;Contour SE/GL/ LX 2.5 24V;1995 Gasolina
+Ford;Del Rey Belina GL;1987 Gasolina
+Ford;Aerostar Mini-Van 3.8;1995 Gasolina
+Ford;Aerostar Mini-Van 3.8;1994 Gasolina
+Ford;Aerostar Mini-Van 3.8;1993 Gasolina
+Ford;Aerostar Mini-Van 3.8;1992 Gasolina
+Ford;Aerostar Mini-Van 3.8;1991 Gasolina
+Ford;Aerostar Mini-Van 3.8;1990 Gasolina
+Ford;Belina GL 1.8 / 1.6;1986 Gasolina
+Ford;Belina GL 1.8 / 1.6;1985 Gasolina
+Ford;Courier Van 1.6/ 1.6 Flex 8V (Carga);2012 Gasolina
+Ford;Courier Van 1.6/ 1.6 Flex 8V (Carga);2011 Gasolina
+Ford;Courier Van 1.6/ 1.6 Flex 8V (Carga);2010 Gasolina
+Ford;Courier Van 1.6/ 1.6 Flex 8V (Carga);2009 Gasolina
+Ford;Courier Van 1.6/ 1.6 Flex 8V (Carga);2008 Gasolina
+Ford;Courier Van 1.6/ 1.6 Flex 8V (Carga);2007 Gasolina
+Ford;Corcel II GL/GT;1986 Gasolina
+Ford;Corcel II GL/GT;1985 Gasolina
+Ford;Courier XL/XL-RS 1.6/ XL 1.6 Flex;2013 Gasolina
+Ford;Courier XL/XL-RS 1.6/ XL 1.6 Flex;2012 Gasolina
+Ford;Courier XL/XL-RS 1.6/ XL 1.6 Flex;2011 Gasolina
+Ford;Courier XL/XL-RS 1.6/ XL 1.6 Flex;2010 Gasolina
+Ford;Courier XL/XL-RS 1.6/ XL 1.6 Flex;2009 Gasolina
+Ford;Courier XL/XL-RS 1.6/ XL 1.6 Flex;2008 Gasolina
+Ford;Courier XL/XL-RS 1.6/ XL 1.6 Flex;2007 Gasolina
+Ford;Courier XL/XL-RS 1.6/ XL 1.6 Flex;2006 Gasolina
+Ford;Courier XL/XL-RS 1.6/ XL 1.6 Flex;2005 Gasolina
+Ford;Courier XL/XL-RS 1.6/ XL 1.6 Flex;2004 Gasolina
+Ford;Courier XL/XL-RS 1.6/ XL 1.6 Flex;2003 Gasolina
+Ford;Courier XL/XL-RS 1.6/ XL 1.6 Flex;2002 Gasolina
+Ford;Courier XL/XL-RS 1.6/ XL 1.6 Flex;2001 Gasolina
+Ford;Courier XL/XL-RS 1.6/ XL 1.6 Flex;2000 Gasolina
+Ford;Belina L 1.8/ 1.6;1986 Gasolina
+Ford;Belina L 1.8/ 1.6;1985 Gasolina
+Ford;Del Rey Belina Ghia;1991 Gasolina
+Ford;Del Rey Belina Ghia;1990 Gasolina
+Ford;Del Rey Belina Ghia;1989 Gasolina
+Ford;Del Rey Belina Ghia;1988 Gasolina
+Ford;Del Rey Belina Ghia;1987 Gasolina
+Ford;Del Rey Belina Ghia;1986 Gasolina
+Ford;Courier CLX 1.4i 16V;1999 Gasolina
+Ford;Courier CLX 1.4i 16V;1998 Gasolina
+Ford;Club Wagon V8;1995 Gasolina
+Ford;Club Wagon V8;1994 Gasolina
+Ford;Club Wagon V8;1993 Gasolina
+Ford;Courier 1.6 L/ 1.6 Flex;2013 Gasolina
+Ford;Courier 1.6 L/ 1.6 Flex;2012 Gasolina
+Ford;Courier 1.6 L/ 1.6 Flex;2011 Gasolina
+Ford;Courier 1.6 L/ 1.6 Flex;2010 Gasolina
+Ford;Courier 1.6 L/ 1.6 Flex;2009 Gasolina
+Ford;Courier 1.6 L/ 1.6 Flex;2008 Gasolina
+Ford;Courier 1.6 L/ 1.6 Flex;2007 Gasolina
+Ford;Courier 1.6 L/ 1.6 Flex;2006 Gasolina
+Ford;Courier 1.6 L/ 1.6 Flex;2005 Gasolina
+Ford;Courier 1.6 L/ 1.6 Flex;2004 Gasolina
+Ford;Courier 1.6 L/ 1.6 Flex;2003 Gasolina
+Ford;Courier 1.6 L/ 1.6 Flex;2002 Gasolina
+Ford;Courier 1.6 L/ 1.6 Flex;2001 Gasolina
+Ford;Courier 1.6 L/ 1.6 Flex;2000 Gasolina
+Ford;Crown Victoria LX 4.6;1992 Gasolina
+Ford;Crown Victoria LX 4.6;1991 Gasolina
+Ford;Corcel II L;1986 Gasolina
+Ford;Corcel II L;1985 Gasolina
+Ford;Courier Si 1.4i 16V;2000 Gasolina
+Ford;Courier Si 1.4i 16V;1999 Gasolina
+Ford;Courier Si 1.4i 16V;1998 Gasolina
+Ford;Courier Si 1.4i 16V;1997 Gasolina
+Ford;Courier 1.3i/Furgão;2000 Gasolina
+Ford;Courier 1.3i/Furgão;1999 Gasolina
+Ford;Courier 1.3i/Furgão;1998 Gasolina
+Ford;Courier 1.3i/Furgão;1997 Gasolina
+Ford;Del Rey Belina GLX;1991 Gasolina
+Ford;Del Rey Belina GLX;1990 Gasolina
+Ford;Del Rey Belina GLX;1989 Gasolina
+Ford;Del Rey Belina GLX;1988 Gasolina
+Ford;Del Rey Belina GLX;1987 Gasolina
+Ford;Del Rey Ghia 1.8 / 1.6 2p e 4p;1991 Gasolina
+Ford;Del Rey Ghia 1.8 / 1.6 2p e 4p;1990 Gasolina
+Ford;Del Rey Ghia 1.8 / 1.6 2p e 4p;1989 Gasolina
+Ford;Del Rey Ghia 1.8 / 1.6 2p e 4p;1988 Gasolina
+Ford;Del Rey Ghia 1.8 / 1.6 2p e 4p;1987 Gasolina
+Ford;Del Rey Ghia 1.8 / 1.6 2p e 4p;1986 Gasolina
+Ford;Del Rey Ghia 1.8 / 1.6 2p e 4p;1985 Gasolina
+Ford;Del Rey Belina L;1991 Gasolina
+Ford;Del Rey Belina L;1990 Gasolina
+Ford;Del Rey Belina L;1989 Gasolina
+Ford;Del Rey Belina L;1988 Gasolina
+Ford;Del Rey Belina L;1987 Gasolina
+Ford;Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p;1991 Gasolina
+Ford;Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p;1990 Gasolina
+Ford;Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p;1989 Gasolina
+Ford;Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p;1988 Gasolina
+Ford;Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p;1987 Gasolina
+Ford;Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p;1986 Gasolina
+Ford;Del Rey GLX 1.6/1.8 / GL 1.6/1.8 2p e 4p;1985 Gasolina
+Ford;EcoSport  100 anos 1.5 Flex 5p Aut.;32000 Gasolina
+Ford;EcoSport  100 anos 1.5 Flex 5p Aut.;2020 Gasolina
+Ford;Del Rey L 1.8 / 1.6 2p e 4p;1991 Gasolina
+Ford;Del Rey L 1.8 / 1.6 2p e 4p;1990 Gasolina
+Ford;Del Rey L 1.8 / 1.6 2p e 4p;1989 Gasolina
+Ford;Del Rey L 1.8 / 1.6 2p e 4p;1988 Gasolina
+Ford;Del Rey L 1.8 / 1.6 2p e 4p;1987 Gasolina
+Ford;Del Rey L 1.8 / 1.6 2p e 4p;1986 Gasolina
+Ford;Del Rey L 1.8 / 1.6 2p e 4p;1985 Gasolina
+Ford;EcoSport 4WD 2.0/ 2.0 Flex 16V 5p;2012 Gasolina
+Ford;EcoSport 4WD 2.0/ 2.0 Flex 16V 5p;2011 Gasolina
+Ford;EcoSport 4WD 2.0/ 2.0 Flex 16V 5p;2010 Gasolina
+Ford;EcoSport 4WD 2.0/ 2.0 Flex 16V 5p;2009 Gasolina
+Ford;EcoSport 4WD 2.0/ 2.0 Flex 16V 5p;2008 Gasolina
+Ford;EcoSport 4WD 2.0/ 2.0 Flex 16V 5p;2007 Gasolina
+Ford;EcoSport 4WD 2.0/ 2.0 Flex 16V 5p;2006 Gasolina
+Ford;EcoSport 4WD 2.0/ 2.0 Flex 16V 5p;2005 Gasolina
+Ford;EcoSport 4WD 2.0/ 2.0 Flex 16V 5p;2004 Gasolina
+Ford;EcoSport FREESTYLE 1.5 12V Flex 5p Aut.;32000 Gasolina
+Ford;EcoSport FREESTYLE 1.5 12V Flex 5p Aut.;2021 Gasolina
+Ford;EcoSport FREESTYLE 1.5 12V Flex 5p Aut.;2020 Gasolina
+Ford;EcoSport FREESTYLE 1.5 12V Flex 5p Aut.;2019 Gasolina
+Ford;EcoSport FREESTYLE 1.5 12V Flex 5p Aut.;2018 Gasolina
+Ford;EcoSport FREESTYLE 1.5 12V Flex 5p Mec.;32000 Gasolina
+Ford;EcoSport FREESTYLE 1.5 12V Flex 5p Mec.;2021 Gasolina
+Ford;EcoSport FREESTYLE 1.5 12V Flex 5p Mec.;2020 Gasolina
+Ford;EcoSport FREESTYLE 1.5 12V Flex 5p Mec.;2019 Gasolina
+Ford;EcoSport FREESTYLE 1.5 12V Flex 5p Mec.;2018 Gasolina
+Ford;EcoSport FREESTYLE 1.6 16V Flex 5p;2017 Gasolina
+Ford;EcoSport FREESTYLE 1.6 16V Flex 5p;2016 Gasolina
+Ford;EcoSport FREESTYLE 1.6 16V Flex 5p;2015 Gasolina
+Ford;EcoSport FREESTYLE 1.6 16V Flex 5p;2014 Gasolina
+Ford;EcoSport FREESTYLE 1.6 16V Flex 5p;2013 Gasolina
+Ford;EcoSport FREESTYLE 1.6 16V Flex 5p;2012 Gasolina
+Ford;EcoSport FREESTYLE 1.6 16V Flex 5p Aut.;2017 Gasolina
+Ford;EcoSport FREESTYLE 1.6 16V Flex 5p Aut.;2016 Gasolina
+Ford;EcoSport FREESTYLE 2.0 16V 4WD Flex 5p;2017 Gasolina
+Ford;EcoSport FREESTYLE 2.0 16V 4WD Flex 5p;2016 Gasolina
+Ford;EcoSport FREESTYLE 2.0 16V 4WD Flex 5p;2015 Gasolina
+Ford;EcoSport FREESTYLE 2.0 16V 4WD Flex 5p;2014 Gasolina
+Ford;EcoSport FREESTYLE 2.0 16V 4WD Flex 5p;2013 Gasolina
+Ford;EcoSport FREESTYLE PLUS 1.5 Flex 5p Aut.;2019 Gasolina
+Ford;EcoSport SE Direct 1.6 16V Flex 5p Aut.;2017 Gasolina
+Ford;Ka+ Sedan 1.0 SEL TiCVT Flex 4p;ERRO
+Ford;Ka+ Sedan 1.0 SE/SE PLUS TiVCT Flex 4p;ERRO
+Ford;Ka XR 1.6 MPI 8V;ERRO
+Ford;Ka TRAIL 1.5 16V Flex Mec. 5p;ERRO
+Ford;Ka TRAIL 1.0 12V Flex Mec. 5p;ERRO
+Ford;Ka Tecno 1.0i 8v Zetec Rocam;ERRO
+Ford;Ka Street 1.0i;ERRO
+Ford;Ka Sport 1.6 8V Flex 3p;ERRO
+Ford;Ka SEL 1.5 16V Flex 5p;ERRO
+Ford;Ka MP3 1.6 MPI 8V 95cv;ERRO
+Ford;Ka MP3 1.0 MPI 8V 65cv;ERRO
+Ford;EcoSport FREESTYLE 2.0 16V Flex 5p Aut.;2016 Gasolina
+Ford;EcoSport FREESTYLE 2.0 16V Flex 5p Aut.;2015 Gasolina
+Ford;EcoSport SE 1.6 16V Flex 5p Aut.;2017 Gasolina
+Ford;EcoSport SE 1.6 16V Flex 5p Aut.;2016 Gasolina
+Ford;EcoSport SE Direct 1.5 Flex 5p Aut.(PCD);32000 Gasolina
+Ford;EcoSport SE Direct 1.5 Flex 5p Aut.(PCD);2021 Gasolina
+Ford;EcoSport SE Direct 1.5 Flex 5p Aut.(PCD);2020 Gasolina
+Ford;EcoSport SE Direct 1.5 Flex 5p Aut.(PCD);2019 Gasolina
+Ford;EcoSport S 1.6 16V Flex 5p;2015 Gasolina
+Ford;EcoSport S 1.6 16V Flex 5p;2014 Gasolina
+Ford;EcoSport S 1.6 16V Flex 5p;2013 Gasolina
+Ford;EcoSport SE 1.5 12V Flex 5p Aut.;32000 Gasolina
+Ford;EcoSport SE 1.5 12V Flex 5p Aut.;2021 Gasolina
+Ford;EcoSport SE 1.5 12V Flex 5p Aut.;2020 Gasolina
+Ford;EcoSport SE 1.5 12V Flex 5p Aut.;2019 Gasolina
+Ford;EcoSport SE 1.5 12V Flex 5p Aut.;2018 Gasolina
+Ford;EcoSport SE 1.5 12V Flex 5p Mec.;32000 Gasolina
+Ford;EcoSport SE 1.5 12V Flex 5p Mec.;2021 Gasolina
+Ford;EcoSport SE 1.5 12V Flex 5p Mec.;2020 Gasolina
+Ford;EcoSport SE 1.5 12V Flex 5p Mec.;2019 Gasolina
+Ford;EcoSport SE 1.5 12V Flex 5p Mec.;2018 Gasolina
+Ford;EcoSport FREESTYLE 2.0 16V Flex 5p;2014 Gasolina
+Ford;EcoSport FREESTYLE 2.0 16V Flex 5p;2013 Gasolina
+Ford;EcoSport SE 2.0 16V Flex 5p Aut.;2019 Gasolina
+Ford;EcoSport SE 2.0 16V Flex 5p Aut.;2017 Gasolina
+Ford;EcoSport SE 2.0 16V Flex 5p Aut.;2016 Gasolina
+Ford;EcoSport SE 2.0 16V Flex 5p Aut.;2015 Gasolina
+Ford;EcoSport SE 2.0 16V Flex 5p Aut.;2014 Gasolina
+Ford;EcoSport SE 2.0 16V Flex 5p Aut.;2013 Gasolina
+Ford;EcoSport SE 1.6 16V Flex 5p Mec.;2017 Gasolina
+Ford;EcoSport SE 1.6 16V Flex 5p Mec.;2016 Gasolina
+Ford;EcoSport SE 1.6 16V Flex 5p Mec.;2015 Gasolina
+Ford;EcoSport SE 1.6 16V Flex 5p Mec.;2014 Gasolina
+Ford;EcoSport SE 1.6 16V Flex 5p Mec.;2013 Gasolina
+Ford;EcoSport TITANIUM 2.0 16V Flex 5p Aut.;2019 Gasolina
+Ford;EcoSport TITANIUM 2.0 16V Flex 5p Aut.;2018 Gasolina
+Ford;EcoSport TITANIUM 2.0 16V Flex 5p Aut.;2017 Gasolina
+Ford;EcoSport TITANIUM 2.0 16V Flex 5p Aut.;2016 Gasolina
+Ford;EcoSport TITANIUM 2.0 16V Flex 5p Aut.;2015 Gasolina
+Ford;EcoSport TITANIUM 2.0 16V Flex 5p Aut.;2014 Gasolina
+Ford;EcoSport TITANIUM 2.0 16V Flex 5p Aut.;2013 Gasolina
+Ford;EcoSport STORM 2.0 4WD 16V Flex 5p Aut.;32000 Gasolina
+Ford;EcoSport STORM 2.0 4WD 16V Flex 5p Aut.;2021 Gasolina
+Ford;EcoSport STORM 2.0 4WD 16V Flex 5p Aut.;2020 Gasolina
+Ford;EcoSport STORM 2.0 4WD 16V Flex 5p Aut.;2019 Gasolina
+Ford;EcoSport STORM 2.0 4WD 16V Flex 5p Aut.;2018 Gasolina
+Ford;EcoSport XL Supercharger 1.0 8V 95cv 5p;2006 Gasolina
+Ford;EcoSport XL Supercharger 1.0 8V 95cv 5p;2005 Gasolina
+Ford;EcoSport XL Supercharger 1.0 8V 95cv 5p;2004 Gasolina
+Ford;EcoSport XL Supercharger 1.0 8V 95cv 5p;2003 Gasolina
+Ford;EcoSport XLS 1.6/ 1.6 Flex 8V 5p;2012 Gasolina
+Ford;EcoSport XLS 1.6/ 1.6 Flex 8V 5p;2011 Gasolina
+Ford;EcoSport XLS 1.6/ 1.6 Flex 8V 5p;2010 Gasolina
+Ford;EcoSport XLS 1.6/ 1.6 Flex 8V 5p;2009 Gasolina
+Ford;EcoSport XLS 1.6/ 1.6 Flex 8V 5p;2008 Gasolina
+Ford;EcoSport XLS 1.6/ 1.6 Flex 8V 5p;2007 Gasolina
+Ford;EcoSport XLS 1.6/ 1.6 Flex 8V 5p;2006 Gasolina
+Ford;EcoSport XLS 1.6/ 1.6 Flex 8V 5p;2005 Gasolina
+Ford;EcoSport XLS 1.6/ 1.6 Flex 8V 5p;2004 Gasolina
+Ford;EcoSport XLS 1.6/ 1.6 Flex 8V 5p;2003 Gasolina
+Ford;EcoSport TITANIUM 1.6 16V Flex 5p;2015 Gasolina
+Ford;EcoSport TITANIUM 1.6 16V Flex 5p;2014 Gasolina
+Ford;EcoSport TITANIUM 1.6 16V Flex 5p;2013 Gasolina
+Ford;EcoSport TITANIUM 2.0 16V Flex 5p;2015 Gasolina
+Ford;EcoSport TITANIUM 2.0 16V Flex 5p;2014 Gasolina
+Ford;EcoSport TITANIUM 2.0 16V Flex 5p;2013 Gasolina
+Ford;EcoSport XLS 2.0/2.0 Flex 16V 5p Aut.;2012 Gasolina
+Ford;EcoSport XLS 2.0/2.0 Flex 16V 5p Aut.;2011 Gasolina
+Ford;EcoSport XLS 2.0/2.0 Flex 16V 5p Aut.;2010 Gasolina
+Ford;EcoSport XLS 2.0/2.0 Flex 16V 5p Aut.;2009 Gasolina
+Ford;EcoSport XLS 2.0/2.0 Flex 16V 5p Aut.;2008 Gasolina
+Ford;EcoSport XLS 2.0/2.0 Flex 16V 5p Aut.;2007 Gasolina
+Ford;EcoSport TITANIUM 1.5 12V Flex 5p Aut.;32000 Gasolina
+Ford;EcoSport TITANIUM 1.5 12V Flex 5p Aut.;2021 Gasolina
+Ford;EcoSport TITANIUM 1.5 12V Flex 5p Aut.;2020 Gasolina
+Ford;EcoSport TITANIUM 1.5 12V Flex 5p Aut.;2019 Gasolina
+Ford;EcoSport TITANIUM 1.5 12V Flex 5p Aut.;2018 Gasolina
+Ford;EcoSport XL 1.6/ 1.6 Flex 8V 5p;2012 Gasolina
+Ford;EcoSport XL 1.6/ 1.6 Flex 8V 5p;2011 Gasolina
+Ford;EcoSport XL 1.6/ 1.6 Flex 8V 5p;2010 Gasolina
+Ford;EcoSport XL 1.6/ 1.6 Flex 8V 5p;2009 Gasolina
+Ford;EcoSport XL 1.6/ 1.6 Flex 8V 5p;2008 Gasolina
+Ford;EcoSport XL 1.6/ 1.6 Flex 8V 5p;2007 Gasolina
+Ford;EcoSport XL 1.6/ 1.6 Flex 8V 5p;2006 Gasolina
+Ford;EcoSport XL 1.6/ 1.6 Flex 8V 5p;2005 Gasolina
+Ford;EcoSport XL 1.6/ 1.6 Flex 8V 5p;2004 Gasolina
+Ford;EcoSport XL 1.6/ 1.6 Flex 8V 5p;2003 Gasolina
+Ford;EDGE TITANIUM 3.5 V6 24V AWD Aut.;2018 Gasolina
+Ford;EDGE TITANIUM 3.5 V6 24V AWD Aut.;2017 Gasolina
+Ford;EDGE TITANIUM 3.5 V6 24V AWD Aut.;2016 Gasolina
+Ford;Escort Ghia 1.8i / 1.8 / 1.6;1995 Gasolina
+Ford;Escort Ghia 1.8i / 1.8 / 1.6;1995 Álcool
+Ford;Escort Ghia 1.8i / 1.8 / 1.6;1994 Gasolina
+Ford;Escort Ghia 1.8i / 1.8 / 1.6;1993 Gasolina
+Ford;Escort Ghia 1.8i / 1.8 / 1.6;1992 Gasolina
+Ford;Escort Ghia 1.8i / 1.8 / 1.6;1991 Gasolina
+Ford;Escort Ghia 1.8i / 1.8 / 1.6;1990 Gasolina
+Ford;Escort Ghia 1.8i / 1.8 / 1.6;1989 Gasolina
+Ford;Escort Ghia 1.8i / 1.8 / 1.6;1988 Gasolina
+Ford;Escort Ghia 1.8i / 1.8 / 1.6;1987 Gasolina
+Ford;Escort Ghia 1.8i / 1.8 / 1.6;1986 Gasolina
+Ford;Escort Ghia 1.8i / 1.8 / 1.6;1985 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Mec.;2012 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Mec.;2011 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Mec.;2010 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Mec.;2009 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Mec.;2008 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Mec.;2007 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Mec.;2006 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Mec.;2005 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Mec.;2004 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Mec.;2003 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Aut.;2012 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Aut.;2011 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Aut.;2010 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Aut.;2009 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Aut.;2008 Gasolina
+Ford;EcoSport XLT 2.0/ 2.0 Flex 16V 5p Aut.;2007 Gasolina
+Ford;EcoSport XLT FREESTYLE 1.6 Flex 8V 5p;2012 Gasolina
+Ford;EcoSport XLT FREESTYLE 1.6 Flex 8V 5p;2011 Gasolina
+Ford;EcoSport XLT FREESTYLE 1.6 Flex 8V 5p;2010 Gasolina
+Ford;EcoSport XLT FREESTYLE 1.6 Flex 8V 5p;2009 Gasolina
+Ford;EcoSport XLT FREESTYLE 1.6 Flex 8V 5p;2008 Gasolina
+Ford;EcoSport XLT FREESTYLE 1.6 Flex 8V 5p;2007 Gasolina
+Ford;EDGE LIMITED 3.5 V6 24V AWD Aut.;2015 Gasolina
+Ford;EDGE LIMITED 3.5 V6 24V AWD Aut.;2014 Gasolina
+Ford;EDGE LIMITED 3.5 V6 24V AWD Aut.;2013 Gasolina
+Ford;EDGE LIMITED 3.5 V6 24V AWD Aut.;2012 Gasolina
+Ford;EDGE LIMITED 3.5 V6 24V AWD Aut.;2011 Gasolina
+Ford;EDGE LIMITED 3.5 V6 24V AWD Aut.;2010 Gasolina
+Ford;EDGE LIMITED 3.5 V6 24V AWD Aut.;2009 Gasolina
+Ford;Escort GL 1.6i / 1.6;1996 Gasolina
+Ford;Escort GL 1.6i / 1.6;1996 Álcool
+Ford;Escort GL 1.6i / 1.6;1995 Gasolina
+Ford;Escort GL 1.6i / 1.6;1995 Álcool
+Ford;Escort GL 1.6i / 1.6;1994 Gasolina
+Ford;Escort GL 1.6i / 1.6;1993 Gasolina
+Ford;Escort GL 1.6i / 1.6;1992 Gasolina
+Ford;Escort GL 1.6i / 1.6;1991 Gasolina
+Ford;Escort GL 1.6i / 1.6;1990 Gasolina
+Ford;Escort GL 1.6i / 1.6;1989 Gasolina
+Ford;Escort GL 1.6i / 1.6;1988 Gasolina
+Ford;Escort GL 1.6i / 1.6;1987 Gasolina
+Ford;Escort GL 1.6i / 1.6;1986 Gasolina
+Ford;Escort GL 1.6i / 1.6;1985 Gasolina
+Ford;EcoSport XLS FREESTYLE 1.6 Flex 8V 5p;2007 Gasolina
+Ford;EcoSport XLS FREESTYLE 1.6 Flex 8V 5p;2006 Gasolina
+Ford;Escort  Racer 2.0i;1996 Gasolina
+Ford;Escort SW 1.9 16v;1995 Gasolina
+Ford;Pampa GL 1.6/ 1.8;ERRO
+Ford;Ranger XLS 3.2 20V 4x4 CD Diesel Aut.;ERRO
+Ford;Ranger XLS 2.3 16V 145cv/150cv 4x2 CD;ERRO
+Ford;Ranger TROPICAB 2.5 16V 4X2 Flex;ERRO
+Ford;Ranger TROPIVAN 3.2 20V 4X4 TB Diesel;ERRO
+Ford;Ranger STX 4.0 CS/ CE;ERRO
+Ford;Ranger XL 2.3 16v 137cv 4x2 CD Repower.;ERRO
+Ford;Ranger XL 2.2 4x4 CS Diesel Mec.;ERRO
+Ford;Ranger Limited 3.0 PSE 4x4 CD TB Diesel;ERRO
+Ford;Mondeo Ghia 2.0 16V 143cv 4p Aut;ERRO
+Ford;Ranger XLS 2.2 4x2 CD Diesel Mec.;ERRO
+Ford;Ranger XLS 2.5 16V 4x2 CS Flex;ERRO
+Ford;Windstar GL;ERRO
+Ford;Versailles GL 1.8i / 1.8 2p e 4p;ERRO
+Ford;Ranger XL 2.8 8v 135cv 4x2 CD TB Diesel;ERRO
+Ford;Ranger SPORTRAC 2.2 16V 4x4 CD Dies Aut.;ERRO
+Ford;Ranger TROPIVAN XLT 3.0 PSE 4x2 TB Dies.;ERRO
+Ford;Ranger TROPIVAN XLT 2.3 16V 150cv;ERRO
+Ford;Ranger Limited 2.5 16V 4x2 CD Flex;ERRO
+Ford;Mondeo Ghia 2.5 V6 Mec;ERRO
+Ford;Pampa 4x4 Jeep GL / L 1.6;ERRO
+Ford;Ka+ Sedan 1.5 SEL 16V Flex 4p;ERRO
+Ford;F-1000 XLT/XL Lighting 4.9i;1998 Gasolina
+Ford;F-1000 XLT/XL Lighting 4.9i;1997 Gasolina
+Ford;F-100 2.3;1986 Gasolina
+Ford;F-100 2.3;1985 Gasolina
+Ford;F-100 Super Série 2.3;1986 Gasolina
+Ford;F-100 Super Série 2.3;1985 Gasolina
+Ford;Escort GL 1.8i / 1.8;1996 Gasolina
+Ford;Escort GL 1.8i / 1.8;1996 Álcool
+Ford;Escort GL 1.8i / 1.8;1995 Gasolina
+Ford;Escort GL 1.8i / 1.8;1995 Álcool
+Ford;Escort GL 1.8i / 1.8;1994 Gasolina
+Ford;Escort GL 1.8i / 1.8;1993 Gasolina
+Ford;Escort GL 1.8i / 1.8;1992 Gasolina
+Ford;Escort GL 1.8i / 1.8;1991 Gasolina
+Ford;Escort GL 1.8i / 1.8;1990 Gasolina
+Ford;Escort GL 1.8i / 1.8;1989 Gasolina
+Ford;Explorer Sport 4.0 V6;1996 Gasolina
+Ford;Explorer Sport 4.0 V6;1995 Gasolina
+Ford;Explorer Sport 4.0 V6;1994 Gasolina
+Ford;EDGE SEL 3.5 V6 24V AWD Aut.;2012 Gasolina
+Ford;EDGE SEL 3.5 V6 24V AWD Aut.;2011 Gasolina
+Ford;EDGE SEL 3.5 V6 24V AWD Aut.;2010 Gasolina
+Ford;EDGE SEL 3.5 V6 24V AWD Aut.;2009 Gasolina
+Ford;F-250 XL 3.9 CD TB Diesel;2011 Diesel
+Ford;F-250 XL 3.9 CD TB Diesel;2010 Diesel
+Ford;F-250 XL 3.9 CD TB Diesel;2009 Diesel
+Ford;F-250 XL 3.9 CD TB Diesel;2008 Diesel
+Ford;F-250 XL 3.9 CD TB Diesel;2007 Diesel
+Ford;Escort Guarujá 1.8 4p;1993 Gasolina
+Ford;Escort Guarujá 1.8 4p;1992 Gasolina
+Ford;Escort Guarujá 1.8 4p;1991 Gasolina
+Ford;Escort GLX 1.8i 8v;1996 Gasolina
+Ford;Escort GLX 1.8i 8v;1996 Álcool
+Ford;Escort GLX 1.8i 8v;1995 Gasolina
+Ford;Escort GLX 1.8i 8v;1995 Álcool
+Ford;Escort GLX 1.8i 8v;1994 Gasolina
+Ford;Escort S.W GL 1.8i 16V;2003 Gasolina
+Ford;Escort S.W GL 1.8i 16V;2002 Gasolina
+Ford;Escort S.W GL 1.8i 16V;2001 Gasolina
+Ford;Escort S.W GL 1.8i 16V;2000 Gasolina
+Ford;Escort S.W GL 1.8i 16V;1999 Gasolina
+Ford;Escort S.W GL 1.8i 16V;1998 Gasolina
+Ford;Escort S.W GL 1.8i 16V;1997 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Beneton/Form./Laser;1992 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Beneton/Form./Laser;1991 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Beneton/Form./Laser;1990 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Beneton/Form./Laser;1989 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Beneton/Form./Laser;1988 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Beneton/Form./Laser;1987 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Beneton/Form./Laser;1986 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Beneton/Form./Laser;1985 Gasolina
+Ford;Escort Hobby 1.0;1996 Gasolina
+Ford;Escort Hobby 1.0;1995 Gasolina
+Ford;Escort Hobby 1.0;1994 Gasolina
+Ford;Escort Hobby 1.0;1993 Gasolina
+Ford;Escort GL 1.8i 16V 4p;2003 Gasolina
+Ford;Escort GL 1.8i 16V 4p;2002 Gasolina
+Ford;Escort GL 1.8i 16V 4p;2001 Gasolina
+Ford;Escort GL 1.8i 16V 4p;2000 Gasolina
+Ford;Escort GL 1.8i 16V 4p;1999 Gasolina
+Ford;Escort GL 1.8i 16V 4p;1998 Gasolina
+Ford;Escort GL 1.8i 16V 4p;1997 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Conversível;1992 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Conversível;1991 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Conversível;1990 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Conversível;1989 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Conversível;1988 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Conversível;1987 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Conversível;1986 Gasolina
+Ford;Escort XR3 1.8 / 1.6 Conversível;1985 Gasolina
+Ford;Escort XR3 2.0i;1996 Gasolina
+Ford;Escort XR3 2.0i;1995 Gasolina
+Ford;Escort XR3 2.0i;1995 Álcool
+Ford;Escort XR3 2.0i;1994 Gasolina
+Ford;Escort XR3 2.0i;1993 Gasolina
+Ford;F-1000 SR XK  Deserter Diesel;1995 Diesel
+Ford;F-1000 SR XK  Deserter Diesel;1994 Diesel
+Ford;F-1000 SR XK  Deserter Diesel;1993 Diesel
+Ford;F-1000 SR XK  Deserter Diesel;1992 Diesel
+Ford;F-1000 SR XK  Deserter Diesel;1991 Diesel
+Ford;F-1000 SR XK  Deserter Diesel;1990 Diesel
+Ford;F-1000 SR XK  Deserter Diesel;1989 Diesel
+Ford;F-1000 SR XK  Deserter Diesel;1988 Diesel
+Ford;F-1000 SR XK  Deserter Diesel;1987 Diesel
+Ford;F-100 Blazer 2.3;1986 Gasolina
+Ford;F-100 Blazer 2.3;1985 Gasolina
+Ford;Escort GL 1.8i 16V 3p;1999 Gasolina
+Ford;Escort GL 1.8i 16V 3p;1998 Gasolina
+Ford;Escort GL 1.8i 16V 3p;1997 Gasolina
+Ford;Explorer XL 4x4 4.0 V6;1996 Gasolina
+Ford;Explorer XL 4x4 4.0 V6;1995 Gasolina
+Ford;Explorer XL 4x4 4.0 V6;1994 Gasolina
+Ford;Explorer XL 4x4 4.0 V6;1993 Gasolina
+Ford;Explorer XL 4x4 4.0 V6;1992 Gasolina
+Ford;Explorer XL 4x4 4.0 V6;1991 Gasolina
+Ford;F-1000 CD/Blazer 3.6;1995 Gasolina
+Ford;F-1000 CD/Blazer 3.6;1995 Álcool
+Ford;F-1000 CD/Blazer 3.6;1994 Gasolina
+Ford;F-1000 CD/Blazer 3.6;1993 Gasolina
+Ford;F-1000 CD/Blazer 3.6;1992 Gasolina
+Ford;F-1000 CD/Blazer 3.6;1991 Gasolina
+Ford;F-1000 CD/Blazer 3.6;1990 Gasolina
+Ford;F-1000 CD/Blazer 3.6;1989 Gasolina
+Ford;F-1000 CD/Blazer 3.6;1988 Gasolina
+Ford;F-1000 CD/Blazer 3.6;1987 Gasolina
+Ford;F-1000 CD/Blazer 3.6;1986 Gasolina
+Ford;F-1000 CD/Blazer 3.6;1985 Gasolina
+Ford;Escort GL 1.6 MPI;2002 Gasolina
+Ford;Escort GL 1.6 MPI;2001 Gasolina
+Ford;Escort GL 1.6 MPI;2000 Gasolina
+Ford;Expedition 5.4 V8;1999 Gasolina
+Ford;Expedition 5.4 V8;1998 Gasolina
+Ford;Expedition 5.4 V8;1997 Gasolina
+Ford;EcoSport XLT FREESTYLE 2.0 Flex 16V 5p;2012 Gasolina
+Ford;EcoSport XLT FREESTYLE 2.0 Flex 16V 5p;2011 Gasolina
+Ford;EcoSport XLT FREESTYLE 2.0 Flex 16V 5p;2010 Gasolina
+Ford;EcoSport XLT FREESTYLE 2.0 Flex 16V 5p;2009 Gasolina
+Ford;EDGE SEL 3.5 V6  24V FWD Aut.;2015 Gasolina
+Ford;EDGE SEL 3.5 V6  24V FWD Aut.;2014 Gasolina
+Ford;EDGE SEL 3.5 V6  24V FWD Aut.;2013 Gasolina
+Ford;EDGE SEL 3.5 V6  24V FWD Aut.;2012 Gasolina
+Ford;EcoSport XLT 1.6/ 1.6 Flex 8V 5p;2012 Gasolina
+Ford;EcoSport XLT 1.6/ 1.6 Flex 8V 5p;2011 Gasolina
+Ford;EcoSport XLT 1.6/ 1.6 Flex 8V 5p;2010 Gasolina
+Ford;EcoSport XLT 1.6/ 1.6 Flex 8V 5p;2009 Gasolina
+Ford;EcoSport XLT 1.6/ 1.6 Flex 8V 5p;2008 Gasolina
+Ford;EcoSport XLT 1.6/ 1.6 Flex 8V 5p;2007 Gasolina
+Ford;EcoSport XLT 1.6/ 1.6 Flex 8V 5p;2006 Gasolina
+Ford;EcoSport XLT 1.6/ 1.6 Flex 8V 5p;2005 Gasolina
+Ford;EcoSport XLT 1.6/ 1.6 Flex 8V 5p;2004 Gasolina
+Ford;EcoSport XLT 1.6/ 1.6 Flex 8V 5p;2003 Gasolina
+Ford;Explorer Limited 5.0 4x4 V8;2001 Gasolina
+Ford;Explorer Limited 5.0 4x4 V8;2000 Gasolina
+Ford;Explorer Limited 5.0 4x4 V8;1999 Gasolina
+Ford;Explorer Limited 5.0 4x4 V8;1998 Gasolina
+Ford;Explorer XLT 4x4 4.0 V6;1999 Gasolina
+Ford;Explorer XLT 4x4 4.0 V6;1998 Gasolina
+Ford;Explorer XLT 4x4 4.0 V6;1997 Gasolina
+Ford;Explorer XLT 4x4 4.0 V6;1996 Gasolina
+Ford;Explorer XLT 4x4 4.0 V6;1995 Gasolina
+Ford;Explorer XLT 4x4 4.0 V6;1994 Gasolina
+Ford;Explorer XLT 4x4 4.0 V6;1993 Gasolina
+Ford;F-1000 Tropical CD 4.9i;1998 Gasolina
+Ford;F-1000 Tropical CD 4.9i;1997 Gasolina
+Ford;F-1000 Tropical CD 4.9i;1996 Gasolina
+Ford;F-100 CD 2.3;1986 Gasolina
+Ford;F-100 CD 2.3;1985 Gasolina
+Ford;Escort Hobby 1.6;1995 Gasolina
+Ford;Escort Hobby 1.6;1994 Gasolina
+Ford;Escort Hobby 1.6;1993 Gasolina
+Ford;Escort GLX 1.8i 16V 4p;2001 Gasolina
+Ford;Escort GLX 1.8i 16V 4p;2000 Gasolina
+Ford;Escort GLX 1.8i 16V 4p;1999 Gasolina
+Ford;Escort GLX 1.8i 16V 4p;1998 Gasolina
+Ford;Escort GLX 1.8i 16V 4p;1997 Gasolina
+Ford;Escort L 1.8i / 1.8;1994 Gasolina
+Ford;Escort L 1.8i / 1.8;1993 Gasolina
+Ford;Escort L 1.8i / 1.8;1992 Gasolina
+Ford;Escort L 1.8i / 1.8;1991 Gasolina
+Ford;Explorer XLT 4x2 4.0 V6;1997 Gasolina
+Ford;Explorer XLT 4x2 4.0 V6;1996 Gasolina
+Ford;Explorer XLT 4x2 4.0 V6;1995 Gasolina
+Ford;Explorer XLT 4x2 4.0 V6;1994 Gasolina
+Ford;Explorer XLT 4x2 4.0 V6;1993 Gasolina
+Ford;Explorer XLT 4x2 4.0 V6;1992 Gasolina
+Ford;Explorer XLT 4x2 4.0 V6;1991 Gasolina
+Ford;F-1000 XL 4x4 Diesel Turbo;1998 Diesel
+Ford;F-1000 XL 4x4 Diesel Turbo;1997 Diesel
+Ford;F-1000 XL 4x4 Diesel Turbo;1996 Diesel
+Ford;F-1000 XLT 2.5 HSD Diesel TB;1998 Diesel
+Ford;F-1000 XLT 2.5 HSD Diesel TB;1997 Diesel
+Ford;F-1000 XLT 2.5 HSD Diesel TB;1996 Diesel
+Ford;F-1000 Super Diesel CE 3.9;1996 Diesel
+Ford;F-1000 Super Diesel CE 3.9;1995 Diesel
+Ford;F-1000 Super Diesel CE 3.9;1994 Diesel
+Ford;F-1000 Super Diesel CE 3.9;1993 Diesel
+Ford;Escort Ghia 2.0i / 2.0;1995 Gasolina
+Ford;Escort Ghia 2.0i / 2.0;1995 Álcool
+Ford;Escort Ghia 2.0i / 2.0;1994 Gasolina
+Ford;Escort Ghia 2.0i / 2.0;1993 Gasolina
+Ford;F-1000 XL 4.9i CE;1998 Gasolina
+Ford;F-1000 XL 4.9i CE;1997 Gasolina
+Ford;F-1000 XL 4.9i CE;1996 Gasolina
+Ford;Escort S.W. GLX 1.8i 16V;2002 Gasolina
+Ford;Escort S.W. GLX 1.8i 16V;2001 Gasolina
+Ford;Escort S.W. GLX 1.8i 16V;2000 Gasolina
+Ford;Escort S.W. GLX 1.8i 16V;1999 Gasolina
+Ford;Escort S.W. GLX 1.8i 16V;1998 Gasolina
+Ford;Escort S.W. GLX 1.8i 16V;1997 Gasolina
+Ford;F-100 Super 2.3;1986 Gasolina
+Ford;F-100 Super 2.3;1985 Gasolina
+Ford;F-1000 CD/Blazer 3.9 Dies.;1995 Diesel
+Ford;F-1000 CD/Blazer 3.9 Dies.;1994 Diesel
+Ford;F-1000 CD/Blazer 3.9 Dies.;1993 Diesel
+Ford;F-1000 CD/Blazer 3.9 Dies.;1992 Diesel
+Ford;F-1000 CD/Blazer 3.9 Dies.;1991 Diesel
+Ford;F-1000 CD/Blazer 3.9 Dies.;1990 Diesel
+Ford;F-1000 CD/Blazer 3.9 Dies.;1989 Diesel
+Ford;F-1000 CD/Blazer 3.9 Dies.;1988 Diesel
+Ford;F-1000 CD/Blazer 3.9 Dies.;1987 Diesel
+Ford;F-1000 CD/Blazer 3.9 Dies.;1986 Diesel
+Ford;F-1000 CD/Blazer 3.9 Dies.;1985 Diesel
+Ford;F-250 Tropical SL/ Van T.Diesel (todas);2006 Diesel
+Ford;F-250 Tropical SL/ Van T.Diesel (todas);2005 Diesel
+Ford;F-250 Tropical SL/ Van T.Diesel (todas);2004 Diesel
+Ford;F-250 Tropical SL/ Van T.Diesel (todas);2003 Diesel
+Ford;F-250 Tropical SL/ Van T.Diesel (todas);2002 Diesel
+Ford;F-250 Tropical SL/ Van T.Diesel (todas);2001 Diesel
+Ford;F-250 Tropical SL/ Van T.Diesel (todas);2000 Diesel
+Ford;F-250 Tropical SL/ Van T.Diesel (todas);1999 Diesel
+Ford;F-250 Tropical SL/ Van T.Diesel (todas);1998 Diesel
+Ford;F-250 Tropica./Tropmine Exec. 3.9 Diesel;2012 Diesel
+Ford;F-250 Tropica./Tropmine Exec. 3.9 Diesel;2011 Diesel
+Ford;F-250 Tropica./Tropmine Exec. 3.9 Diesel;2010 Diesel
+Ford;F-250 Tropica./Tropmine Exec. 3.9 Diesel;2009 Diesel
+Ford;F-250 Tropica./Tropmine Exec. 3.9 Diesel;2008 Diesel
+Ford;F-250 Tropica./Tropmine Exec. 3.9 Diesel;2007 Diesel
+Ford;F-150 XLT Triton 4.3;2002 Gasolina
+Ford;F-150 XLT Triton 4.3;1999 Gasolina
+Ford;F-150 XLT Triton 4.3;1998 Gasolina
+Ford;F-150 XLT Triton 4.3;1997 Gasolina
+Ford;F-150 XLT Triton 4.3;1996 Gasolina
+Ford;F-1000 XLT CE 4.9i;1998 Gasolina
+Ford;F-1000 XLT CE 4.9i;1997 Gasolina
+Ford;F-1000 XLT CE 4.9i;1996 Gasolina
+Ford;F-250 Tropicampo CD 3.9 TB Diesel;2011 Diesel
+Ford;F-250 Tropicampo CD 3.9 TB Diesel;2010 Diesel
+Ford;F-250 Tropicampo CD 3.9 TB Diesel;2009 Diesel
+Ford;F-250 Tropicampo CD 3.9 TB Diesel;2008 Diesel
+Ford;F-250 Tropicampo CD 3.9 TB Diesel;2007 Diesel
+Ford;Escort RS 1.8i 16V;2000 Gasolina
+Ford;Escort RS 1.8i 16V;1999 Gasolina
+Ford;Escort RS 1.8i 16V;1998 Gasolina
+Ford;Explorer XL 4x2 4.0 V6;1996 Gasolina
+Ford;Explorer XL 4x2 4.0 V6;1995 Gasolina
+Ford;Explorer XL 4x2 4.0 V6;1994 Gasolina
+Ford;Explorer XL 4x2 4.0 V6;1993 Gasolina
+Ford;Explorer XL 4x2 4.0 V6;1992 Gasolina
+Ford;Explorer XL 4x2 4.0 V6;1991 Gasolina
+Ford;F-1000 XL Diesel Turbo;1998 Diesel
+Ford;F-1000 XL Diesel Turbo;1997 Diesel
+Ford;F-250 Tropiclassic 3.9 TB Diesel;2011 Diesel
+Ford;F-250 Tropiclassic 3.9 TB Diesel;2010 Diesel
+Ford;F-250 Tropiclassic 3.9 TB Diesel;2009 Diesel
+Ford;F-250 Tropiclassic 3.9 TB Diesel;2008 Diesel
+Ford;F-250 Tropiclassic 3.9 TB Diesel;2007 Diesel
+Ford;F-1000 XLT Diesel Turbo;1998 Diesel
+Ford;F-1000 XLT Diesel Turbo;1997 Diesel
+Ford;F-1000 Tropical SL/ Van 4.9i;1998 Gasolina
+Ford;F-1000 Tropical SL/ Van 4.9i;1997 Gasolina
+Ford;F-1000 Tropical SL/ Van 4.9i;1996 Gasolina
+Ford;F-250 TropiCab CE 3.9 TB Diesel;2012 Diesel
+Ford;F-250 TropiCab CE 3.9 TB Diesel;2011 Diesel
+Ford;F-250 TropiCab CE 3.9 TB Diesel;2010 Diesel
+Ford;F-250 TropiCab CE 3.9 TB Diesel;2009 Diesel
+Ford;F-250 TropiCab CE 3.9 TB Diesel;2008 Diesel
+Ford;F-250 TropiCab CE 3.9 TB Diesel;2007 Diesel
+Ford;F-150 XLT Triton 5.8;1999 Gasolina
+Ford;F-150 XLT Triton 5.8;1998 Gasolina
+Ford;F-150 XLT Triton 5.8;1997 Gasolina
+Ford;F-150 XLT Triton 5.8;1995 Gasolina
+Ford;F-150 XLT Triton 5.8;1994 Gasolina
+Ford;F-250 Tropivan/Tropi. Plus 3.9 TB Diesel;2011 Diesel
+Ford;F-250 Tropivan/Tropi. Plus 3.9 TB Diesel;2010 Diesel
+Ford;F-250 Tropivan/Tropi. Plus 3.9 TB Diesel;2009 Diesel
+Ford;F-250 Tropivan/Tropi. Plus 3.9 TB Diesel;2008 Diesel
+Ford;F-250 Tropivan/Tropi. Plus 3.9 TB Diesel;2007 Diesel
+Ford;F-1000 Super Diesel / Super Diesel Turbo;1997 Diesel
+Ford;F-1000 Super Diesel / Super Diesel Turbo;1996 Diesel
+Ford;F-1000 Super Diesel / Super Diesel Turbo;1995 Diesel
+Ford;F-1000 Super Diesel / Super Diesel Turbo;1994 Diesel
+Ford;F-1000 Super Diesel / Super Diesel Turbo;1993 Diesel
+Ford;F-1000 Super Diesel / Super Diesel Turbo;1992 Diesel
+Ford;F-1000 Super Diesel / Super Diesel Turbo;1991 Diesel
+Ford;F-1000 Super Diesel / Super Diesel Turbo;1990 Diesel
+Ford;F-1000 Super Diesel / Super Diesel Turbo;1989 Diesel
+Ford;F-1000 Super Diesel / Super Diesel Turbo;1988 Diesel
+Ford;F-1000 Super Diesel / Super Diesel Turbo;1987 Diesel
+Ford;F-1000 Super Diesel / Super Diesel Turbo;1986 Diesel
+Ford;F-1000 Super Diesel / Super Diesel Turbo;1985 Diesel
+Ford;F-1000 Super/ S.Série 4x4 3.9 Diesel;1995 Diesel
+Ford;F-1000 Super/ S.Série 4x4 3.9 Diesel;1994 Diesel
+Ford;Ranger XLT 4.0 4x4 CE;2001 Gasolina
+Ford;Ranger XLT 4.0 4x4 CE;2000 Gasolina
+Ford;Ranger XLT 4.0 4x4 CE;1999 Gasolina
+Ford;Ranger XLT 2.8 8v 135cv 4x4 CD TB Diesel;2005 Diesel
+Ford;Ranger XLT 2.8 8v 135cv 4x4 CD TB Diesel;2004 Diesel
+Ford;Ranger XLT 2.8 8v 135cv 4x4 CD TB Diesel;2003 Diesel
+Ford;Ranger XLT 2.8 8v 135cv 4x4 CD TB Diesel;2002 Diesel
+Ford;Ranger XLT 4.0 4x4 CD;2002 Gasolina
+Ford;Ranger XLT 4.0 4x4 CD;2001 Gasolina
+Ford;Ranger XLT 4.0 4x4 CD;2000 Gasolina
+Ford;Ranger XLT 4.0 4x4 CD;1999 Gasolina
+Ford;Ranger XLT 4.0 4x4 CD;1998 Gasolina
+Ford;TRANSIT Chassi 2.2 TDCI Diesel;2014 Diesel
+Ford;TRANSIT Chassi 2.2 TDCI Diesel;2013 Diesel
+Ford;TRANSIT Chassi 2.2 TDCI Diesel;2012 Diesel
+Ford;TRANSIT Furgão 3330 2.4 TDCI Curto Dies.;2011 Diesel
+Ford;TRANSIT Furgão 3330 2.4 TDCI Curto Dies.;2010 Diesel
+Ford;TRANSIT Furgão 3330 2.4 TDCI Curto Dies.;2009 Diesel
+Ford;Fiesta SE 1.6 8V Flex 5p;2014 Gasolina
+Ford;Fiesta Sedan 1.6 16V Flex Aut.;ERRO
+Ford;Ranger XL 3.0 PSE 163cv 4x4 CS TB Diesel;ERRO
+Ford;Fiesta Sed. TI./TI.Plus1.6 16V Flex Aut.;ERRO
+Ford;Ranger XLT 2.5 4x2 CD Diesel;ERRO
+Ford;Ranger 2.5 4x4 CE TB Diesel;ERRO
+Ford;Ranger XL 2.8 8v 135cv 4x4 CD TB Diesel;ERRO
+Ford;Fiesta Sport 1.6MPi 4p;ERRO
+Ford;Ka 1.5 Sedan SEL 12V Flex 4p Aut.;ERRO
+Ford;Ka Image 1.0i;ERRO
+Ford;Royale GL 2.0/2.0i 2p e 4p;ERRO
+Ford;Ranger XLS 3.2 20V 4x4 CS Diesel;ERRO
+Ford;Ranger XLS 2.2 4x2 CD Diesel Aut.;ERRO
+Ford;Ranger XLS 2.2 4x4 CD Diesel Aut.;ERRO
+Ford;Ranger XL 2.8 8v 135cv 4x4 CE TB Diesel;ERRO
+Ford;Ranger Limited 2.3 150cv CD;ERRO
+Ford;Mondeo GLX 2.0i SW Mec./ Aut.;ERRO
+Ford;Focus Ghia Sed. 2.0 16V/2.0 16V Flex Aut;ERRO
+Ford;Focus Ghia  2.0 16V/ 2.0 16V Flex 5p Aut;ERRO
+Ford;TRANSIT Van 3550 2.4 TDCI 14lug. Diesel;ERRO
+Ford;Focus Sedan 2.0 16V/2.0 16V Flex 4p;ERRO
+Ford;Focus TITANIUM 2.0 16V Flex 5p Mec.;ERRO
+Ford;Focus Sedan 1.6/1.6 Flex 8V/16V 4p Mec.;ERRO
+Ford;Fusion SEL 2.5 16V 173cv Aut.;ERRO
+Ford;Ka 1.5 SE 12V Flex 5p Mec.;2019 Gasolina
+Ford;Ka 1.5 FreeStyle 12V Flex 5p Mec.;ERRO
+Ford;Ka 1.0 TECNO 12V Flex 5p;2018 Gasolina
+Ford;Ka 1.0 SEL TiVCT Flex 5p;ERRO
+Ford;Ka 1.5 Sedan SEL 12V Flex 4p Mec.;2019 Gasolina
+Ford;Ka Black 1.0 MPI 8v 65cv;2001 Gasolina
+Ford;Fiesta SE Style 1.6 16V Flex Mec. 5p;ERRO
+Ford;F-1000 Super 3.6 / Super Série 3.6;ERRO
+Ford;F-1000 Super Série CE Diesel 3.9;ERRO
+Ford;F-1000 S. S. Diesel / S.S. Diesel Turbo;ERRO
+Ford;Escort GLX 1.6i;ERRO
+Ford;Escort XR3 2.0i Conversível;ERRO
+Ford;Escort L/LX 1.6;ERRO
+Ford;F-1000 Super CE 4.9i / 3.6;ERRO
+Ford;F-1000 Regular Cab. 4.9i;ERRO
+Ford;F-250 Tropical 4.2 CE / CD Diesel TB;ERRO
+Ford;F-150 XL Triton 4.3 V6;ERRO
+Ford;F-250 Tropical 3.9 Diesel;ERRO
+Ford;F-1000 SR XK Deserter;ERRO
+Ford;F-1000 Super Série CE 4.9/3.6;ERRO
+Ford;F-1000 Tropical CD HSD 2.5/4.3 Diesel TB;ERRO
+Ford;F-1000 Lightning/ Super 4.9i;ERRO
+Ford;Fiesta Class 1.0 2p;ERRO
+Ford;F-250 Tropivan Executive 3.9 TB Diesel;ERRO
+Ford;F-1000 Tropical SL/ Van T.Diesel (todas);ERRO
+Ford;F-1000 XLT 4x4 Diesel Turbo;ERRO
+Ford;EDGE ST 2.7 V6 24V AWD Aut.;ERRO
+Ford;EDGE LIMITED 3.5 V6 24V FWD Aut.;ERRO
+Ford;Explorer Limited 4.0 4x4 V6 213cv;ERRO
+Ford;Escort SW GL 1.6 MPI;ERRO
+Ford;F-250 F-MILHA CD 3.9 TB Diesel;ERRO
+Ford;F-250 Tropical 4.2 V6;ERRO
+Ford;F-1000 XL 2.5 HSD Diesel TB;ERRO
+Ford;F-250 XL 3.9 4x2 Diesel;ERRO
+Ford;F-1000 XL 4.9i;ERRO
+Ford;F-150 XLT Triton 4.6 V8;ERRO
+Ford;F-250 XLT 3.9 4x2 CD TB Diesel;2010 Diesel
+Ford;F-250 XLT 3.9 4x2 CD TB Diesel;2009 Diesel
+Ford;F-250 XLT 3.9 4x2 CD TB Diesel;2008 Diesel
+Ford;F-250 XLT 3.9 4x2 CD TB Diesel;2007 Diesel
+Ford;Fiesta Street 1.0 8v 3p;2003 Gasolina
+Ford;Fiesta Street 1.0 8v 3p;2002 Gasolina
+Ford;Fiesta Street 1.0 8v 3p;2001 Gasolina
+Ford;F-250 XLT 4.2 TB Diesel;2006 Diesel
+Ford;F-250 XLT 4.2 TB Diesel;2005 Diesel
+Ford;F-250 XLT 4.2 TB Diesel;2004 Diesel
+Ford;F-250 XLT 4.2 TB Diesel;2003 Diesel
+Ford;F-250 XLT 4.2 TB Diesel;2002 Diesel
+Ford;F-250 XLT 4.2 TB Diesel;2001 Diesel
+Ford;F-250 XLT 4.2 TB Diesel;2000 Diesel
+Ford;F-250 XLT 4.2 TB Diesel;1999 Diesel
+Ford;Taurus LX SW 3.0 V6 24V;1995 Gasolina
+Ford;Taurus LX SW 3.0 V6 24V;1994 Gasolina
+Ford;Royale Ghia 2.0/2.0i 2p e 4p;1996 Gasolina
+Ford;Royale Ghia 2.0/2.0i 2p e 4p;1996 Álcool
+Ford;Royale Ghia 2.0/2.0i 2p e 4p;1995 Gasolina
+Ford;Royale Ghia 2.0/2.0i 2p e 4p;1995 Álcool
+Ford;Royale Ghia 2.0/2.0i 2p e 4p;1994 Gasolina
+Ford;Royale Ghia 2.0/2.0i 2p e 4p;1993 Gasolina
+Ford;Royale Ghia 2.0/2.0i 2p e 4p;1992 Gasolina
+Ford;TRANSIT Furgão 2.2 TDCI Longo Jumbo Dies;2014 Diesel
+Ford;TRANSIT Furgão 2.2 TDCI Longo Jumbo Dies;2013 Diesel
+Ford;TRANSIT Furgão 2.2 TDCI Longo Jumbo Dies;2012 Diesel
+Ford;Ranger XLT 3.2 20V 4x4 CD Diesel Aut.;32000 Diesel
+Ford;Ranger XLT 3.2 20V 4x4 CD Diesel Aut.;2021 Diesel
+Ford;Ranger XLT 3.2 20V 4x4 CD Diesel Aut.;2020 Diesel
+Ford;Ranger XLT 3.2 20V 4x4 CD Diesel Aut.;2019 Diesel
+Ford;Ranger XLT 3.2 20V 4x4 CD Diesel Aut.;2018 Diesel
+Ford;Ranger XLT 3.2 20V 4x4 CD Diesel Aut.;2017 Diesel
+Ford;Ranger XLT 3.2 20V 4x4 CD Diesel Aut.;2016 Diesel
+Ford;Ranger XLT 3.2 20V 4x4 CD Diesel Aut.;2015 Diesel
+Ford;Ranger XLT 3.2 20V 4x4 CD Diesel Aut.;2014 Diesel
+Ford;Ranger XLT 3.2 20V 4x4 CD Diesel Aut.;2013 Diesel
+Ford;Fiesta Sedan 1.0 8V Flex 4p;2013 Gasolina
+Ford;Fiesta Sedan 1.0 8V Flex 4p;2012 Gasolina
+Ford;Fiesta Sedan 1.0 8V Flex 4p;2011 Gasolina
+Ford;Fiesta Sedan 1.0 8V Flex 4p;2010 Gasolina
+Ford;Fiesta Sedan 1.0 8V Flex 4p;2009 Gasolina
+Ford;Fiesta Sedan 1.0 8V Flex 4p;2008 Gasolina
+Ford;Fiesta Sedan 1.0 8V Flex 4p;2007 Gasolina
+Ford;Ranger XL 2.3 16v 137cv 4x2 CS Repower.;2012 Gasolina
+Ford;Ranger XL 2.3 16v 137cv 4x2 CS Repower.;2011 Gasolina
+Ford;Ranger XL 2.3 16v 137cv 4x2 CS Repower.;2010 Gasolina
+Ford;Ranger XL 2.3 16v 137cv 4x2 CS Repower.;2009 Gasolina
+Ford;Ranger XL 2.3 16v 137cv 4x2 CS Repower.;2008 Gasolina
+Ford;Ranger XL 2.3 16v 137cv 4x2 CS Repower.;2007 Gasolina
+Ford;Ranger XL 2.3 16v 137cv 4x2 CS Repower.;2006 Gasolina
+Ford;Ranger XL 2.3 16v 137cv 4x2 CS Repower.;2005 Gasolina
+Ford;Ranger XL 2.3 16v 137cv 4x2 CS Repower.;2003 Gasolina
+Ford;Ranger XL 2.3 16v 137cv 4x2 CS Repower.;2002 Gasolina
+Ford;Ranger XL 2.3 16v 137cv 4x2 CS Repower.;2001 Gasolina
+Ford;F-250 XL 3.9 4x4 TB Diesel;2011 Diesel
+Ford;F-250 XL 3.9 4x4 TB Diesel;2010 Diesel
+Ford;F-250 XL 3.9 4x4 TB Diesel;2009 Diesel
+Ford;F-250 XL 3.9 4x4 TB Diesel;2008 Diesel
+Ford;F-250 XL 3.9 4x4 TB Diesel;2007 Diesel
+Ford;Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p;2013 Gasolina
+Ford;Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p;2012 Gasolina
+Ford;Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p;2011 Gasolina
+Ford;Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p;2010 Gasolina
+Ford;Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p;2009 Gasolina
+Ford;Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p;2008 Gasolina
+Ford;Fiesta 1.0 8V Flex/Class 1.0 8V Flex 5p;2007 Gasolina
+Ford;Verona GLX 1.8i / 1.8 4p;1996 Gasolina
+Ford;Verona GLX 1.8i / 1.8 4p;1996 Álcool
+Ford;Verona GLX 1.8i / 1.8 4p;1995 Gasolina
+Ford;Verona GLX 1.8i / 1.8 4p;1995 Álcool
+Ford;Verona GLX 1.8i / 1.8 4p;1994 Gasolina
+Ford;Fiesta CLX 1.4i 16V 3p e 5p;2000 Gasolina
+Ford;Fiesta CLX 1.4i 16V 3p e 5p;1999 Gasolina
+Ford;Fiesta CLX 1.4i 16V 3p e 5p;1998 Gasolina
+Ford;Fiesta CLX 1.4i 16V 3p e 5p;1997 Gasolina
+Ford;Fiesta CLX 1.4i 16V 3p e 5p;1996 Gasolina
+Ford;F-250 XLT 4.2 V6;2003 Gasolina
+Ford;F-250 XLT 4.2 V6;2002 Gasolina
+Ford;F-250 XLT 4.2 V6;2001 Gasolina
+Ford;F-250 XLT 4.2 V6;2000 Gasolina
+Ford;F-250 XLT 4.2 V6;1999 Gasolina
+Ford;F-250 XLT 4.2 V6;1998 Gasolina
+Ford;Taurus GL 3.0 V6;1995 Gasolina
+Ford;Taurus GL 3.0 V6;1994 Gasolina
+Ford;Taurus GL 3.0 V6;1993 Gasolina
+Ford;Taurus GL 3.0 V6;1992 Gasolina
+Ford;Ranger XLT 2.5 4x4 CS TB Diesel;2001 Diesel
+Ford;Ranger XLT 2.5 4x4 CS TB Diesel;2000 Diesel
+Ford;Ranger XLT 2.5 4x4 CS TB Diesel;1999 Diesel
+Ford;Ranger XLT 2.5 4x4 CS TB Diesel;1998 Diesel
+Ford;Fiesta 1.6 16V Flex Mec. 5p;2016 Gasolina
+Ford;Fiesta 1.6 16V Flex Mec. 5p;2015 Gasolina
+Ford;Fiesta 1.6 16V Flex Mec. 5p;2014 Gasolina
+Ford;Fiesta 1.6 16V Flex Mec. 5p;2013 Gasolina
+Ford;Ranger XLT 3.0 PSE 163cv 4x2 CD TB Dies.;2012 Diesel
+Ford;Ranger XLT 3.0 PSE 163cv 4x2 CD TB Dies.;2011 Diesel
+Ford;Ranger XLT 3.0 PSE 163cv 4x2 CD TB Dies.;2010 Diesel
+Ford;Ranger XLT 3.0 PSE 163cv 4x2 CD TB Dies.;2009 Diesel
+Ford;Ranger XLT 3.0 PSE 163cv 4x2 CD TB Dies.;2008 Diesel
+Ford;Ranger XLT 3.0 PSE 163cv 4x2 CD TB Dies.;2007 Diesel
+Ford;Ranger XLT 3.0 PSE 163cv 4x2 CD TB Dies.;2006 Diesel
+Ford;Ranger XLT 3.0 PSE 163cv 4x2 CD TB Dies.;2005 Diesel
+Ford;Fiesta Class 1.0 4p;2000 Gasolina
+Ford;Fiesta Class 1.0 4p;1999 Gasolina
+Ford;Fiesta Class 1.0 4p;1998 Gasolina
+Ford;TERRITORY SEL 1.5 GTDi EcoBoost Aut.;32000 Gasolina
+Ford;TERRITORY SEL 1.5 GTDi EcoBoost Aut.;2021 Gasolina
+Ford;Ranger XLS SPORT 2.3 16V 150cv CS;2012 Gasolina
+Ford;Ranger XLS SPORT 2.3 16V 150cv CS;2011 Gasolina
+Ford;Ranger XLS SPORT 2.3 16V 150cv CS;2010 Gasolina
+Ford;Ranger XLS SPORT 2.3 16V 150cv CS;2009 Gasolina
+Ford;Ranger XLS SPORT 2.3 16V 150cv CS;2008 Gasolina
+Ford;TRANSIT Chassi 2.4 TDCI Diesel;2011 Diesel
+Ford;TRANSIT Chassi 2.4 TDCI Diesel;2010 Diesel
+Ford;TRANSIT Chassi 2.4 TDCI Diesel;2009 Diesel
+Ford;F-250 XL Super Duty 3.9 Diesel;2000 Diesel
+Ford;F-250 XL Super Duty 3.9 Diesel;1999 Diesel
+Ford;F-250 XL Super Duty 3.9 Diesel;1998 Diesel
+Ford;F-250 XL 4.2 180cv CD TB Diesel;2006 Diesel
+Ford;F-250 XL 4.2 180cv CD TB Diesel;2005 Diesel
+Ford;F-250 XL 4.2 180cv CD TB Diesel;2004 Diesel
+Ford;Ranger Limited 3.2 20V 4x4 CD Aut. Dies.;32000 Diesel
+Ford;Ranger Limited 3.2 20V 4x4 CD Aut. Dies.;2021 Diesel
+Ford;Ranger Limited 3.2 20V 4x4 CD Aut. Dies.;2020 Diesel
+Ford;Ranger Limited 3.2 20V 4x4 CD Aut. Dies.;2019 Diesel
+Ford;Ranger Limited 3.2 20V 4x4 CD Aut. Dies.;2018 Diesel
+Ford;Ranger Limited 3.2 20V 4x4 CD Aut. Dies.;2017 Diesel
+Ford;Ranger Limited 3.2 20V 4x4 CD Aut. Dies.;2016 Diesel
+Ford;Ranger Limited 3.2 20V 4x4 CD Aut. Dies.;2015 Diesel
+Ford;Ranger Limited 3.2 20V 4x4 CD Aut. Dies.;2014 Diesel
+Ford;Ranger Limited 3.2 20V 4x4 CD Aut. Dies.;2013 Diesel
+Ford;Fiesta 1.6 16V Flex Aut. 5p;2016 Gasolina
+Ford;Fiesta 1.6 16V Flex Aut. 5p;2015 Gasolina
+Ford;Fiesta 1.6 16V Flex Aut. 5p;2014 Gasolina
+Ford;Fiesta 1.6 16V Flex Aut. 5p;2013 Gasolina
+Ford;Focus Fastback TIT./T.PLUS 2.0 Flex Aut.;2019 Gasolina
+Ford;Focus Fastback TIT./T.PLUS 2.0 Flex Aut.;2018 Gasolina
+Ford;Focus Fastback TIT./T.PLUS 2.0 Flex Aut.;2017 Gasolina
+Ford;Focus Fastback TIT./T.PLUS 2.0 Flex Aut.;2016 Gasolina
+Ford;Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.;2012 Diesel
+Ford;Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.;2011 Diesel
+Ford;Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.;2010 Diesel
+Ford;Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.;2009 Diesel
+Ford;Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.;2008 Diesel
+Ford;Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.;2007 Diesel
+Ford;Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.;2006 Diesel
+Ford;Ranger XLT 3.0 PSE 163cv 4x4 CD TB Dies.;2005 Diesel
+Ford;Fiesta Street/ Action 1.0 8v 5p;2007 Gasolina
+Ford;Fiesta Street/ Action 1.0 8v 5p;2006 Gasolina
+Ford;Fiesta Street/ Action 1.0 8v 5p;2005 Gasolina
+Ford;Fiesta Street/ Action 1.0 8v 5p;2004 Gasolina
+Ford;Fiesta Street/ Action 1.0 8v 5p;2003 Gasolina
+Ford;Fiesta Street/ Action 1.0 8v 5p;2002 Gasolina
+Ford;Ranger XLT 2.5 4x2 CS Diesel;2001 Diesel
+Ford;Ranger XLT 2.5 4x2 CS Diesel;2000 Diesel
+Ford;Ranger XLT 2.5 4x2 CS Diesel;1999 Diesel
+Ford;Ranger XLT 2.5 4x2 CS Diesel;1998 Diesel
+Ford;Ranger XLT 2.5 4x4 CE TB Diesel;2001 Diesel
+Ford;Ranger XLT 2.5 4x4 CE TB Diesel;2000 Diesel
+Ford;Ranger XLT 2.5 4x4 CE TB Diesel;1999 Diesel
+Ford;Ranger XLT 2.8 8v 135cv 4x2 CD TB Diesel;2005 Diesel
+Ford;Ranger XLT 2.8 8v 135cv 4x2 CD TB Diesel;2004 Diesel
+Ford;Ranger XLT 2.8 8v 135cv 4x2 CD TB Diesel;2003 Diesel
+Ford;Ranger XLT 2.8 8v 135cv 4x2 CD TB Diesel;2002 Diesel
+Ford;Fiesta SEL 1.6 16V Flex Mec. 5p;2019 Gasolina
+Ford;Fiesta SEL 1.6 16V Flex Mec. 5p;2018 Gasolina
+Ford;Fiesta SEL 1.6 16V Flex Mec. 5p;2017 Gasolina
+Ford;Fiesta Sed. 1.6 8V Flex 4p;2013 Gasolina
+Ford;Fiesta Sed. 1.6 8V Flex 4p;2012 Gasolina
+Ford;Fiesta Sed. 1.6 8V Flex 4p;2011 Gasolina
+Ford;Fiesta Sed. 1.6 8V Flex 4p;2010 Gasolina
+Ford;Fiesta Sed. 1.6 8V Flex 4p;2009 Gasolina
+Ford;Fiesta Sed. 1.6 8V Flex 4p;2008 Gasolina
+Ford;Fiesta Sed. 1.6 8V Flex 4p;2007 Gasolina
+Ford;Fiesta Sed. 1.6 8V Flex 4p;2006 Gasolina
+Ford;Fiesta Sed. 1.6 8V Flex 4p;2005 Gasolina
+Ford;Fiesta Sed. Personnalité 1.0 8V 4p;2007 Gasolina
+Ford;Fiesta Sed. Personnalité 1.0 8V 4p;2006 Gasolina
+Ford;Fiesta Sed. Personnalité 1.0 8V 4p;2005 Gasolina
+Ford;Ranger XL 2.3 16v 137cv 4x2 CE Repower.;2003 Gasolina
+Ford;Ranger XL 2.3 16v 137cv 4x2 CE Repower.;2002 Gasolina
+Ford;Ranger XL 2.3 16v 137cv 4x2 CE Repower.;2001 Gasolina
+Ford;Ranger XL 3.0 PSE 163cv 4x2 CD TB Diesel;2012 Diesel
+Ford;Ranger XL 3.0 PSE 163cv 4x2 CD TB Diesel;2011 Diesel
+Ford;Ranger XL 3.0 PSE 163cv 4x2 CD TB Diesel;2010 Diesel
+Ford;Ranger XL 3.0 PSE 163cv 4x2 CD TB Diesel;2009 Diesel
+Ford;Ranger XL 3.0 PSE 163cv 4x2 CD TB Diesel;2008 Diesel
+Ford;Ranger XL 3.0 PSE 163cv 4x2 CD TB Diesel;2007 Diesel
+Ford;Ranger XL 3.0 PSE 163cv 4x2 CD TB Diesel;2006 Diesel
+Ford;Ranger XL 3.0 PSE 163cv 4x2 CD TB Diesel;2005 Diesel
+Ford;Ranger XL 4.0 12v V6 210cv 4x2 CS Repow.;2002 Gasolina
+Ford;Ranger XL 4.0 12v V6 210cv 4x2 CS Repow.;2001 Gasolina
+Ford;Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel;2012 Diesel
+Ford;Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel;2011 Diesel
+Ford;Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel;2010 Diesel
+Ford;Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel;2009 Diesel
+Ford;Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel;2008 Diesel
+Ford;Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel;2007 Diesel
+Ford;Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel;2006 Diesel
+Ford;Ranger XL 3.0 PSE 163cv 4x4 CD TB Diesel;2005 Diesel
+Ford;Fiesta SEL 1.6 16V Flex  Aut. 5p;ERRO
+Ford;Ranger SPORT 2.5 Flex 16V 4x2 CS;2016 Gasolina
+Ford;Ranger SPORT 2.5 Flex 16V 4x2 CS;2015 Gasolina
+Ford;Ranger SPORT 2.5 Flex 16V 4x2 CS;2014 Gasolina
+Ford;Verona LX 1.6 (Modelo antigo);1992 Gasolina
+Ford;Verona LX 1.6 (Modelo antigo);1991 Gasolina
+Ford;Verona LX 1.6 (Modelo antigo);1990 Gasolina
+Ford;Verona LX 1.8 (Modelo antigo);1992 Gasolina
+Ford;Verona LX 1.8 (Modelo antigo);1991 Gasolina
+Ford;Verona LX 1.8 (Modelo antigo);1990 Gasolina
+Ford;Focus Sed. TI./TI.Plus 2.0 16V Flex  Aut;2015 Gasolina
+Ford;Focus Sed. TI./TI.Plus 2.0 16V Flex  Aut;2014 Gasolina
+Ford;Focus Sed. TI./TI.Plus 2.0 16V Flex  Aut;2013 Gasolina
+Ford;Focus Sed. TI./TI.Plus 2.0 16V Flex  Aut;2012 Gasolina
+Ford;Focus Sed. TI./TI.Plus 2.0 16V Flex  Aut;2011 Gasolina
+Ford;Focus Fastback SE/SE PLUS 2.0 Flex Aut.;2019 Gasolina
+Ford;Focus Fastback SE/SE PLUS 2.0 Flex Aut.;2018 Gasolina
+Ford;Focus Fastback SE/SE PLUS 2.0 Flex Aut.;2017 Gasolina
+Ford;Focus Fastback SE/SE PLUS 2.0 Flex Aut.;2016 Gasolina
+Ford;Mondeo CLX 1.8i SW;1997 Gasolina
+Ford;Mondeo CLX 1.8i SW;1996 Gasolina
+Ford;Mondeo CLX 1.8i SW;1995 Gasolina
+Ford;Ka 1.5 SE 12V Flex 5p Aut.;32000 Gasolina
+Ford;Ka 1.5 SE 12V Flex 5p Aut.;2020 Gasolina
+Ford;Ka 1.5 SE 12V Flex 5p Aut.;2019 Gasolina
+Ford;Ka 1.5 SE Plus 12V Flex 5p Aut.;32000 Gasolina
+Ford;Ka 1.5 SE Plus 12V Flex 5p Aut.;2021 Gasolina
+Ford;Ka 1.5 SE Plus 12V Flex 5p Aut.;2020 Gasolina
+Ford;Ka 1.5 SE Plus 12V Flex 5p Aut.;2019 Gasolina
+Ford;Ka 1.5 Sedan SE Plus 12V Flex 4p Aut.;32000 Gasolina
+Ford;Ka 1.5 Sedan SE Plus 12V Flex 4p Aut.;2021 Gasolina
+Ford;Ka 1.5 Sedan SE Plus 12V Flex 4p Aut.;2020 Gasolina
+Ford;Ka 1.5 Sedan SE Plus 12V Flex 4p Aut.;2019 Gasolina
+Ford;Ka 1.6 TECNO 8V Flex 3p;2011 Gasolina
+Ford;Ka 1.6 TECNO 8V Flex 3p;2010 Gasolina
+Ford;Ka 1.6 TECNO 8V Flex 3p;2009 Gasolina
+Ford;F-250 XL Super Duty 4.2 V6;ERRO
+Ford;F-250 XLT 3.9 4x2 Diesel TB;ERRO
+Ford;Fiesta CLX 1.3i 5p;ERRO
+Ford;Fiesta Sedan SE 1.6 8V Flex 4p;ERRO
+Ford;Ranger XLT Limit./L.Cent. 2.8 CD TB Dies;ERRO
+Ford;F-250 XL 4.2 Turbo Diesel;ERRO
+Ford;F-250 XL 4.2 V6;ERRO
+Ford;Ranger XLT 4.0 12v V6 210cv 4x4 CE Repow;ERRO
+Ford;Fiesta Class 1.6 8V 98cv 5p;ERRO
+Ford;Ranger XLT 4.0 4x2 CS;ERRO
+Ford;TRANSIT Furgão 2.2 TDCI Curto Diesel;ERRO
+Ford;Mondeo GLX 2.0 4p e 5p;ERRO
+Ford;Focus 1.6 S/1.6 SE Flex 16v 5p Aut;ERRO
+Ford;Fiesta CLX 1.3i 3p;ERRO
+Ford;Fiesta TRAIL 1.6 8V Flex 5p;ERRO
+Ford;Fiesta S 1.0 8V Flex 5p;ERRO
+Ford;Fiesta SE 1.0 8V Flex 5p;ERRO
+Ford;Fiesta SE 1.6 16V Flex 5p;ERRO
+Ford;Fiesta Sed. Supercharger 1.0 8V 4p;ERRO
+Ford;Fiesta GLX 1.6 8V 3p;ERRO
+Ford;Focus Sedan 1.8 16V 115cv 4p;ERRO
+Ford;TERRITORY Titanium 1.5 GTDi EcoBo. Aut.;ERRO
+Ford;Fiesta 1.0i 3p e 5p;ERRO
+Ford;Fiesta Sedan SEL 1.6 16V Flex Mec.;ERRO
+Ford;Fiesta 1.6 8V Flex/Class 1.6 8V Flex 5p;ERRO
+Ford;Fusion 2.5L I-VCT Flex Aut.;ERRO
+Ford;Fiesta TIT.Plus 1.0 12V EcoBoost Aut. 5p;ERRO
+Ford;Ranger XLT 2.8 8v 135cv 4x4 CE TB Diesel;ERRO
+Ford;Fiesta Sedan SE 1.6 16V Flex 4p;ERRO
+Ford;Ranger XLS 2.5 16V 4x2 CD Flex;ERRO
+Ford;Ka 1.0 8V/1.0 8V ST Flex 3p;ERRO
+Ford;Taurus L/LX 3.0 V6;ERRO
+Ford;Thunderbird SC 3.8 V6;ERRO
+Ford;Taurus SHO 3.0 V6;ERRO
+Ford;Mondeo GLX 2.0 16V 4p Aut;ERRO
+Ford;Ranger XLT 2.5 4x4 CD Diesel;ERRO
+Ford;Ranger XL 2.8 8v 135cv 4x2 CS TB Diesel;ERRO
+Ford;Ranger XLT 4.0 4x2 CE;ERRO
+Ford;Focus TITA/TITA Plus 2.0  Flex 5p Aut.;ERRO
+Ford;Ranger XLT 4.0 12v V6 210cv 4x4 CD Repow;ERRO
+Ford;Ranger 2.5 4x4 CD TB Diesel;ERRO
+Ford;Ranger XLS 3.0 PSE 163cv 4x4 CD TB Dies.;ERRO
+Ford;Probe 2.0/2.2;ERRO
+Ford;Ranger XLT 3.2 20V 4x4 CD Diesel;ERRO
+Ford;Ranger XLT 4.0 4x4 CS;ERRO
+Ford;Ranger XLT 2.3 16V 150cv CD Repower.;ERRO
+Ford;Royale GL 1.8/1.8i  2p e 4p;ERRO
+Ford;Ranger XLS 2.8/2.8 Storm  4x4 CD TB Dies;ERRO
+Ford;Ranger XL 2.2 4x4 CD Diesel Mec.;ERRO
+Ford;Mustang 3.8 V6;ERRO
+Ford;Ranger XLT 2.5 4x2 CE Diesel;ERRO
+Ford;Ranger XLS 3.0 PSE 163cv 4x2 CD TB Dies.;ERRO
+Ford;Ranger XLS 2.2 4x4 CD Diesel Mec.;ERRO
+Ford;Ranger 2.5 4x2 TB Diesel;ERRO
+Ford;Fiesta GLX 1.6 8V 5p;ERRO
+Ford;Ranger 2.5i CS;ERRO
+Ford;Fiesta GL 1.0 3p;ERRO
+Ford;TRANSIT Furgão 3550 2.4 TDCI Longo Dies.;ERRO
+Ford;Ranger TROPIVAN XLT 3.0 PSE 4x4 TB Dies.;ERRO
+Ford;F-250 XLT 3.9 4x4 CD TB Diesel;ERRO
+Ford;Fiesta SE Plus 1.6 16V Flex Aut. 5p;ERRO
+Ford;Fiesta GL Class 1.0i 5p;ERRO
+Ford;Ranger XLS 2.8 8V 135cv 4x2 CD TB Diesel;ERRO
+Ford;Mondeo Ghia 2.5 V6 Aut;ERRO
+Ford;Fiesta SE Plus Direct 1.6 16V Flex Aut.;ERRO
+Ford;F-250 XLT 4.2 180cv CD TB Diesel;ERRO
+Ford;Ranger 2.5i CE;ERRO
+Ford;Fiesta 1.5 16V Flex Mec. 5p;ERRO
+Ford;Ranger Splash CS;ERRO
+Ford;TRANSIT Furgão 2.2 TDCI Longa Diesel;ERRO
+Ford;Fiesta Personnalité 1.0 8V 66cv 5p;ERRO
+Ford;Pampa L 1.8i / 1.8;ERRO
+Ford;Mondeo CLX 2.0i 4p Mec;ERRO
+Ford;Fiesta Sedan S 1.0 8V Flex 4p;ERRO
+Ford;Fiesta TIT./TIT.Plus 1.6 16V Flex Aut.;ERRO
+Ford;Fiesta Supercharger 1.0 8V 95cv 5p;ERRO
+Ford;Fiesta GL 1.0 5p;ERRO
+Ford;Ranger XL 3.0 PSE 163cv 4x2 CS TB Diesel;ERRO
+Ford;Fiesta SEL 1.0 12V EcoBoost Aut. 5p;ERRO
+Ford;Fiesta SEL Style 1.0 EcoBoost Aut . 5p;ERRO
+Ford;Fiesta Sedan Street 1.0 8v 4p;ERRO
+Ford;Ranger XLS 3.0 PSE 163cv 4x2 CS TB Dies.;ERRO
+Ford;Verona GLX 2.0i / 2.0 4p;ERRO
+Ford;Fiesta Sedan 1.6 16V Flex Mec.;ERRO
+Ford;F-250 XLT 3.9 4x4 TB Diesel;ERRO
+Ford;Fiesta Sedan Street 1.6 8v 4p;ERRO
+Ford;Fiesta Street 1.6 8v 95cv 5p;ERRO
+Ford;Taurus GL SW 3.0 V6 24V;ERRO
+Ford;Ranger TROPIVAN 3.2 20V 4X4 TB Dies.Aut.;ERRO
+Ford;Ranger XL 2.3 CS;ERRO
+Ford;Mustang Black Shadow 5.0 V8;ERRO
+Ford;Mondeo CLX 1.8 4p e 5p;ERRO
+Ford;Probe GT 2.5 V6;ERRO
+Ford;Verona GL 1.8i / LX 1.8i 4p;ERRO
+Ford;Ka+ Sedan 1.5 SE/SE PLUS 16V Flex 4p;ERRO
+Ford;Ka+ Sedan 1.5 ADVANCED 16V Flex 4p;ERRO
+Ford;Verona S 2.0i 4p;ERRO
+Ford;Verona GLX 1.8 (Modelo antigo);ERRO
+Ford;Fiesta Sport 1.0MPi 4p;ERRO
+Ford;Fiesta Sport 1.6 16V Flex Mec.;ERRO
+Ford;Ka 1.5 SE Plus 12V Flex 5p Mec.;ERRO
+Ford;Ka Action 1.6 MPI 8V 95cv;ERRO
+Ford;Ka Black 1.6 MPI 8v 95cv;ERRO
+Ford;Ka CLX 1.3i 3p;ERRO
+Ford;Ranger XLS 3.0 PSE Storm 4x4 CD TB Dies.;ERRO
+Ford;Ranger XLT 2.3 CS;ERRO
+Ford;Ranger XL 4.0 CS;ERRO
+Ford;Ranger XLS 2.8 8V 135cv 4x4 CS TB Diesel;ERRO
+Ford;Fiesta Sedan SE 1.0 8V Flex 4p;ERRO
+Ford;Fiesta Sedan SEL 1.6 16V Flex Aut.;ERRO
+Ford;Ranger XLS 2.8 8V 135cv 4x2 CS TB Diesel;ERRO
+Ford;Ranger XLS 2.3 16V 145cv/150cv 4x2 CS;ERRO
+Ford;Fiesta Sedan TITANIUM 1.6 16V Flex Mec;ERRO
+Ford;Ranger XL 2.8 8v 135cv 4x2 CE TB Diesel;ERRO
+Ford;Fiesta SEL Style 1.6 16V Flex Mec. 5p;ERRO
+Ford;Ranger TROPIVAN 2.5 16V 4X2 Flex;ERRO
+Ford;Ranger TROPICAB 3.2 20V 4X4 TB Diesel;ERRO
+Ford;Windstar LX;ERRO
+Ford;Ranger 2.5 4x2 CD TB Diesel;ERRO
+Ford;Ranger Storm 3.2 20V 4x4 CD Diesel Aut.;ERRO
+Ford;Mustang GT V8 Conversível;ERRO
+Ford;Ranger 2.5i CD;ERRO
+Ford;Ranger 2.5 4x4 TB Diesel;ERRO
+Ford;Mustang 3.8 V6 Conv.;ERRO
+Ford;Focus 2.0 16V/ 2.0 16V Flex 5p;ERRO
+Ford;Mondeo CLX 2.0i SW Mec;ERRO
+Ford;Pampa S 1.8;ERRO
+Ford;Focus 2.0 16V/SE/SE Plus Flex 5p Aut.;ERRO
+Ford;Focus 1.8 16V 5p;ERRO
+Ford;Focus Ghia/ XR 2.0 /Ghia 2.0 16V Flex 5p;ERRO
+Ford;Fusion SEL 2.0 Ecobo. 16V 248cv Aut.;ERRO
+Ford;Focus Ghia Sed. 2.0 16V/ 2.0 16V Flex 4p;ERRO
+Ford;Focus Sedan 2.0 16V/2.0 16V Flex 4p Aut.;ERRO
+Ford;Mondeo CLX 2.0i SW Aut;ERRO
+Ford;Fusion Titanium 2.0 GTDI Eco. Fwd Aut.;ERRO
+Ford;Versailles Ghia 2.0i / 2.0 2p e 4p;ERRO
+Ford;Focus Sedan 1.6 16V Flex 4p Aut.;ERRO
+Ford;Furglaine 3.9 Diesel;ERRO
+Ford;Fusion Hybrid 2.5 16V 193cv Aut.;ERRO
+Ford;Fusion Titanium Hybrid 2.0 145cv Aut.;ERRO
+Ford;Fusion SEL 3.0 V6  24V 243cv Aut.;ERRO
+Ford;Fusion Titanium 2.0 GTDI Eco. Awd Aut.;ERRO
+Ford;Fusion SEL 2.3 16V  162cv Aut.;ERRO
+Ford;Furglaine 3.6;ERRO
+Ford;Ka 1.0 SE/SE Plus TiVCT Flex 5p;ERRO
+Ford;Fusion SE 2.5 I-VCT Flex 16V Aut.;ERRO
+Ford;Ibiza Chat./Exec. 3.9 Diesel;ERRO
+Ford;Ka 1.0i 3p;ERRO
+Ford;Ka 1.0 FREESTYLE 12V Flex 5p Mec.;ERRO
+Ford;Fusion SEL 3.0 V6 AWD 24V 243cv Aut.;ERRO
+Ford;Ibiza 3.9 Furgão Diesel;ERRO
+Ford;Ka 1.5 Sedan TITANIUM 12V Flex 4p Aut.;ERRO
+Ford;Ka 1.0 TECNO 8V Flex 3p;ERRO
+Ford;Ka 1.6 8V Flex 3p;ERRO
+Ford;Mustang Cobra 5.7 V8;ERRO
+Ford;Ka 1.5 100 anos Flex 5p Aut.;ERRO
+Ford;Ka 1.5 TITANIUM 12V Flex 5p Aut.;ERRO
+Ford;Ka 1.5 Sedan SE Plus 12V Flex 4p Mec.;ERRO

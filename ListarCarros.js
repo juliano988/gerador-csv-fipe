@@ -23,7 +23,7 @@ async function listarCarros() {
         }).then(function (marcas) {
 
             marcasObj.push(marcas.find(function (element) {
-                return element.nome === 'VW - VolksWagen';
+                return element.nome === 'Ford';
             }));
 
             for (const key1 in marcasObj) {

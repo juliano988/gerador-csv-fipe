@@ -1,0 +1,455 @@
+MARCA;MODELO;ANO
+Honda;Accord Coupe EX;1998 Gasolina
+Honda;Accord Coupe EX;1997 Gasolina
+Honda;Accord Coupe EX;1996 Gasolina
+Honda;Accord Coupe EX;1995 Gasolina
+Honda;Accord Coupe EX;1994 Gasolina
+Honda;Accord Coupe EX;1993 Gasolina
+Honda;Accord Coupe EX;1992 Gasolina
+Honda;Accord Coupe EX;1991 Gasolina
+Honda;Civic Sed LX 1.8 Aut 4p;2007 Gasolina
+Honda;CITY Sedan SPORT 1.5 FLEX 16V 4p Mec.;2014 Gasolina
+Honda;Civic Sedan LXB 1.7 16V 115cv;2001 Gasolina
+Honda;Civic Hatch LX Aut.;1996 Gasolina
+Honda;Civic Hatch LX Aut.;1995 Gasolina
+Honda;Civic Hatch LX Aut.;1994 Gasolina
+Honda;Civic Hatch LX Aut.;1993 Gasolina
+Honda;Civic Hatch LX Aut.;1992 Gasolina
+Honda;Civic Sed. LXL/ LXL SE 1.8 Flex 16V Aut.;2013 Gasolina
+Honda;Civic Sed. LXL/ LXL SE 1.8 Flex 16V Aut.;2012 Gasolina
+Honda;Civic Sed. LXL/ LXL SE 1.8 Flex 16V Aut.;2011 Gasolina
+Honda;Civic Sed. LXL/ LXL SE 1.8 Flex 16V Aut.;2010 Gasolina
+Honda;Civic Sedan EX 1.6 16V Aut. 4p (nacion.);2000 Gasolina
+Honda;Civic Sedan EX 1.6 16V Aut. 4p (nacion.);1999 Gasolina
+Honda;Civic Sedan EX 1.6 16V Aut. 4p (nacion.);1998 Gasolina
+Honda;Civic Sedan EX 1.6 16V Aut. 4p (nacion.);1997 Gasolina
+Honda;Civic Sedan EX 1.6 16V Mec. 4p (nacion.);2000 Gasolina
+Honda;Civic Sedan EX 1.6 16V Mec. 4p (nacion.);1999 Gasolina
+Honda;Civic Sedan EX 1.6 16V Mec. 4p (nacion.);1998 Gasolina
+Honda;Civic Sedan EX 1.6 16V Mec. 4p (nacion.);1997 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;2014 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;2013 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;2005 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;2004 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;2003 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;2002 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;2001 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;2000 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;1999 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;1998 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;1997 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;1996 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;1995 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;1994 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;1993 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;1992 Gasolina
+Honda;Accord Sedan EX 2.4/2.3/ 2.2 16V;1991 Gasolina
+Honda;Civic Sedan EX 1.7 16v 130cv Mec. 4p;2003 Gasolina
+Honda;Civic Sedan EX 1.7 16v 130cv Mec. 4p;2002 Gasolina
+Honda;Civic Sedan EX 1.7 16v 130cv Mec. 4p;2001 Gasolina
+Honda;Civic Sedan EX 1.7 16V 130cv Aut. 4p;2006 Gasolina
+Honda;Civic Sedan EX 1.7 16V 130cv Aut. 4p;2005 Gasolina
+Honda;Civic Sedan EX 1.7 16V 130cv Aut. 4p;2004 Gasolina
+Honda;Civic Sedan EX 1.7 16V 130cv Aut. 4p;2003 Gasolina
+Honda;Civic Sedan EX 1.7 16V 130cv Aut. 4p;2002 Gasolina
+Honda;Civic Sedan EX 1.7 16V 130cv Aut. 4p;2001 Gasolina
+Honda;Civic Sedan EXS 1.8/1.8 Flex 16V Aut. 4p;2013 Gasolina
+Honda;Civic Sedan EXS 1.8/1.8 Flex 16V Aut. 4p;2012 Gasolina
+Honda;Civic Sedan EXS 1.8/1.8 Flex 16V Aut. 4p;2011 Gasolina
+Honda;Civic Sedan EXS 1.8/1.8 Flex 16V Aut. 4p;2010 Gasolina
+Honda;Civic Sedan EXS 1.8/1.8 Flex 16V Aut. 4p;2009 Gasolina
+Honda;Civic Sedan EXS 1.8/1.8 Flex 16V Aut. 4p;2008 Gasolina
+Honda;Civic Sedan EXS 1.8/1.8 Flex 16V Aut. 4p;2007 Gasolina
+Honda;Civic Sedan EXL 2.0 Flex 16V Aut.4p;32000 Gasolina
+Honda;Civic Sedan EXL 2.0 Flex 16V Aut.4p;2021 Gasolina
+Honda;Civic Sedan EXL 2.0 Flex 16V Aut.4p;2020 Gasolina
+Honda;Civic Sedan EXL 2.0 Flex 16V Aut.4p;2019 Gasolina
+Honda;Civic Sedan EXL 2.0 Flex 16V Aut.4p;2018 Gasolina
+Honda;Civic Sedan EXL 2.0 Flex 16V Aut.4p;2017 Gasolina
+Honda;Accord Sedan EX 2.7/3.0 24V;2007 Gasolina
+Honda;Accord Sedan EX 2.7/3.0 24V;2006 Gasolina
+Honda;Accord Sedan EX 2.7/3.0 24V;2005 Gasolina
+Honda;Accord Sedan EX 2.7/3.0 24V;2004 Gasolina
+Honda;Accord Sedan EX 2.7/3.0 24V;1996 Gasolina
+Honda;Accord Sedan EX 2.7/3.0 24V;1995 Gasolina
+Honda;Civic Sedan EX/ EXS Aut. 4p/ Del-Sol 2p;1997 Gasolina
+Honda;Civic Sedan EX/ EXS Aut. 4p/ Del-Sol 2p;1996 Gasolina
+Honda;Civic Sedan EX/ EXS Aut. 4p/ Del-Sol 2p;1995 Gasolina
+Honda;Civic Sedan EX/ EXS Aut. 4p/ Del-Sol 2p;1994 Gasolina
+Honda;Civic Sedan EX/ EXS Aut. 4p/ Del-Sol 2p;1993 Gasolina
+Honda;Civic Sedan EX/ EXS Aut. 4p/ Del-Sol 2p;1992 Gasolina
+Honda;Civic Sedan EX 2.0 Flex 16V Aut.4p;32000 Gasolina
+Honda;Civic Sedan EX 2.0 Flex 16V Aut.4p;2021 Gasolina
+Honda;Civic Sedan EX 2.0 Flex 16V Aut.4p;2020 Gasolina
+Honda;Civic Sedan EX 2.0 Flex 16V Aut.4p;2019 Gasolina
+Honda;Civic Sedan EX 2.0 Flex 16V Aut.4p;2018 Gasolina
+Honda;Civic Sedan EX 2.0 Flex 16V Aut.4p;2017 Gasolina
+Honda;Civic Sedan EX/ EXS 1.6 Mec. 4p;1997 Gasolina
+Honda;Civic Sedan EX/ EXS 1.6 Mec. 4p;1996 Gasolina
+Honda;Civic Sedan EX/ EXS 1.6 Mec. 4p;1995 Gasolina
+Honda;Civic Sedan EX/ EXS 1.6 Mec. 4p;1994 Gasolina
+Honda;Civic Sedan EX/ EXS 1.6 Mec. 4p;1993 Gasolina
+Honda;Civic Sedan EX/ EXS 1.6 Mec. 4p;1992 Gasolina
+Honda;Civic Sedan LX 1.7 16V 115cv Mec. 4p;2006 Gasolina
+Honda;Civic Sedan LX 1.7 16V 115cv Mec. 4p;2005 Gasolina
+Honda;Civic Sedan LX 1.7 16V 115cv Mec. 4p;2004 Gasolina
+Honda;Civic Sedan LX 1.7 16V 115cv Mec. 4p;2003 Gasolina
+Honda;Civic Sedan LX 1.7 16V 115cv Mec. 4p;2002 Gasolina
+Honda;Civic Sedan LX 1.7 16V 115cv Mec. 4p;2001 Gasolina
+Honda;Civic Sedan EXR 2.0 Flexone 16V Aut. 4p;2016 Gasolina
+Honda;Civic Sedan EXR 2.0 Flexone 16V Aut. 4p;2014 Gasolina
+Honda;Civic Sedan LX 1.6 16V Aut. 4p;2000 Gasolina
+Honda;Civic Sedan LX 1.6 16V Aut. 4p;1999 Gasolina
+Honda;Civic Sedan LX 1.6 16V Aut. 4p;1998 Gasolina
+Honda;Civic Sedan LX 1.6 16V Aut. 4p;1997 Gasolina
+Honda;Civic Sedan LX 2.0 Flex 16V Aut. 4p;32000 Gasolina
+Honda;Civic Sedan LX 2.0 Flex 16V Aut. 4p;2021 Gasolina
+Honda;Civic Sedan LX 2.0 Flex 16V Aut. 4p;2020 Gasolina
+Honda;Accord Sedan EX 2.0 16V 156cv Aut.;2012 Gasolina
+Honda;Accord Sedan EX 2.0 16V 156cv Aut.;2011 Gasolina
+Honda;Accord Sedan EX 2.0 16V 156cv Aut.;2010 Gasolina
+Honda;Accord Sedan LX 2.0 16V 150/156cv Aut.;2009 Gasolina
+Honda;Accord Sedan LX 2.0 16V 150/156cv Aut.;2008 Gasolina
+Honda;Accord Sedan LX 2.0 16V 150/156cv Aut.;2007 Gasolina
+Honda;Accord Sedan LX 2.0 16V 150/156cv Aut.;2006 Gasolina
+Honda;Accord Sedan EX 3.5 V6 24V;2017 Gasolina
+Honda;Accord Sedan EX 3.5 V6 24V;2016 Gasolina
+Honda;Accord Sedan EX 3.5 V6 24V;2015 Gasolina
+Honda;Accord Sedan EX 3.5 V6 24V;2014 Gasolina
+Honda;Accord Sedan EX 3.5 V6 24V;2013 Gasolina
+Honda;Accord Sedan EX 3.5 V6 24V;2012 Gasolina
+Honda;Accord Sedan EX 3.5 V6 24V;2011 Gasolina
+Honda;Accord Sedan EX 3.5 V6 24V;2010 Gasolina
+Honda;Accord Sedan EX 3.5 V6 24V;2009 Gasolina
+Honda;Accord Sedan EX 3.5 V6 24V;2008 Gasolina
+Honda;CITY Sedan EXL 1.5 Flex  16V 4p Aut.;32000 Gasolina
+Honda;CITY Sedan EXL 1.5 Flex  16V 4p Aut.;2021 Gasolina
+Honda;CITY Sedan EXL 1.5 Flex  16V 4p Aut.;2020 Gasolina
+Honda;CITY Sedan EXL 1.5 Flex  16V 4p Aut.;2019 Gasolina
+Honda;CITY Sedan EXL 1.5 Flex  16V 4p Aut.;2018 Gasolina
+Honda;CITY Sedan EXL 1.5 Flex  16V 4p Aut.;2017 Gasolina
+Honda;CITY Sedan EXL 1.5 Flex  16V 4p Aut.;2016 Gasolina
+Honda;CITY Sedan EXL 1.5 Flex  16V 4p Aut.;2015 Gasolina
+Honda;CITY Sedan EXL 1.5 Flex  16V 4p Aut.;2012 Gasolina
+Honda;CITY Sedan EXL 1.5 Flex  16V 4p Aut.;2011 Gasolina
+Honda;CITY Sedan EXL 1.5 Flex  16V 4p Aut.;2010 Gasolina
+Honda;Civic CRX/ Targa VTi;1995 Gasolina
+Honda;Civic CRX/ Targa VTi;1994 Gasolina
+Honda;Civic CRX/ Targa VTi;1993 Gasolina
+Honda;Accord Sedan LX  2.2/2.4 16V;2005 Gasolina
+Honda;Accord Sedan LX  2.2/2.4 16V;1996 Gasolina
+Honda;Accord Sedan LX  2.2/2.4 16V;1995 Gasolina
+Honda;Accord Sedan LX  2.2/2.4 16V;1994 Gasolina
+Honda;Accord Sedan LX  2.2/2.4 16V;1993 Gasolina
+Honda;Accord Sedan LX  2.2/2.4 16V;1992 Gasolina
+Honda;Accord SW EX;1995 Gasolina
+Honda;Accord SW EX;1994 Gasolina
+Honda;Accord SW EX;1993 Gasolina
+Honda;Accord SW EX;1992 Gasolina
+Honda;Accord SW EX;1991 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Aut.;2017 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Aut.;2016 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Aut.;2012 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Aut.;2011 Gasolina
+Honda;Accord SW LX;1995 Gasolina
+Honda;Accord SW LX;1994 Gasolina
+Honda;Accord SW LX;1993 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Mec.;2013 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Mec.;2012 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Mec.;2011 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Mec.;2010 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Aut.;32000 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Aut.;2021 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Aut.;2020 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Aut.;2019 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Aut.;2018 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Aut.;2017 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Aut.;2016 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Aut.;2015 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Aut.;2014 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Aut.;2013 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Aut.;2012 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Aut.;2011 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Aut.;2010 Gasolina
+Honda;CITY Sedan EXL 1.5 Flex 16V 4p Mec.;2011 Gasolina
+Honda;CITY Sedan EXL 1.5 Flex 16V 4p Mec.;2010 Gasolina
+Honda;Civic Coupe Si 2.4 16V 206cv Mec. 2p;2015 Gasolina
+Honda;Civic Coupe Si 2.4 16V 206cv Mec. 2p;2014 Gasolina
+Honda;CITY Sedan Personal 1.5 Flex 16V Aut.;32000 Gasolina
+Honda;CITY Sedan Personal 1.5 Flex 16V Aut.;2021 Gasolina
+Honda;CITY Sedan Personal 1.5 Flex 16V Aut.;2020 Gasolina
+Honda;CITY Sedan Personal 1.5 Flex 16V Aut.;2019 Gasolina
+Honda;CITY Sedan Personal 1.5 Flex 16V Aut.;2018 Gasolina
+Honda;Civic Sed. LXL/LXL SE 1.8 Flex 16V Mec.;2013 Gasolina
+Honda;Civic Sed. LXL/LXL SE 1.8 Flex 16V Mec.;2012 Gasolina
+Honda;Civic Sed. LXL/LXL SE 1.8 Flex 16V Mec.;2011 Gasolina
+Honda;Civic Sed. LXL/LXL SE 1.8 Flex 16V Mec.;2010 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Mec.;2013 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Mec.;2012 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Mec.;2011 Gasolina
+Honda;CITY Sedan EX 1.5 Flex 16V 4p Mec.;2010 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Aut.;32000 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Aut.;2021 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Aut.;2020 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Aut.;2019 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Aut.;2018 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Aut.;2017 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Aut.;2016 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Aut.;2015 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Aut.;2014 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Aut.;2013 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Aut.;2012 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Aut.;2011 Gasolina
+Honda;CITY Sedan LX 1.5 Flex 16V 4p Aut.;2010 Gasolina
+Honda;Civic Hatch DX;1995 Gasolina
+Honda;Civic Hatch DX;1994 Gasolina
+Honda;Civic Hatch DX;1993 Gasolina
+Honda;Civic Hatch DX;1992 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Mec.;32000 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Mec.;2021 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Mec.;2020 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Mec.;2019 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Mec.;2018 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Mec.;2017 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Mec.;2016 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Mec.;2015 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Mec.;2014 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Mec.;2013 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Mec.;2012 Gasolina
+Honda;CITY Sedan DX 1.5 Flex 16V Mec.;2011 Gasolina
+Honda;Accord Sedan Touring 2.0 TB 16V Aut.;32000 Gasolina
+Honda;Accord Sedan Touring 2.0 TB 16V Aut.;2020 Gasolina
+Honda;Accord Sedan Touring 2.0 TB 16V Aut.;2019 Gasolina
+Honda;Accord Sedan Touring 2.0 TB 16V Aut.;2018 Gasolina
+Honda;Civic Hatch Si;1995 Gasolina
+Honda;Civic Hatch Si;1994 Gasolina
+Honda;Civic Hatch Si;1993 Gasolina
+Honda;Civic Coupe EX/ EXS 1.6 16V 2p;1998 Gasolina
+Honda;Civic Coupe EX/ EXS 1.6 16V 2p;1997 Gasolina
+Honda;Civic Coupe EX/ EXS 1.6 16V 2p;1996 Gasolina
+Honda;Civic Coupe EX/ EXS 1.6 16V 2p;1995 Gasolina
+Honda;Civic Coupe EX/ EXS 1.6 16V 2p;1994 Gasolina
+Honda;Civic Coupe EX/ EXS 1.6 16V 2p;1993 Gasolina
+Honda;Civic Coupe EX/ EXS 1.6 16V 2p;1992 Gasolina
+Honda;Civic Coupe EX/ EXS 1.6 16V 2p;1991 Gasolina
+Honda;Civic Hatch LSi;1995 Gasolina
+Honda;Civic Hatch LSi;1994 Gasolina
+Honda;Civic Hatch LSi;1993 Gasolina
+Honda;Civic Hatch LSi;1992 Gasolina
+Honda;Civic Hatch LSi;1991 Gasolina
+Honda;Civic Coupe Si 1.5 TB 16V 208cv Mec. 2p;32000 Gasolina
+Honda;Civic Coupe Si 1.5 TB 16V 208cv Mec. 2p;2020 Gasolina
+Honda;Civic Coupe Si 1.5 TB 16V 208cv Mec. 2p;2019 Gasolina
+Honda;Civic Coupe Si 1.5 TB 16V 208cv Mec. 2p;2018 Gasolina
+Honda;Accord Sedan EXR;2001 Gasolina
+Honda;Accord Sedan EXR;2000 Gasolina
+Honda;Accord Sedan EXR;1999 Gasolina
+Honda;Accord Sedan EXR;1998 Gasolina
+Honda;Accord Sedan EXR;1997 Gasolina
+Honda;Accord Sedan EXR;1996 Gasolina
+Honda;Accord Sedan EXR;1995 Gasolina
+Honda;Fit CX 1.4 Flex 16V 5p Aut.;2014 Gasolina
+Honda;Fit CX 1.4 Flex 16V 5p Mec.;2014 Gasolina
+Honda;Civic Sedan LX 1.6 16V Mec. 4p;2000 Gasolina
+Honda;Civic Sedan LX 1.6 16V Mec. 4p;1999 Gasolina
+Honda;Civic Sedan LX 1.6 16V Mec. 4p;1998 Gasolina
+Honda;Civic Sedan LX 1.6 16V Mec. 4p;1997 Gasolina
+Honda;Civic Sedan LXL 1.7 16V 130cv Aut 4p;2006 Gasolina
+Honda;Civic Sedan LXL 1.7 16V 130cv Aut 4p;2005 Gasolina
+Honda;Civic Sedan LX/LXL 1.7 16V 115cv Aut. 4p;2006 Gasolina
+Honda;Civic Sedan LX/LXL 1.7 16V 115cv Aut. 4p;2005 Gasolina
+Honda;Civic Sedan LX/LXL 1.7 16V 115cv Aut. 4p;2004 Gasolina
+Honda;Civic Sedan LX/LXL 1.7 16V 115cv Aut. 4p;2003 Gasolina
+Honda;Civic Sedan LX/LXL 1.7 16V 115cv Aut. 4p;2002 Gasolina
+Honda;Civic Sedan LX/LXL 1.7 16V 115cv Aut. 4p;2001 Gasolina
+Honda;Civic Sedan LXL 1.7 16V 130cv Mec 4p;2006 Gasolina
+Honda;Civic Sedan LXL 1.7 16V 130cv Mec 4p;2005 Gasolina
+Honda;Civic Sedan LXR 2.0 Flexone 16V Aut. 4p;2016 Gasolina
+Honda;Civic Sedan LXR 2.0 Flexone 16V Aut. 4p;2015 Gasolina
+Honda;Civic Sedan LXR 2.0 Flexone 16V Aut. 4p;2014 Gasolina
+Honda;Civic Sedan LXB 1.6 16V 4p;2000 Gasolina
+Honda;Civic Sedan LXB 1.6 16V 4p;1999 Gasolina
+Honda;Civic Sedan LXB 1.6 16V 4p;1998 Gasolina
+Honda;Civic Sedan LXB 1.6 16V 4p;1997 Gasolina
+Honda;Civic Sedan SPORT 2.0 Flex 16V Aut.4p;32000 Gasolina
+Honda;Civic Sedan SPORT 2.0 Flex 16V Aut.4p;2021 Gasolina
+Honda;Civic Sedan SPORT 2.0 Flex 16V Aut.4p;2020 Gasolina
+Honda;Civic Sedan SPORT 2.0 Flex 16V Aut.4p;2019 Gasolina
+Honda;Civic Sedan SPORT 2.0 Flex 16V Aut.4p;2018 Gasolina
+Honda;Civic Sedan SPORT 2.0 Flex 16V Aut.4p;2017 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Aut. 4p;2016 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Aut. 4p;2015 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Aut. 4p;2014 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Aut. 4p;2013 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Aut. 4p;2012 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Aut. 4p;2011 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Aut. 4p;2010 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Aut. 4p;2009 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Aut. 4p;2008 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Aut. 4p;2007 Gasolina
+Honda;Civic Sedan Si 2.0 16V  192cv 4p;2011 Gasolina
+Honda;Civic Sedan Si 2.0 16V  192cv 4p;2010 Gasolina
+Honda;Civic Sedan Si 2.0 16V  192cv 4p;2009 Gasolina
+Honda;Civic Sedan Si 2.0 16V  192cv 4p;2008 Gasolina
+Honda;Civic Sedan Si 2.0 16V  192cv 4p;2007 Gasolina
+Honda;Civic Sedan SPORT 2.0 Flex 16V Mec.4p;2019 Gasolina
+Honda;Civic Sedan SPORT 2.0 Flex 16V Mec.4p;2018 Gasolina
+Honda;Civic Sedan SPORT 2.0 Flex 16V Mec.4p;2017 Gasolina
+Honda;Civic Sedan TOURING 1.5 Turbo 16V Aut.4p;32000 Gasolina
+Honda;Civic Sedan TOURING 1.5 Turbo 16V Aut.4p;2021 Gasolina
+Honda;Civic Sedan TOURING 1.5 Turbo 16V Aut.4p;2020 Gasolina
+Honda;Civic Sedan TOURING 1.5 Turbo 16V Aut.4p;2019 Gasolina
+Honda;Civic Sedan TOURING 1.5 Turbo 16V Aut.4p;2018 Gasolina
+Honda;Civic Sedan TOURING 1.5 Turbo 16V Aut.4p;2017 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Mec. 4p;2016 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Mec. 4p;2015 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Mec. 4p;2014 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Mec. 4p;2013 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Mec. 4p;2012 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Mec. 4p;2011 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Mec. 4p;2010 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Mec. 4p;2009 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Mec. 4p;2008 Gasolina
+Honda;Civic Sedan LXS 1.8/1.8 Flex 16V Mec. 4p;2007 Gasolina
+Honda;CR-V 2.0 16V Aut.;2007 Gasolina
+Honda;CR-V 2.0 16V Aut.;2006 Gasolina
+Honda;CR-V 2.0 16V Aut.;2005 Gasolina
+Honda;CR-V 2.0 16V Aut.;2002 Gasolina
+Honda;CR-V 2.0 16V Aut.;2001 Gasolina
+Honda;CR-V 2.0 16V Aut.;2000 Gasolina
+Honda;CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.;2016 Gasolina
+Honda;CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.;2015 Gasolina
+Honda;CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.;2014 Gasolina
+Honda;CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.;2013 Gasolina
+Honda;CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.;2012 Gasolina
+Honda;CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.;2011 Gasolina
+Honda;CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.;2010 Gasolina
+Honda;CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.;2009 Gasolina
+Honda;CR-V EXL 2.0 16V 4WD/2.0 Flexone Aut.;2008 Gasolina
+Honda;CR-V 2.0 16V Mec.;2001 Gasolina
+Honda;CR-V 2.0 16V Mec.;2000 Gasolina
+Honda;CR-V 2.4 16V 156cv Aut. 4p;2004 Gasolina
+Honda;CR-V 2.4 16V 156cv Aut. 4p;2003 Gasolina
+Honda;CR-V 2.4 16V 156cv Aut. 4p;2002 Gasolina
+Honda;Civic Hatch VTi;ERRO
+Honda;Civic Sedan LX 1.5/1.6;ERRO
+Honda;CR-V EXL 2.0 Flexone 16V 2WD Aut.;2014 Gasolina
+Honda;CR-V EXL 2.0 Flexone 16V 2WD Aut.;2013 Gasolina
+Honda;CR-V LX 2.0 16V 2WD/2.0 Flexone Aut.;2015 Gasolina
+Honda;CR-V LX 2.0 16V 2WD/2.0 Flexone Aut.;2014 Gasolina
+Honda;CR-V LX 2.0 16V 2WD/2.0 Flexone Aut.;2013 Gasolina
+Honda;CR-V LX 2.0 16V 2WD/2.0 Flexone Aut.;2012 Gasolina
+Honda;CR-V LX 2.0 16V 2WD/2.0 Flexone Aut.;2011 Gasolina
+Honda;CR-V LX 2.0 16V 2WD/2.0 Flexone Aut.;2010 Gasolina
+Honda;CR-V LX 2.0 16V 2WD/2.0 Flexone Aut.;2009 Gasolina
+Honda;CR-V LX 2.0 16V 2WD/2.0 Flexone Aut.;2008 Gasolina
+Honda;CR-V Touring 1.5 16V 4WD 5p Aut.;32000 Gasolina
+Honda;CR-V Touring 1.5 16V 4WD 5p Aut.;2019 Gasolina
+Honda;CR-V Touring 1.5 16V 4WD 5p Aut.;2018 Gasolina
+Honda;Fit LXL 1.4/ 1.4 Flex 8V/16V 5p Aut.;ERRO
+Honda;Fit LXL 1.4/ 1.4 Flex 8V/16V 5p Mec.;ERRO
+Honda;Passport PIck-Up 4x2;ERRO
+Honda;HR-V LX 1.8 Flexone 16V 5p Aut.;ERRO
+Honda;Odyssey Van LX Aut (6 lug.);ERRO
+Honda;Fit Twist 1.5 Flex 16V 5p Aut.;ERRO
+Honda;Passport EX;ERRO
+Honda;WR-V EXL 1.5 Flexone 16V 5p Aut.;ERRO
+Honda;HR-V EX 1.8 Flexone 16V 5p Aut.;ERRO
+Honda;WR-V EX 1.5 Flexone 16V 5p Aut.;ERRO
+Honda;Odyssey EX Van Aut (6 lug.);ERRO
+Honda;WR-V LX 1.5 Flexone 16V 5p Aut.;ERRO
+Honda;HR-V EXL 1.8 Flexone 16V 5p Aut.;ERRO
+Honda;Fit LX 1.5 Flexone 16V 5p Mec.;ERRO
+Honda;Fit LX 1.5 Flexone 16V 5p Aut.;ERRO
+Honda;Passport LX;ERRO
+Honda;Fit Personal 1.5 Flexone 16V 5p Aut.;ERRO
+Honda;HR-V Touring 1.5 TB 16V 5p Aut.;ERRO
+Honda;HR-V Touring 1.8 Flexone 16V 5p Aut.;ERRO
+Honda;Prelude Si;ERRO
+Honda;Fit Twist 1.5 Flex 16V 5p Mec.;ERRO
+Honda;HR-V LX 1.8 Flexone 16V 5p Mec.;ERRO
+Honda;Prelude Coupê S 2.2;ERRO
+Honda;Fit DX 1.4 Flex 16V 5p Aut.;2012 Gasolina
+Honda;Fit DX 1.4 Flex 16V 5p Aut.;2011 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.;2014 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.;2013 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.;2012 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.;2011 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.;2010 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.;2009 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.;2008 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.;2007 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.;2006 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.;2005 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Mec.;2004 Gasolina
+Honda;Fit EXL 1.5 Flex/Flexone 16V 5p Aut;32000 Gasolina
+Honda;Fit EXL 1.5 Flex/Flexone 16V 5p Aut;2021 Gasolina
+Honda;Fit EXL 1.5 Flex/Flexone 16V 5p Aut;2020 Gasolina
+Honda;Fit EXL 1.5 Flex/Flexone 16V 5p Aut;2019 Gasolina
+Honda;Fit EXL 1.5 Flex/Flexone 16V 5p Aut;2018 Gasolina
+Honda;Fit EXL 1.5 Flex/Flexone 16V 5p Aut;2017 Gasolina
+Honda;Fit EXL 1.5 Flex/Flexone 16V 5p Aut;2016 Gasolina
+Honda;Fit EXL 1.5 Flex/Flexone 16V 5p Aut;2015 Gasolina
+Honda;Fit EXL 1.5 Flex/Flexone 16V 5p Aut;2013 Gasolina
+Honda;Fit EXL 1.5 Flex/Flexone 16V 5p Aut;2012 Gasolina
+Honda;Fit EXL 1.5 Flex/Flexone 16V 5p Aut;2011 Gasolina
+Honda;Fit EXL 1.5 Flex/Flexone 16V 5p Aut;2010 Gasolina
+Honda;Fit EXL 1.5 Flex/Flexone 16V 5p Aut;2009 Gasolina
+Honda;Fit DX 1.5 Flexone 16V 5p Aut.;2017 Gasolina
+Honda;Fit DX 1.5 Flexone 16V 5p Aut.;2016 Gasolina
+Honda;Fit DX 1.5 Flexone 16V 5p Aut.;2015 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;32000 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2021 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2020 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2019 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2018 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2017 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2016 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2015 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2014 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2013 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2012 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2011 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2010 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2009 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2008 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2007 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2006 Gasolina
+Honda;Fit EX/S/EX 1.5 Flex/Flexone 16V 5p Aut.;2005 Gasolina
+Honda;Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.;2014 Gasolina
+Honda;Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.;2013 Gasolina
+Honda;Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.;2012 Gasolina
+Honda;Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.;2011 Gasolina
+Honda;Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.;2010 Gasolina
+Honda;Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.;2009 Gasolina
+Honda;Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.;2008 Gasolina
+Honda;Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.;2007 Gasolina
+Honda;Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.;2006 Gasolina
+Honda;Fit EX/ S 1.5/ EX 1.5 Flex 16V 5p Mec.;2005 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.;2014 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.;2013 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.;2012 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.;2011 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.;2010 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.;2009 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.;2008 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.;2007 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.;2006 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.;2005 Gasolina
+Honda;Fit LX 1.4/ 1.4 Flex 8V/16V 5p Aut.;2004 Gasolina
+Honda;Fit DX 1.5 Flexone 16V 5p Mec.;32000 Gasolina
+Honda;Fit DX 1.5 Flexone 16V 5p Mec.;2021 Gasolina
+Honda;Fit DX 1.5 Flexone 16V 5p Mec.;2020 Gasolina
+Honda;Fit DX 1.5 Flexone 16V 5p Mec.;2019 Gasolina
+Honda;Fit DX 1.5 Flexone 16V 5p Mec.;2018 Gasolina
+Honda;Fit DX 1.5 Flexone 16V 5p Mec.;2017 Gasolina
+Honda;Fit DX 1.5 Flexone 16V 5p Mec.;2016 Gasolina
+Honda;Fit DX 1.5 Flexone 16V 5p Mec.;2015 Gasolina
+Honda;Fit EXL 1.5 Flex 16V 5p Mec;2012 Gasolina
+Honda;Fit EXL 1.5 Flex 16V 5p Mec;2011 Gasolina
+Honda;Fit EXL 1.5 Flex 16V 5p Mec;2010 Gasolina
+Honda;Fit EXL 1.5 Flex 16V 5p Mec;2009 Gasolina
+Honda;Fit DX 1.4 Flex 16V 5p Mec.;2014 Gasolina
+Honda;Fit DX 1.4 Flex 16V 5p Mec.;2013 Gasolina
+Honda;Fit DX 1.4 Flex 16V 5p Mec.;2012 Gasolina
+Honda;Fit DX 1.4 Flex 16V 5p Mec.;2011 Gasolina
