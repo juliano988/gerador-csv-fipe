@@ -1,16 +1,17 @@
 //https://deividfortuna.github.io/fipe/
 
+const marcaDesejada = 'volkswagen';
+const modeloDesejado = '';
+
+// ---------------------------------------------------------------------------
+
 const fetch = require("node-fetch");
 const write = require('write');
 const insertLine = require('insert-line');
 
-let marcasObj = []
+let marcasObj = {};
 let modelosObj = {};
 let anosObj = {};
-
-// let marcasArr = [];
-// let modelosArr = [];
-// let anosArr = [];
 
 async function listarCarros() {
     console.clear();
@@ -22,21 +23,47 @@ async function listarCarros() {
             return res.json();
         }).then(function (marcas) {
 
-            marcasObj.push(marcas.find(function (element) {
-                return element.nome === 'Ford';
-            }));
+            switch (marcaDesejada) {
+                case '':
+                    // Para selecioar todas as marcas:
+                    marcasObj = marcas;
+                    break;
+                default:
+                    // Para selecionar uma marca específica:
+                    marcasObj = [];
+                    marcasObj.push(marcas.filter(function (element) {
+                        return element.nome.match(new RegExp(marcaDesejada,'i'));
+                    }));
+                    marcasObj = marcasObj[0];
+                    break;
+
+            }
 
             for (const key1 in marcasObj) {
                 if (Object.hasOwnProperty.call(marcasObj, key1)) {
                     const element1 = marcasObj[key1];
 
                     (async () => {
-                        //'https://parallelum.com.br/fipe/api/v1/carros/marcas/'+element1.codigo+'/modelos'
                         await fetch('https://parallelum.com.br/fipe/api/v1/carros/marcas/' + element1.codigo + '/modelos')
                             .then(function (res) {
                                 return res.json();
                             }).then(function (modelos) {
-                                modelosObj = modelos.modelos;
+
+                                switch (modeloDesejado) {
+                                    case '':
+                                        // Para selecioar todas os modelos:
+                                        modelosObj = modelos.modelos;
+                                        break;
+                                    default:
+                                        // Para selecionar uma modelo específico:
+                                        modelosObj = [];
+                                        modelosObj.push(modelos.modelos.filter(function (element) {
+                                            return element.nome.match(new RegExp(modeloDesejado,'i'));
+                                        }));
+                                        modelosObj = modelosObj[0];
+                                        break;
+                                }
+
                                 for (const key2 in modelosObj) {
                                     if (Object.hasOwnProperty.call(modelosObj, key2)) {
                                         const element2 = modelosObj[key2];
