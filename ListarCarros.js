@@ -1,7 +1,7 @@
 //https://deividfortuna.github.io/fipe/
 
-const marcaDesejada = 'volkswagen';
-const modeloDesejado = '';
+const marcaDesejada = 'Peugeot';
+const modeloDesejado = '306|307';
 
 // ---------------------------------------------------------------------------
 
@@ -16,7 +16,7 @@ let anosObj = {};
 async function listarCarros() {
     console.clear();
 
-    write.sync('listarCarros.txt', 'MARCA;MODELO;ANO', { newline: true });
+    // write.sync('listarCarros.txt', 'MARCA;MODELO;ANO', { newline: true });
 
     await fetch('https://parallelum.com.br/fipe/api/v1/carros/marcas')
         .then(function (res) {
