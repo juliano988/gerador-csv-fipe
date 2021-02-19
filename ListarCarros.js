@@ -1,17 +1,16 @@
 //https://deividfortuna.github.io/fipe/
 
-const marcaDesejada = ``.replace(/\n/g,'|');
-const modeloDesejado = ``.replace(/\n/g,'|');
-
-// ---------------------------------------------------------------------------
-
 const fetch = require("node-fetch");
 const write = require('write');
 const insertLine = require('insert-line');
+var read = require('read-file');
 
 let marcasObj = {};
 let modelosObj = {};
 let anosObj = {};
+
+const marcaDesejada = read.sync('variaveis/marcaDesejada.txt', 'utf8').trim().replace(/\n/g,'|');
+const modeloDesejado = read.sync('variaveis/modeloDesejado.txt', 'utf8').trim().replace(/\n/g,'|');
 
 async function listarCarros() {
     console.clear();

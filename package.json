@@ -12,6 +12,7 @@
     "create-file": "^1.0.1",
     "insert-line": "^1.1.0",
     "node-fetch": "^2.6.1",
+    "read-file": "^0.2.0",
     "write": "^2.0.0"
   }
 }
