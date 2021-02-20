@@ -1,43 +1,146 @@
 MARCA;MODELO;ANO
-Land Rover;Freelander HSE 2.5 V6 24V 177cv 5p;2006 Gasolina
-Land Rover;Freelander HSE 2.5 V6 24V 177cv 5p;2005 Gasolina
-Land Rover;Freelander HSE 2.5 V6 24V 177cv 5p;2004 Gasolina
-Land Rover;Freelander HSE 2.5 V6 24V 177cv 5p;2003 Gasolina
-Land Rover;Range R. VELAR S 3.0 4x4 V6 380cv Aut.;2018 Gasolina
-Land Rover;Range R. VELAR S 2.0 4x4 TB 250cv Aut.;2018 Gasolina
-Land Rover;Range Rover EVOQUE SE 2.0 Diesel Aut.;2019 Diesel
-Land Rover;Range Rover EVOQUE SE 2.0 Diesel Aut.;2018 Diesel
-Land Rover;Range Rover EVOQUE SE 2.0 Diesel Aut.;2017 Diesel
-Land Rover;Range Rover EVOQUE SE 2.0 Diesel Aut.;2016 Diesel
-Land Rover;Range Rover Sport 3.6 TDV8 272cv Diesel;2011 Diesel
-Land Rover;Range Rover Sport 3.6 TDV8 272cv Diesel;2010 Diesel
-Land Rover;Range Rover Sport 3.6 TDV8 272cv Diesel;2009 Diesel
-Land Rover;Range Rover Sport 3.6 TDV8 272cv Diesel;2008 Diesel
-Land Rover;Range Rover Sport 3.6 TDV8 272cv Diesel;2007 Diesel
-Land Rover;Discovery3 S 2.7 4x4 TDI Diesel Aut.;2009 Diesel
-Land Rover;Discovery3 S 2.7 4x4 TDI Diesel Aut.;2008 Diesel
-Land Rover;Discovery3 S 2.7 4x4 TDI Diesel Aut.;2007 Diesel
-Land Rover;Discovery3 S 2.7 4x4 TDI Diesel Aut.;2006 Diesel
-Land Rover;Discovery3 S 2.7 4x4 TDI Diesel Aut.;2005 Diesel
-Land Rover;Range R. EVO HSE Si4 R-Dyn.2.0 300cv Aut;32000 Gasolina
-Land Rover;Range R. EVO HSE Si4 R-Dyn.2.0 300cv Aut;2020 Gasolina
-Land Rover;Range R.EVOQUE Prestige Tech 2.0 Aut 5p;2015 Gasolina
-Land Rover;Range R.EVOQUE Prestige Tech 2.0 Aut 5p;2014 Gasolina
-Land Rover;Range R.EVOQUE Prestige Tech 2.0 Aut 5p;2013 Gasolina
-Land Rover;Range R.EVOQUE Prestige Tech 2.0 Aut 5p;2012 Gasolina
-Land Rover;Range Rover Sport HSE 4.4 V8 32V 295cv;2007 Gasolina
-Land Rover;Range Rover Sport HSE 4.4 V8 32V 295cv;2006 Gasolina
-Land Rover;Range Rover Sport HSE 4.4 V8 32V 295cv;2005 Gasolina
-Land Rover;Freelander2 Si4 S 2.0 240cv Aut. 5p;2015 Gasolina
-Land Rover;Freelander2 Si4 S 2.0 240cv Aut. 5p;2014 Gasolina
-Land Rover;Freelander2 Si4 S 2.0 240cv Aut. 5p;2013 Gasolina
-Land Rover;Range R.EVOQUE Prestige 2.2 5p Dies.;2015 Diesel
-Land Rover;Range R.EVOQUE Prestige 2.2 5p Dies.;2014 Diesel
-Land Rover;Discovery3 S 4.0 V6 4x4 215cv Aut.;2009 Gasolina
-Land Rover;Discovery3 S 4.0 V6 4x4 215cv Aut.;2008 Gasolina
-Land Rover;Discovery3 S 4.0 V6 4x4 215cv Aut.;2007 Gasolina
-Land Rover;Discovery3 S 4.0 V6 4x4 215cv Aut.;2006 Gasolina
-Land Rover;Range R.EVOQUE Pure  2.0 Aut. 5p;2015 Gasolina
-Land Rover;Range R.EVOQUE Pure  2.0 Aut. 5p;2014 Gasolina
-Land Rover;Range R.EVOQUE Pure  2.0 Aut. 5p;2013 Gasolina
-Land Rover;Range R.EVOQUE Pure  2.0 Aut. 5p;2012 Gasolina
+VW - VolksWagen;VIRTUS 1.6 MSI Flex 16V 4p Aut.;32000 Gasolina
+VW - VolksWagen;VIRTUS 1.6 MSI Flex 16V 4p Aut.;2021 Gasolina
+VW - VolksWagen;VIRTUS 1.6 MSI Flex 16V 4p Aut.;2020 Gasolina
+VW - VolksWagen;VIRTUS 1.6 MSI Flex 16V 4p Aut.;2019 Gasolina
+VW - VolksWagen;VOYAGE I MOTION COMF/Hghli.1.6 T.Flex 8V;2018 Gasolina
+VW - VolksWagen;VOYAGE I MOTION COMF/Hghli.1.6 T.Flex 8V;2017 Gasolina
+VW - VolksWagen;VOYAGE I MOTION COMF/Hghli.1.6 T.Flex 8V;2016 Gasolina
+VW - VolksWagen;VOYAGE I MOTION COMF/Hghli.1.6 T.Flex 8V;2015 Gasolina
+VW - VolksWagen;VOYAGE I MOTION COMF/Hghli.1.6 T.Flex 8V;2014 Gasolina
+VW - VolksWagen;VOYAGE I MOTION COMF/Hghli.1.6 T.Flex 8V;2013 Gasolina
+VW - VolksWagen;VOYAGE I MOTION COMF/Hghli.1.6 T.Flex 8V;2012 Gasolina
+VW - VolksWagen;VOYAGE I MOTION COMF/Hghli.1.6 T.Flex 8V;2011 Gasolina
+VW - VolksWagen;VOYAGE I MOTION COMF/Hghli.1.6 T.Flex 8V;2010 Gasolina
+VW - VolksWagen;Saveiro CROSSOVER 1.8 Mi 8V;2005 Gasolina
+VW - VolksWagen;up! cross 1.0 TSI Total Flex 12V 5p;2019 Gasolina
+VW - VolksWagen;up! cross 1.0 TSI Total Flex 12V 5p;2018 Gasolina
+VW - VolksWagen;up! cross 1.0 TSI Total Flex 12V 5p;2017 Gasolina
+VW - VolksWagen;up! cross 1.0 TSI Total Flex 12V 5p;2016 Gasolina
+VW - VolksWagen;up! move 1.0 T. Flex 12V 3p;2015 Gasolina
+VW - VolksWagen;up! move 1.0 T. Flex 12V 3p;2014 Gasolina
+VW - VolksWagen;TIGUAN Allspac Comf 250 TSI 1.4 Flex;32000 Gasolina
+VW - VolksWagen;TIGUAN Allspac Comf 250 TSI 1.4 Flex;2020 Gasolina
+VW - VolksWagen;TIGUAN Allspac Comf 250 TSI 1.4 Flex;2019 Gasolina
+VW - VolksWagen;TIGUAN Allspac Comf 250 TSI 1.4 Flex;2018 Gasolina
+VW - VolksWagen;Saveiro Pepper 1.6 Flex 8V CD;2019 Gasolina
+VW - VolksWagen;Saveiro Pepper 1.6 Flex 8V CD;2018 Gasolina
+VW - VolksWagen;VOYAGE Comfortline 1.0 T.Flex 12V 4p;2018 Gasolina
+VW - VolksWagen;VOYAGE Comfortline 1.0 T.Flex 12V 4p;2017 Gasolina
+VW - VolksWagen;Saveiro Pepper 1.6 Flex 8V CE;2019 Gasolina
+VW - VolksWagen;Saveiro Pepper 1.6 Flex 8V CE;2018 Gasolina
+VW - VolksWagen;SpaceCross I MOTION 1.6 Mi Total Flex 8V;2015 Gasolina
+VW - VolksWagen;SpaceCross I MOTION 1.6 Mi Total Flex 8V;2014 Gasolina
+VW - VolksWagen;SpaceCross I MOTION 1.6 Mi Total Flex 8V;2013 Gasolina
+VW - VolksWagen;SpaceCross I MOTION 1.6 Mi Total Flex 8V;2012 Gasolina
+VW - VolksWagen;VOYAGE GL 1.8 4p (Argentino);1995 Gasolina
+VW - VolksWagen;VOYAGE GL 1.8 4p (Argentino);1994 Gasolina
+VW - VolksWagen;VOYAGE GL 1.8 4p (Argentino);1993 Gasolina
+VW - VolksWagen;VOYAGE GL 1.8 4p (Argentino);1992 Gasolina
+VW - VolksWagen;VOYAGE GL 1.8 4p (Argentino);1991 Gasolina
+VW - VolksWagen;VOYAGE GL 1.8 4p (Argentino);1990 Gasolina
+VW - VolksWagen;VOYAGE 1.0/1.0 City Mi Total Flex 8V 4p;2016 Gasolina
+VW - VolksWagen;VOYAGE 1.0/1.0 City Mi Total Flex 8V 4p;2015 Gasolina
+VW - VolksWagen;VOYAGE 1.0/1.0 City Mi Total Flex 8V 4p;2014 Gasolina
+VW - VolksWagen;VOYAGE 1.0/1.0 City Mi Total Flex 8V 4p;2013 Gasolina
+VW - VolksWagen;VOYAGE 1.0/1.0 City Mi Total Flex 8V 4p;2012 Gasolina
+VW - VolksWagen;VOYAGE 1.0/1.0 City Mi Total Flex 8V 4p;2011 Gasolina
+VW - VolksWagen;VOYAGE 1.0/1.0 City Mi Total Flex 8V 4p;2010 Gasolina
+VW - VolksWagen;VOYAGE 1.0/1.0 City Mi Total Flex 8V 4p;2009 Gasolina
+VW - VolksWagen;Saveiro Super Surf 1.8 Mi Total Flex 8V;2008 Gasolina
+VW - VolksWagen;Saveiro Super Surf 1.8 Mi Total Flex 8V;2007 Gasolina
+VW - VolksWagen;Saveiro Super Surf 1.8 Mi Total Flex 8V;2005 Gasolina
+VW - VolksWagen;Polo 1.6 MSI Flex 16V 5p;32000 Gasolina
+VW - VolksWagen;Polo 1.6 MSI Flex 16V 5p;2021 Gasolina
+VW - VolksWagen;Polo 1.6 MSI Flex 16V 5p;2020 Gasolina
+VW - VolksWagen;Polo 1.6 MSI Flex 16V 5p;2019 Gasolina
+VW - VolksWagen;Polo 1.6 MSI Flex 16V 5p;2018 Gasolina
+VW - VolksWagen;Parati 1.0 Mi Summer 16v 4p;2002 Gasolina
+VW - VolksWagen;Parati 1.0 Mi Summer 16v 4p;2001 Gasolina
+VW - VolksWagen;up! move I MOTION 1.0 T. Flex 12V 3p;2015 Gasolina
+VW - VolksWagen;up! move I MOTION 1.0 T. Flex 12V 3p;2014 Gasolina
+VW - VolksWagen;Saveiro FUN 1.8 99cv/ City e S.Surf  1.6;2004 Gasolina
+VW - VolksWagen;Saveiro FUN 1.8 99cv/ City e S.Surf  1.6;2003 Gasolina
+VW - VolksWagen;Saveiro FUN 1.8 99cv/ City e S.Surf  1.6;2002 Gasolina
+VW - VolksWagen;Saveiro FUN 1.8 99cv/ City e S.Surf  1.6;2001 Gasolina
+VW - VolksWagen;VIRTUS Comfort. 200 TSI 1.0 Flex 12V Aut;32000 Gasolina
+VW - VolksWagen;VIRTUS Comfort. 200 TSI 1.0 Flex 12V Aut;2021 Gasolina
+VW - VolksWagen;VIRTUS Comfort. 200 TSI 1.0 Flex 12V Aut;2020 Gasolina
+VW - VolksWagen;VIRTUS Comfort. 200 TSI 1.0 Flex 12V Aut;2019 Gasolina
+VW - VolksWagen;VIRTUS Comfort. 200 TSI 1.0 Flex 12V Aut;2018 Gasolina
+VW - VolksWagen;up! high 1.0 Total Flex 12V 5p;2017 Gasolina
+VW - VolksWagen;up! high 1.0 Total Flex 12V 5p;2016 Gasolina
+VW - VolksWagen;up! high 1.0 Total Flex 12V 5p;2015 Gasolina
+VW - VolksWagen;up! high 1.0 Total Flex 12V 5p;2014 Gasolina
+VW - VolksWagen;up! high I MOTION 1.0 T. Flex 12V 5p;2017 Gasolina
+VW - VolksWagen;up! high I MOTION 1.0 T. Flex 12V 5p;2016 Gasolina
+VW - VolksWagen;up! high I MOTION 1.0 T. Flex 12V 5p;2015 Gasolina
+VW - VolksWagen;up! high I MOTION 1.0 T. Flex 12V 5p;2014 Gasolina
+VW - VolksWagen;Saveiro SURF 1.8 Mi Total Flex 2p;2009 Gasolina
+VW - VolksWagen;Saveiro SURF 1.8 Mi Total Flex 2p;2008 Gasolina
+VW - VolksWagen;Van 1.6 Mi (furgão);2002 Gasolina
+VW - VolksWagen;Van 1.6 Mi (furgão);2001 Gasolina
+VW - VolksWagen;Van 1.6 Mi (furgão);2000 Gasolina
+VW - VolksWagen;Van 1.6 Mi (furgão);1999 Gasolina
+VW - VolksWagen;Parati 1.6 Mi/ 1.6 Mi City;2004 Gasolina
+VW - VolksWagen;Parati 1.6 Mi/ 1.6 Mi City;2004 Álcool
+VW - VolksWagen;Parati 1.6 Mi/ 1.6 Mi City;2003 Gasolina
+VW - VolksWagen;Parati 1.6 Mi/ 1.6 Mi City;2003 Álcool
+VW - VolksWagen;Parati 1.6 Mi/ 1.6 Mi City;2002 Gasolina
+VW - VolksWagen;Parati 1.6 Mi/ 1.6 Mi City;2002 Álcool
+VW - VolksWagen;Parati 1.6 Mi/ 1.6 Mi City;2001 Gasolina
+VW - VolksWagen;Parati 1.6 Mi/ 1.6 Mi City;2001 Álcool
+VW - VolksWagen;Parati 1.6 Mi/ 1.6 Mi City;2000 Gasolina
+VW - VolksWagen;Parati 1.6 Mi/ 1.6 Mi City;2000 Álcool
+VW - VolksWagen;Passat Variant Turbo 2.0 FSI Tiptron. 5p;2015 Gasolina
+VW - VolksWagen;Passat Variant Turbo 2.0 FSI Tiptron. 5p;2014 Gasolina
+VW - VolksWagen;Passat Variant Turbo 2.0 FSI Tiptron. 5p;2013 Gasolina
+VW - VolksWagen;Passat Variant Turbo 2.0 FSI Tiptron. 5p;2012 Gasolina
+VW - VolksWagen;Passat Variant Turbo 2.0 FSI Tiptron. 5p;2011 Gasolina
+VW - VolksWagen;Passat Variant Turbo 2.0 FSI Tiptron. 5p;2010 Gasolina
+VW - VolksWagen;Passat Variant Turbo 2.0 FSI Tiptron. 5p;2009 Gasolina
+VW - VolksWagen;Passat Variant Turbo 2.0 FSI Tiptron. 5p;2008 Gasolina
+VW - VolksWagen;Passat Variant Turbo 2.0 FSI Tiptron. 5p;2007 Gasolina
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2015 Gasolina
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2014 Gasolina
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2013 Gasolina
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2012 Gasolina
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2011 Gasolina
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2010 Gasolina
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2004 Gasolina
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2004 Álcool
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2003 Gasolina
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2003 Álcool
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2002 Gasolina
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2002 Álcool
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2001 Gasolina
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2001 Álcool
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2000 Gasolina
+VW - VolksWagen;Saveiro 1.6 Mi/ 1.6 Mi Total Flex 8V;2000 Álcool
+VW - VolksWagen;up! SPEED 1.0 TSI T. Flex 12V 5p;2017 Gasolina
+VW - VolksWagen;up! SPEED 1.0 TSI T. Flex 12V 5p;2016 Gasolina
+VW - VolksWagen;up! move 1.0 TSI Total Flex 12V 5p;2019 Gasolina
+VW - VolksWagen;up! move 1.0 TSI Total Flex 12V 5p;2018 Gasolina
+VW - VolksWagen;up! move 1.0 TSI Total Flex 12V 5p;2017 Gasolina
+VW - VolksWagen;up! move 1.0 TSI Total Flex 12V 5p;2016 Gasolina
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1997 Gasolina
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1997 Álcool
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1996 Gasolina
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1996 Álcool
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1995 Gasolina
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1995 Álcool
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1994 Gasolina
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1993 Gasolina
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1992 Gasolina
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1991 Gasolina
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1990 Gasolina
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1989 Gasolina
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1988 Gasolina
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1987 Gasolina
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1986 Gasolina
+VW - VolksWagen;Santana CLi /CL /C 1.8/2.0 /SU 2.0 2p/4p;1985 Gasolina
+VW - VolksWagen;Passat Highline 2.0 TSI 220cv Tip.;32000 Gasolina
+VW - VolksWagen;Passat Highline 2.0 TSI 220cv Tip.;2019 Gasolina
+VW - VolksWagen;Passat Highline 2.0 TSI 220cv Tip.;2018 Gasolina
+VW - VolksWagen;Passat Highline 2.0 TSI 220cv Tip.;2017 Gasolina
+VW - VolksWagen;Passat Highline 2.0 TSI 220cv Tip.;2016 Gasolina

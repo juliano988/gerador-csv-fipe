@@ -75,7 +75,7 @@ async function listarCarros() {
                                                     anosObj = anos;
 
                                                     let time = new Date().getTime();
-                                                    while ((new Date().getTime() - time) <= 4000) { }
+                                                    while ((new Date().getTime() - time) <= 500) { }
 
                                                     for (const key3 in anosObj) {
                                                         if (Object.hasOwnProperty.call(anosObj, key3)) {
