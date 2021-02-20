@@ -9,8 +9,8 @@ let marcasObj = {};
 let modelosObj = {};
 let anosObj = {};
 
-const marcaDesejada = read.sync('variaveis/marcaDesejada.txt', 'utf8').trim().replace(/\n/g,'|');
-const modeloDesejado = read.sync('variaveis/modeloDesejado.txt', 'utf8').trim().replace(/\n/g,'|');
+const marcaDesejada = read.sync('variaveis/marcaDesejada.txt', 'utf8').trim().replace(/[^ ]\n/g,'|').replace(/\(/g,'\\(').replace(/\)/g,'\\)').replace(/\+/g,'\\+');
+const modeloDesejado = read.sync('variaveis/modeloDesejado.txt', 'utf8').trim().replace(/[^ ]\n/g,'|').replace(/\(/g,'\\(').replace(/\)/g,'\\)').replace(/\+/g,'\\+');
 
 async function listarCarros() {
     console.clear();

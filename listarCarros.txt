@@ -1,0 +1,43 @@
+MARCA;MODELO;ANO
+Land Rover;Freelander HSE 2.5 V6 24V 177cv 5p;2006 Gasolina
+Land Rover;Freelander HSE 2.5 V6 24V 177cv 5p;2005 Gasolina
+Land Rover;Freelander HSE 2.5 V6 24V 177cv 5p;2004 Gasolina
+Land Rover;Freelander HSE 2.5 V6 24V 177cv 5p;2003 Gasolina
+Land Rover;Range R. VELAR S 3.0 4x4 V6 380cv Aut.;2018 Gasolina
+Land Rover;Range R. VELAR S 2.0 4x4 TB 250cv Aut.;2018 Gasolina
+Land Rover;Range Rover EVOQUE SE 2.0 Diesel Aut.;2019 Diesel
+Land Rover;Range Rover EVOQUE SE 2.0 Diesel Aut.;2018 Diesel
+Land Rover;Range Rover EVOQUE SE 2.0 Diesel Aut.;2017 Diesel
+Land Rover;Range Rover EVOQUE SE 2.0 Diesel Aut.;2016 Diesel
+Land Rover;Range Rover Sport 3.6 TDV8 272cv Diesel;2011 Diesel
+Land Rover;Range Rover Sport 3.6 TDV8 272cv Diesel;2010 Diesel
+Land Rover;Range Rover Sport 3.6 TDV8 272cv Diesel;2009 Diesel
+Land Rover;Range Rover Sport 3.6 TDV8 272cv Diesel;2008 Diesel
+Land Rover;Range Rover Sport 3.6 TDV8 272cv Diesel;2007 Diesel
+Land Rover;Discovery3 S 2.7 4x4 TDI Diesel Aut.;2009 Diesel
+Land Rover;Discovery3 S 2.7 4x4 TDI Diesel Aut.;2008 Diesel
+Land Rover;Discovery3 S 2.7 4x4 TDI Diesel Aut.;2007 Diesel
+Land Rover;Discovery3 S 2.7 4x4 TDI Diesel Aut.;2006 Diesel
+Land Rover;Discovery3 S 2.7 4x4 TDI Diesel Aut.;2005 Diesel
+Land Rover;Range R. EVO HSE Si4 R-Dyn.2.0 300cv Aut;32000 Gasolina
+Land Rover;Range R. EVO HSE Si4 R-Dyn.2.0 300cv Aut;2020 Gasolina
+Land Rover;Range R.EVOQUE Prestige Tech 2.0 Aut 5p;2015 Gasolina
+Land Rover;Range R.EVOQUE Prestige Tech 2.0 Aut 5p;2014 Gasolina
+Land Rover;Range R.EVOQUE Prestige Tech 2.0 Aut 5p;2013 Gasolina
+Land Rover;Range R.EVOQUE Prestige Tech 2.0 Aut 5p;2012 Gasolina
+Land Rover;Range Rover Sport HSE 4.4 V8 32V 295cv;2007 Gasolina
+Land Rover;Range Rover Sport HSE 4.4 V8 32V 295cv;2006 Gasolina
+Land Rover;Range Rover Sport HSE 4.4 V8 32V 295cv;2005 Gasolina
+Land Rover;Freelander2 Si4 S 2.0 240cv Aut. 5p;2015 Gasolina
+Land Rover;Freelander2 Si4 S 2.0 240cv Aut. 5p;2014 Gasolina
+Land Rover;Freelander2 Si4 S 2.0 240cv Aut. 5p;2013 Gasolina
+Land Rover;Range R.EVOQUE Prestige 2.2 5p Dies.;2015 Diesel
+Land Rover;Range R.EVOQUE Prestige 2.2 5p Dies.;2014 Diesel
+Land Rover;Discovery3 S 4.0 V6 4x4 215cv Aut.;2009 Gasolina
+Land Rover;Discovery3 S 4.0 V6 4x4 215cv Aut.;2008 Gasolina
+Land Rover;Discovery3 S 4.0 V6 4x4 215cv Aut.;2007 Gasolina
+Land Rover;Discovery3 S 4.0 V6 4x4 215cv Aut.;2006 Gasolina
+Land Rover;Range R.EVOQUE Pure  2.0 Aut. 5p;2015 Gasolina
+Land Rover;Range R.EVOQUE Pure  2.0 Aut. 5p;2014 Gasolina
+Land Rover;Range R.EVOQUE Pure  2.0 Aut. 5p;2013 Gasolina
+Land Rover;Range R.EVOQUE Pure  2.0 Aut. 5p;2012 Gasolina
