@@ -1,13 +1,13 @@
 # Gerador de CSV com os carros da tabela FIPE
 
-Este é um simples projeto com o objtivo de listar os carros da tabela FIPEcom o objetivo de se obter uma base de dados própria , sem a necessidade de depender da estabilidade de APIs externas.
+Este é um simples projeto com o objetivo de listar os carros da tabela FIPE com o objetivo de se obter uma base de dados própria, sem a necessidade de depender da estabilidade de APIs externas.
 
 A API utilizada para a extração de dados pode ser encontrada neste link:
 https://deividfortuna.github.io/fipe/
 
 #### Utilização:
 
-1. Abra a pasta *variaveis*;
+1. Abra a pasta *variáveis*;
 2. Edite os arquivos *marcaDesejada.txt* e *modeloDesejado.txt* com os nomes das marcas e modelos desejados em se obter, colocando cada item em uma linha. Exemplo:
 
 >```
@@ -44,6 +44,6 @@ https://deividfortuna.github.io/fipe/
 
 #### Considerações finais:
 
-Como vocês podem perceber, este projeto foi descontinuado por mim no momento em que ele solucionou o meu problema na época, mas como acredito que ele tem algum potencia de ser continuado, por isso estou disponibilizando ele no GitHub.
+Como vocês podem perceber, este projeto foi descontinuado por mim no momento em que ele solucionou o meu problema na época, mas como acredito que ele tem algum potencial de ser continuado, por isso estou disponibilizando ele no GitHub.
 
 Espero ter ajudado alguém.
